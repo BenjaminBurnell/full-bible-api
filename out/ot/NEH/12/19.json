@@ -1,0 +1,113 @@
+{
+  "reference": "NEH 12:19",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 12,
+  "verse": 19,
+  "tokens": [
+    {
+      "surface": "וּ/לְ/יוֹיָרִ֣יב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/l/3114",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jojarib, the name of four Israelites",
+      "translation": "Jojarib, the name of four Israelites"
+    },
+    {
+      "surface": "וּ/לְ/יוֹיָרִ֣יב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/l/3114",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jojarib, the name of four Israelites",
+      "translation": "Jojarib, the name of four Israelites"
+    },
+    {
+      "surface": "מַתְּנַ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4982",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mattenai, the name of three Israelites",
+      "translation": "Mattenai, the name of three Israelites"
+    },
+    {
+      "surface": "מַתְּנַ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4982",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mattenai, the name of three Israelites",
+      "translation": "Mattenai, the name of three Israelites"
+    },
+    {
+      "surface": "לִֽ/ידַֽעְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/3048",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jedajah, the name of two Israelites",
+      "translation": "Jedajah, the name of two Israelites"
+    },
+    {
+      "surface": "לִֽ/ידַֽעְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/3048",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jedajah, the name of two Israelites",
+      "translation": "Jedajah, the name of two Israelites"
+    },
+    {
+      "surface": "עֻזִּֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5813",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Uzzi, the name of six Israelites",
+      "translation": "Uzzi, the name of six Israelites"
+    },
+    {
+      "surface": "עֻזִּֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5813",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Uzzi, the name of six Israelites",
+      "translation": "Uzzi, the name of six Israelites"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "reference": "JOS 18:23",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 18,
+  "verse": 23,
+  "tokens": [
+    {
+      "surface": "וְ/הָ/עַוִּ֥ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Np",
+      "strong": "c/d/5761",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Avvim (as inhabited by Avvites), a place in Palestine (with the article prefix)",
+      "translation": "Avvim (as inhabited by Avvites), a place in Palestine (with the article prefix)"
+    },
+    {
+      "surface": "וְ/הָ/עַוִּ֥ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Np",
+      "strong": "c/d/5761",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Avvim (as inhabited by Avvites), a place in Palestine (with the article prefix)",
+      "translation": "Avvim (as inhabited by Avvites), a place in Palestine (with the article prefix)"
+    },
+    {
+      "surface": "וְ/הַ/פָּרָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Np",
+      "strong": "c/d/6511",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Parah, a place in Palestine",
+      "translation": "Parah, a place in Palestine"
+    },
+    {
+      "surface": "וְ/הַ/פָּרָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Np",
+      "strong": "c/d/6511",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Parah, a place in Palestine",
+      "translation": "Parah, a place in Palestine"
+    },
+    {
+      "surface": "וְ/עָפְרָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6084",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ophrah, the name of an Israelite and of two places in Palestine",
+      "translation": "Ophrah, the name of an Israelite and of two places in Palestine"
+    },
+    {
+      "surface": "וְ/עָפְרָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6084",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ophrah, the name of an Israelite and of two places in Palestine",
+      "translation": "Ophrah, the name of an Israelite and of two places in Palestine"
+    }
+  ]
+}

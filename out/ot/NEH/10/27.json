@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:27",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 27,
+  "tokens": [
+    {
+      "surface": "וַ/אֲחִיָּ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/281",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achijah, the name of nine Israelites",
+      "translation": "Achijah, the name of nine Israelites"
+    },
+    {
+      "surface": "וַ/אֲחִיָּ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/281",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achijah, the name of nine Israelites",
+      "translation": "Achijah, the name of nine Israelites"
+    },
+    {
+      "surface": "חָנָ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2605",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chanan, the name of seven Israelites",
+      "translation": "Chanan, the name of seven Israelites"
+    },
+    {
+      "surface": "חָנָ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2605",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chanan, the name of seven Israelites",
+      "translation": "Chanan, the name of seven Israelites"
+    },
+    {
+      "surface": "עָנָֽן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6052",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Anan, an Israelite",
+      "translation": "Anan, an Israelite"
+    },
+    {
+      "surface": "עָנָֽן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6052",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Anan, an Israelite",
+      "translation": "Anan, an Israelite"
+    }
+  ]
+}

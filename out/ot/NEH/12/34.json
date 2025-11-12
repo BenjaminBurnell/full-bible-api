@@ -1,0 +1,113 @@
+{
+  "reference": "NEH 12:34",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 12,
+  "verse": 34,
+  "tokens": [
+    {
+      "surface": "יְהוּדָה֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3063",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jehudah (or Judah), the name of five Israelites; also of the tribe descended from the first, and of its territory",
+      "translation": "Jehudah (or Judah), the name of five Israelites; also of the tribe descended from the first, and of its territory"
+    },
+    {
+      "surface": "יְהוּדָה֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3063",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jehudah (or Judah), the name of five Israelites; also of the tribe descended from the first, and of its territory",
+      "translation": "Jehudah (or Judah), the name of five Israelites; also of the tribe descended from the first, and of its territory"
+    },
+    {
+      "surface": "וּ/בִנְיָמִ֔ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1144",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory",
+      "translation": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory"
+    },
+    {
+      "surface": "וּ/בִנְיָמִ֔ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1144",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory",
+      "translation": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory"
+    },
+    {
+      "surface": "וּֽ/שְׁמַֽעְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/8098",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shemajah, the name of twenty-five Israelites",
+      "translation": "Shemajah, the name of twenty-five Israelites"
+    },
+    {
+      "surface": "וּֽ/שְׁמַֽעְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/8098",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shemajah, the name of twenty-five Israelites",
+      "translation": "Shemajah, the name of twenty-five Israelites"
+    },
+    {
+      "surface": "וְ/יִרְמְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3414",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jirmejah, the name of eight or nine Israelites",
+      "translation": "Jirmejah, the name of eight or nine Israelites"
+    },
+    {
+      "surface": "וְ/יִרְמְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3414",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jirmejah, the name of eight or nine Israelites",
+      "translation": "Jirmejah, the name of eight or nine Israelites"
+    }
+  ]
+}

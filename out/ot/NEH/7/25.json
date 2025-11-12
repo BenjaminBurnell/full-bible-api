@@ -1,0 +1,113 @@
+{
+  "reference": "NEH 7:25",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 7,
+  "verse": 25,
+  "tokens": [
+    {
+      "surface": "בְּנֵ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc",
+      "strong": "1121 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc",
+      "strong": "1121 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "גִבְע֖וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1391",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gibon, a place in Palestine",
+      "translation": "Gibon, a place in Palestine"
+    },
+    {
+      "surface": "גִבְע֖וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1391",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gibon, a place in Palestine",
+      "translation": "Gibon, a place in Palestine"
+    },
+    {
+      "surface": "תִּשְׁעִ֥ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcbpa",
+      "strong": "8673",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "ninety",
+      "translation": "ninety"
+    },
+    {
+      "surface": "תִּשְׁעִ֥ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcbpa",
+      "strong": "8673",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "ninety",
+      "translation": "ninety"
+    },
+    {
+      "surface": "וַ/חֲמִשָּֽׁה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Acmsa",
+      "strong": "c/2568",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "five",
+      "translation": "five"
+    },
+    {
+      "surface": "וַ/חֲמִשָּֽׁה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Acmsa",
+      "strong": "c/2568",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "five",
+      "translation": "five"
+    }
+  ]
+}

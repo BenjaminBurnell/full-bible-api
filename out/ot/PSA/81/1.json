@@ -1,0 +1,113 @@
+{
+  "reference": "PSA 81:1",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 81,
+  "verse": 1,
+  "tokens": [
+    {
+      "surface": "לַ/מְנַצֵּ֬חַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Vprmsa",
+      "strong": "l/5329",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to glitter from afar, i.e. to be eminent (as a superintendent, especially of the Temple services and its music); to be permanent",
+      "translation": "properly, to glitter from afar, i.e. to be eminent (as a superintendent, especially of the Temple services and its music); to be permanent"
+    },
+    {
+      "surface": "לַ/מְנַצֵּ֬חַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Vprmsa",
+      "strong": "l/5329",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to glitter from afar, i.e. to be eminent (as a superintendent, especially of the Temple services and its music); to be permanent",
+      "translation": "properly, to glitter from afar, i.e. to be eminent (as a superintendent, especially of the Temple services and its music); to be permanent"
+    },
+    {
+      "surface": "עַֽל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR",
+      "strong": "5921 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications",
+      "translation": "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications"
+    },
+    {
+      "surface": "עַֽל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR",
+      "strong": "5921 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications",
+      "translation": "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications"
+    },
+    {
+      "surface": "הַ/גִּתִּ֬ית",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncfsa",
+      "strong": "d/1665",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Gittite harp",
+      "translation": "a Gittite harp"
+    },
+    {
+      "surface": "הַ/גִּתִּ֬ית",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncfsa",
+      "strong": "d/1665",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Gittite harp",
+      "translation": "a Gittite harp"
+    },
+    {
+      "surface": "לְ/אָסָֽף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/623",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Asaph, the name of three Israelites, and of the family of the first",
+      "translation": "Asaph, the name of three Israelites, and of the family of the first"
+    },
+    {
+      "surface": "לְ/אָסָֽף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/623",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Asaph, the name of three Israelites, and of the family of the first",
+      "translation": "Asaph, the name of three Israelites, and of the family of the first"
+    }
+  ]
+}

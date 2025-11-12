@@ -1,0 +1,113 @@
+{
+  "reference": "PSA 106:12",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 106,
+  "verse": 12,
+  "tokens": [
+    {
+      "surface": "וַ/יַּאֲמִ֥ינוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vhw3mp",
+      "strong": "c/539",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to build up or support; to foster as a parent or nurse; figuratively to render (or be) firm or faithful, to trust or believe, to be permanent or quiet; morally to be true or certain;",
+      "translation": "properly, to build up or support; to foster as a parent or nurse; figuratively to render (or be) firm or faithful, to trust or believe, to be permanent or quiet; morally to be true or certain;"
+    },
+    {
+      "surface": "וַ/יַּאֲמִ֥ינוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vhw3mp",
+      "strong": "c/539",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to build up or support; to foster as a parent or nurse; figuratively to render (or be) firm or faithful, to trust or believe, to be permanent or quiet; morally to be true or certain;",
+      "translation": "properly, to build up or support; to foster as a parent or nurse; figuratively to render (or be) firm or faithful, to trust or believe, to be permanent or quiet; morally to be true or certain;"
+    },
+    {
+      "surface": "בִ/דְבָרָ֑י/ו",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpc/Sp3ms",
+      "strong": "b/1697",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a word; by implication, a matter (as spoken of) or thing; adverbially, a cause",
+      "translation": "a word; by implication, a matter (as spoken of) or thing; adverbially, a cause"
+    },
+    {
+      "surface": "בִ/דְבָרָ֑י/ו",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpc/Sp3ms",
+      "strong": "b/1697",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a word; by implication, a matter (as spoken of) or thing; adverbially, a cause",
+      "translation": "a word; by implication, a matter (as spoken of) or thing; adverbially, a cause"
+    },
+    {
+      "surface": "יָ֝שִׁ֗ירוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi3mp",
+      "strong": "7891",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to sing",
+      "translation": "to sing"
+    },
+    {
+      "surface": "יָ֝שִׁ֗ירוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi3mp",
+      "strong": "7891",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to sing",
+      "translation": "to sing"
+    },
+    {
+      "surface": "תְּהִלָּתֽ/וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsc/Sp3ms",
+      "strong": "8416",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "laudation; specifically (concretely) a hymn",
+      "translation": "laudation; specifically (concretely) a hymn"
+    },
+    {
+      "surface": "תְּהִלָּתֽ/וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsc/Sp3ms",
+      "strong": "8416",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "laudation; specifically (concretely) a hymn",
+      "translation": "laudation; specifically (concretely) a hymn"
+    }
+  ]
+}

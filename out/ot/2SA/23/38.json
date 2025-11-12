@@ -1,0 +1,113 @@
+{
+  "reference": "2SA 23:38",
+  "book": "2SA",
+  "book_code": "2SA",
+  "chapter": 23,
+  "verse": 38,
+  "tokens": [
+    {
+      "surface": "עִירָא֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5896",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ira, the name of three Israelites",
+      "translation": "Ira, the name of three Israelites"
+    },
+    {
+      "surface": "עִירָא֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5896",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ira, the name of three Israelites",
+      "translation": "Ira, the name of three Israelites"
+    },
+    {
+      "surface": "הַ/יִּתְרִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/3505",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Jithrite or descendant of Jether",
+      "translation": "a Jithrite or descendant of Jether"
+    },
+    {
+      "surface": "הַ/יִּתְרִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/3505",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Jithrite or descendant of Jether",
+      "translation": "a Jithrite or descendant of Jether"
+    },
+    {
+      "surface": "גָּרֵ֖ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1619",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gareb, the name of an Israelite, also of a hill near Jerusalem",
+      "translation": "Gareb, the name of an Israelite, also of a hill near Jerusalem"
+    },
+    {
+      "surface": "גָּרֵ֖ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1619",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gareb, the name of an Israelite, also of a hill near Jerusalem",
+      "translation": "Gareb, the name of an Israelite, also of a hill near Jerusalem"
+    },
+    {
+      "surface": "הַ/יִּתְרִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/3505",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Jithrite or descendant of Jether",
+      "translation": "a Jithrite or descendant of Jether"
+    },
+    {
+      "surface": "הַ/יִּתְרִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/3505",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Jithrite or descendant of Jether",
+      "translation": "a Jithrite or descendant of Jether"
+    }
+  ]
+}

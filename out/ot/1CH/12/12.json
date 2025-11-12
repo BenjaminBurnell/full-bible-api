@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 12:12",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 12,
+  "verse": 12,
+  "tokens": [
+    {
+      "surface": "עַתַּי֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6262",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Attai, the name of three Israelites",
+      "translation": "Attai, the name of three Israelites"
+    },
+    {
+      "surface": "עַתַּי֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6262",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Attai, the name of three Israelites",
+      "translation": "Attai, the name of three Israelites"
+    },
+    {
+      "surface": "הַ/שִּׁשִּׁ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/8345",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "sixth, ordinal or (feminine) fractional",
+      "translation": "sixth, ordinal or (feminine) fractional"
+    },
+    {
+      "surface": "הַ/שִּׁשִּׁ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/8345",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "sixth, ordinal or (feminine) fractional",
+      "translation": "sixth, ordinal or (feminine) fractional"
+    },
+    {
+      "surface": "אֱלִיאֵ֖ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "447",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eliel, the name of nine Israelites",
+      "translation": "Eliel, the name of nine Israelites"
+    },
+    {
+      "surface": "אֱלִיאֵ֖ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "447",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eliel, the name of nine Israelites",
+      "translation": "Eliel, the name of nine Israelites"
+    },
+    {
+      "surface": "הַ/שְּׁבִעִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/7637",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "seventh",
+      "translation": "seventh"
+    },
+    {
+      "surface": "הַ/שְּׁבִעִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/7637",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "seventh",
+      "translation": "seventh"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "reference": "SNG 7:11",
+  "book": "SNG",
+  "book_code": "SNG",
+  "chapter": 7,
+  "verse": 11,
+  "tokens": [
+    {
+      "surface": "אֲנִ֣י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HPp1cs",
+      "strong": "589",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "I",
+      "translation": "I"
+    },
+    {
+      "surface": "אֲנִ֣י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HPp1cs",
+      "strong": "589",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "I",
+      "translation": "I"
+    },
+    {
+      "surface": "לְ/דוֹדִ֔/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmsc/Sp1cs",
+      "strong": "l/1730",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(figuratively) to love; by implication, a love-token, lover, friend; specifically an uncle",
+      "translation": "(figuratively) to love; by implication, a love-token, lover, friend; specifically an uncle"
+    },
+    {
+      "surface": "לְ/דוֹדִ֔/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmsc/Sp1cs",
+      "strong": "l/1730",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(figuratively) to love; by implication, a love-token, lover, friend; specifically an uncle",
+      "translation": "(figuratively) to love; by implication, a love-token, lover, friend; specifically an uncle"
+    },
+    {
+      "surface": "וְ/עָלַ֖/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Sp1cs",
+      "strong": "c/5921 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications",
+      "translation": "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications"
+    },
+    {
+      "surface": "וְ/עָלַ֖/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Sp1cs",
+      "strong": "c/5921 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications",
+      "translation": "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications"
+    },
+    {
+      "surface": "תְּשׁוּקָתֽ/וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsc/Sp3ms",
+      "strong": "8669",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a longing",
+      "translation": "a longing"
+    },
+    {
+      "surface": "תְּשׁוּקָתֽ/וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsc/Sp3ms",
+      "strong": "8669",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a longing",
+      "translation": "a longing"
+    }
+  ]
+}

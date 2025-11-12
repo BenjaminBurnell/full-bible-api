@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 11:33",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 11,
+  "verse": 33,
+  "tokens": [
+    {
+      "surface": "חָצ֥וֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2674",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chatsor, the name (thus simply) of two places in Palestine and of one in Arabia",
+      "translation": "Chatsor, the name (thus simply) of two places in Palestine and of one in Arabia"
+    },
+    {
+      "surface": "חָצ֥וֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2674",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chatsor, the name (thus simply) of two places in Palestine and of one in Arabia",
+      "translation": "Chatsor, the name (thus simply) of two places in Palestine and of one in Arabia"
+    },
+    {
+      "surface": "רָמָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7414",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ramah, the name of four places in Palestine",
+      "translation": "Ramah, the name of four places in Palestine"
+    },
+    {
+      "surface": "רָמָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7414",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ramah, the name of four places in Palestine",
+      "translation": "Ramah, the name of four places in Palestine"
+    },
+    {
+      "surface": "גִּתָּֽיִם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1664",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gittajim, a place in Palestine",
+      "translation": "Gittajim, a place in Palestine"
+    },
+    {
+      "surface": "גִּתָּֽיִם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1664",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gittajim, a place in Palestine",
+      "translation": "Gittajim, a place in Palestine"
+    }
+  ]
+}

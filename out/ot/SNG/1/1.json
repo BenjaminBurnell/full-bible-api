@@ -1,0 +1,113 @@
+{
+  "reference": "SNG 1:1",
+  "book": "SNG",
+  "book_code": "SNG",
+  "chapter": 1,
+  "verse": 1,
+  "tokens": [
+    {
+      "surface": "שִׁ֥יר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcbsc",
+      "strong": "7892 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a song; abstractly, singing",
+      "translation": "a song; abstractly, singing"
+    },
+    {
+      "surface": "שִׁ֥יר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcbsc",
+      "strong": "7892 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a song; abstractly, singing",
+      "translation": "a song; abstractly, singing"
+    },
+    {
+      "surface": "הַ/שִּׁירִ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncbpa",
+      "strong": "d/7892 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a song; abstractly, singing",
+      "translation": "a song; abstractly, singing"
+    },
+    {
+      "surface": "הַ/שִּׁירִ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncbpa",
+      "strong": "d/7892 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a song; abstractly, singing",
+      "translation": "a song; abstractly, singing"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTr",
+      "strong": "834 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "who, which, what, that; also (as an adverb and a conjunction) when, where, how, because, in order that, etc.",
+      "translation": "who, which, what, that; also (as an adverb and a conjunction) when, where, how, because, in order that, etc."
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTr",
+      "strong": "834 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "who, which, what, that; also (as an adverb and a conjunction) when, where, how, because, in order that, etc.",
+      "translation": "who, which, what, that; also (as an adverb and a conjunction) when, where, how, because, in order that, etc."
+    },
+    {
+      "surface": "לִ/שְׁלֹמֹֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/8010",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shelomah, David's successor",
+      "translation": "Shelomah, David's successor"
+    },
+    {
+      "surface": "לִ/שְׁלֹמֹֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/8010",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shelomah, David's successor",
+      "translation": "Shelomah, David's successor"
+    }
+  ]
+}

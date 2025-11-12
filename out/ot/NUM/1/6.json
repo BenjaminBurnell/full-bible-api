@@ -1,0 +1,113 @@
+{
+  "reference": "NUM 1:6",
+  "book": "NUM",
+  "book_code": "NUM",
+  "chapter": 1,
+  "verse": 6,
+  "tokens": [
+    {
+      "surface": "לְ/שִׁמְע֕וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/8095",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shimon, one of Jacob's sons, also the tribe descended from him",
+      "translation": "Shimon, one of Jacob's sons, also the tribe descended from him"
+    },
+    {
+      "surface": "לְ/שִׁמְע֕וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/8095",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shimon, one of Jacob's sons, also the tribe descended from him",
+      "translation": "Shimon, one of Jacob's sons, also the tribe descended from him"
+    },
+    {
+      "surface": "שְׁלֻמִיאֵ֖ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8017",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shelumiel, an Israelite",
+      "translation": "Shelumiel, an Israelite"
+    },
+    {
+      "surface": "שְׁלֻמִיאֵ֖ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8017",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shelumiel, an Israelite",
+      "translation": "Shelumiel, an Israelite"
+    },
+    {
+      "surface": "בֶּן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "1121 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "בֶּן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "1121 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "צוּרִֽישַׁדָּֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6701",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tsurishaddai, an Israelite",
+      "translation": "Tsurishaddai, an Israelite"
+    },
+    {
+      "surface": "צוּרִֽישַׁדָּֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6701",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tsurishaddai, an Israelite",
+      "translation": "Tsurishaddai, an Israelite"
+    }
+  ]
+}

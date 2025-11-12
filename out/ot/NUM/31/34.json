@@ -1,0 +1,113 @@
+{
+  "reference": "NUM 31:34",
+  "book": "NUM",
+  "book_code": "NUM",
+  "chapter": 31,
+  "verse": 34,
+  "tokens": [
+    {
+      "surface": "וַ/חֲמֹרִ֕ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncbpa",
+      "strong": "c/2543",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a male ass (from its dun red)",
+      "translation": "a male ass (from its dun red)"
+    },
+    {
+      "surface": "וַ/חֲמֹרִ֕ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncbpa",
+      "strong": "c/2543",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a male ass (from its dun red)",
+      "translation": "a male ass (from its dun red)"
+    },
+    {
+      "surface": "אֶחָ֥ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcmsa",
+      "strong": "259",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, united, i.e. one; or (as an ordinal) first",
+      "translation": "properly, united, i.e. one; or (as an ordinal) first"
+    },
+    {
+      "surface": "אֶחָ֥ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcmsa",
+      "strong": "259",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, united, i.e. one; or (as an ordinal) first",
+      "translation": "properly, united, i.e. one; or (as an ordinal) first"
+    },
+    {
+      "surface": "וְ/שִׁשִּׁ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Acbpa",
+      "strong": "c/8346",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "sixty",
+      "translation": "sixty"
+    },
+    {
+      "surface": "וְ/שִׁשִּׁ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Acbpa",
+      "strong": "c/8346",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "sixty",
+      "translation": "sixty"
+    },
+    {
+      "surface": "אָֽלֶף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcbsa",
+      "strong": "505",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "hence (the ox's head being the first letter of the alphabet, and this eventually used as a numeral) a thousand",
+      "translation": "hence (the ox's head being the first letter of the alphabet, and this eventually used as a numeral) a thousand"
+    },
+    {
+      "surface": "אָֽלֶף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcbsa",
+      "strong": "505",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "hence (the ox's head being the first letter of the alphabet, and this eventually used as a numeral) a thousand",
+      "translation": "hence (the ox's head being the first letter of the alphabet, and this eventually used as a numeral) a thousand"
+    }
+  ]
+}

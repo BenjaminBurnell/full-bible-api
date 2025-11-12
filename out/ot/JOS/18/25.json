@@ -1,0 +1,87 @@
+{
+  "reference": "JOS 18:25",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 18,
+  "verse": 25,
+  "tokens": [
+    {
+      "surface": "גִּבְע֥וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1391",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gibon, a place in Palestine",
+      "translation": "Gibon, a place in Palestine"
+    },
+    {
+      "surface": "גִּבְע֥וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1391",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gibon, a place in Palestine",
+      "translation": "Gibon, a place in Palestine"
+    },
+    {
+      "surface": "וְ/הָֽ/רָמָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Np",
+      "strong": "c/d/7414",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ramah, the name of four places in Palestine",
+      "translation": "Ramah, the name of four places in Palestine"
+    },
+    {
+      "surface": "וְ/הָֽ/רָמָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Np",
+      "strong": "c/d/7414",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ramah, the name of four places in Palestine",
+      "translation": "Ramah, the name of four places in Palestine"
+    },
+    {
+      "surface": "וּ/בְאֵרֽוֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/881",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Beeroth, a place in Palestine",
+      "translation": "Beeroth, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְאֵרֽוֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/881",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Beeroth, a place in Palestine",
+      "translation": "Beeroth, a place in Palestine"
+    }
+  ]
+}

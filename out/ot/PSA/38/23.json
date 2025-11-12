@@ -1,0 +1,113 @@
+{
+  "reference": "PSA 38:23",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 38,
+  "verse": 23,
+  "tokens": [
+    {
+      "surface": "ח֥וּשָׁ/ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqv2ms/Sh",
+      "strong": "2363 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to hurry; figuratively, to be eager with excitement or enjoyment",
+      "translation": "to hurry; figuratively, to be eager with excitement or enjoyment"
+    },
+    {
+      "surface": "ח֥וּשָׁ/ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqv2ms/Sh",
+      "strong": "2363 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to hurry; figuratively, to be eager with excitement or enjoyment",
+      "translation": "to hurry; figuratively, to be eager with excitement or enjoyment"
+    },
+    {
+      "surface": "לְ/עֶזְרָתִ֑/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfsc/Sp1cs",
+      "strong": "l/5833",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "aid",
+      "translation": "aid"
+    },
+    {
+      "surface": "לְ/עֶזְרָתִ֑/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfsc/Sp1cs",
+      "strong": "l/5833",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "aid",
+      "translation": "aid"
+    },
+    {
+      "surface": "אֲ֝דֹנָ֗/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc/Sp1cs",
+      "strong": "136",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the Lord (used as a proper name of God only)",
+      "translation": "the Lord (used as a proper name of God only)"
+    },
+    {
+      "surface": "אֲ֝דֹנָ֗/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc/Sp1cs",
+      "strong": "136",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the Lord (used as a proper name of God only)",
+      "translation": "the Lord (used as a proper name of God only)"
+    },
+    {
+      "surface": "תְּשׁוּעָתִֽ/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsc/Sp1cs",
+      "strong": "8668",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "rescue (literal or figurative, persons, national or spiritual)",
+      "translation": "rescue (literal or figurative, persons, national or spiritual)"
+    },
+    {
+      "surface": "תְּשׁוּעָתִֽ/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsc/Sp1cs",
+      "strong": "8668",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "rescue (literal or figurative, persons, national or spiritual)",
+      "translation": "rescue (literal or figurative, persons, national or spiritual)"
+    }
+  ]
+}

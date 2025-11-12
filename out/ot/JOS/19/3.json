@@ -1,0 +1,113 @@
+{
+  "reference": "JOS 19:3",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 19,
+  "verse": 3,
+  "tokens": [
+    {
+      "surface": "וַ/חֲצַ֥ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2705+",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chatsar-Shual, a place in Palestine",
+      "translation": "Chatsar-Shual, a place in Palestine"
+    },
+    {
+      "surface": "וַ/חֲצַ֥ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2705+",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chatsar-Shual, a place in Palestine",
+      "translation": "Chatsar-Shual, a place in Palestine"
+    },
+    {
+      "surface": "שׁוּעָ֛ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2705",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chatsar-Shual, a place in Palestine",
+      "translation": "Chatsar-Shual, a place in Palestine"
+    },
+    {
+      "surface": "שׁוּעָ֛ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2705",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chatsar-Shual, a place in Palestine",
+      "translation": "Chatsar-Shual, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בָלָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1088",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Balah, a place in Palestine",
+      "translation": "Balah, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בָלָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1088",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Balah, a place in Palestine",
+      "translation": "Balah, a place in Palestine"
+    },
+    {
+      "surface": "וָ/עָֽצֶם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6107",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Etsem, a place in Palestine",
+      "translation": "Etsem, a place in Palestine"
+    },
+    {
+      "surface": "וָ/עָֽצֶם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6107",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Etsem, a place in Palestine",
+      "translation": "Etsem, a place in Palestine"
+    }
+  ]
+}

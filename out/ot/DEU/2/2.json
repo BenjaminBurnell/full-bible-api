@@ -1,0 +1,113 @@
+{
+  "reference": "DEU 2:2",
+  "book": "DEU",
+  "book_code": "DEU",
+  "chapter": 2,
+  "verse": 2,
+  "tokens": [
+    {
+      "surface": "וַ/יֹּ֥אמֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/559",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    },
+    {
+      "surface": "וַ/יֹּ֥אמֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/559",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3068",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God",
+      "translation": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3068",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God",
+      "translation": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God"
+    },
+    {
+      "surface": "אֵלַ֥/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Sp1cs",
+      "strong": "413",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "near, with or among; often in general, to",
+      "translation": "near, with or among; often in general, to"
+    },
+    {
+      "surface": "אֵלַ֥/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Sp1cs",
+      "strong": "413",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "near, with or among; often in general, to",
+      "translation": "near, with or among; often in general, to"
+    },
+    {
+      "surface": "לֵ/אמֹֽר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Vqc",
+      "strong": "l/559",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    },
+    {
+      "surface": "לֵ/אמֹֽר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Vqc",
+      "strong": "l/559",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 23:16",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 23,
+  "verse": 16,
+  "tokens": [
+    {
+      "surface": "בְּנֵ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc",
+      "strong": "1121 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc",
+      "strong": "1121 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "גֵרְשׁ֖וֹם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1647",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gereshom, the name of four Israelites",
+      "translation": "Gereshom, the name of four Israelites"
+    },
+    {
+      "surface": "גֵרְשׁ֖וֹם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1647",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gereshom, the name of four Israelites",
+      "translation": "Gereshom, the name of four Israelites"
+    },
+    {
+      "surface": "שְׁבוּאֵ֥ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7619",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shebuel or Shubael, the name of two Israelites",
+      "translation": "Shebuel or Shubael, the name of two Israelites"
+    },
+    {
+      "surface": "שְׁבוּאֵ֥ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7619",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shebuel or Shubael, the name of two Israelites",
+      "translation": "Shebuel or Shubael, the name of two Israelites"
+    },
+    {
+      "surface": "הָ/רֹֽאשׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncmsa",
+      "strong": "d/7218 a",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the head (as most easily shaken), whether literal or figurative (in many applications, of place, time, rank, itc.)",
+      "translation": "the head (as most easily shaken), whether literal or figurative (in many applications, of place, time, rank, itc.)"
+    },
+    {
+      "surface": "הָ/רֹֽאשׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncmsa",
+      "strong": "d/7218 a",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the head (as most easily shaken), whether literal or figurative (in many applications, of place, time, rank, itc.)",
+      "translation": "the head (as most easily shaken), whether literal or figurative (in many applications, of place, time, rank, itc.)"
+    }
+  ]
+}

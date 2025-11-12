@@ -1,0 +1,113 @@
+{
+  "reference": "PSA 106:39",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 106,
+  "verse": 39,
+  "tokens": [
+    {
+      "surface": "וַ/יִּטְמְא֥וּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3mp",
+      "strong": "c/2930 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to be foul, especially in a ceremial or moral sense (contaminated)",
+      "translation": "to be foul, especially in a ceremial or moral sense (contaminated)"
+    },
+    {
+      "surface": "וַ/יִּטְמְא֥וּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3mp",
+      "strong": "c/2930 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to be foul, especially in a ceremial or moral sense (contaminated)",
+      "translation": "to be foul, especially in a ceremial or moral sense (contaminated)"
+    },
+    {
+      "surface": "בְ/מַעֲשֵׂי/הֶ֑ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpc/Sp3mp",
+      "strong": "b/4639",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an action (good or bad); generally, a transaction; abstractly, activity; by implication, a product (specifically, a poem) or (generally) property",
+      "translation": "an action (good or bad); generally, a transaction; abstractly, activity; by implication, a product (specifically, a poem) or (generally) property"
+    },
+    {
+      "surface": "בְ/מַעֲשֵׂי/הֶ֑ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpc/Sp3mp",
+      "strong": "b/4639",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an action (good or bad); generally, a transaction; abstractly, activity; by implication, a product (specifically, a poem) or (generally) property",
+      "translation": "an action (good or bad); generally, a transaction; abstractly, activity; by implication, a product (specifically, a poem) or (generally) property"
+    },
+    {
+      "surface": "וַ֝/יִּזְנוּ֗",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3mp",
+      "strong": "c/2181",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to commit adultery (usually of the female, and less often of simple fornication, rarely of involuntary ravishment); figuratively, to commit idolatry (the Jewish people being regarded as the spouse of Jehovah)",
+      "translation": "to commit adultery (usually of the female, and less often of simple fornication, rarely of involuntary ravishment); figuratively, to commit idolatry (the Jewish people being regarded as the spouse of Jehovah)"
+    },
+    {
+      "surface": "וַ֝/יִּזְנוּ֗",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3mp",
+      "strong": "c/2181",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to commit adultery (usually of the female, and less often of simple fornication, rarely of involuntary ravishment); figuratively, to commit idolatry (the Jewish people being regarded as the spouse of Jehovah)",
+      "translation": "to commit adultery (usually of the female, and less often of simple fornication, rarely of involuntary ravishment); figuratively, to commit idolatry (the Jewish people being regarded as the spouse of Jehovah)"
+    },
+    {
+      "surface": "בְּ/מַֽעַלְלֵי/הֶֽם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpc/Sp3mp",
+      "strong": "b/4611",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an act (good or bad)",
+      "translation": "an act (good or bad)"
+    },
+    {
+      "surface": "בְּ/מַֽעַלְלֵי/הֶֽם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpc/Sp3mp",
+      "strong": "b/4611",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an act (good or bad)",
+      "translation": "an act (good or bad)"
+    }
+  ]
+}

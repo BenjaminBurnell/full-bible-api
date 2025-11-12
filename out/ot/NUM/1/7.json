@@ -1,0 +1,113 @@
+{
+  "reference": "NUM 1:7",
+  "book": "NUM",
+  "book_code": "NUM",
+  "chapter": 1,
+  "verse": 7,
+  "tokens": [
+    {
+      "surface": "לִֽ/יהוּדָ֕ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/3063",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jehudah (or Judah), the name of five Israelites; also of the tribe descended from the first, and of its territory",
+      "translation": "Jehudah (or Judah), the name of five Israelites; also of the tribe descended from the first, and of its territory"
+    },
+    {
+      "surface": "לִֽ/יהוּדָ֕ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/3063",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jehudah (or Judah), the name of five Israelites; also of the tribe descended from the first, and of its territory",
+      "translation": "Jehudah (or Judah), the name of five Israelites; also of the tribe descended from the first, and of its territory"
+    },
+    {
+      "surface": "נַחְשׁ֖וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5177",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nachshon, an Israelite",
+      "translation": "Nachshon, an Israelite"
+    },
+    {
+      "surface": "נַחְשׁ֖וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5177",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nachshon, an Israelite",
+      "translation": "Nachshon, an Israelite"
+    },
+    {
+      "surface": "בֶּן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "1121 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "בֶּן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "1121 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "עַמִּינָדָֽב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5992",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Amminadab, the name of four Israelites",
+      "translation": "Amminadab, the name of four Israelites"
+    },
+    {
+      "surface": "עַמִּינָדָֽב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5992",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Amminadab, the name of four Israelites",
+      "translation": "Amminadab, the name of four Israelites"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "reference": "JOB 19:1",
+  "book": "JOB",
+  "book_code": "JOB",
+  "chapter": 19,
+  "verse": 1,
+  "tokens": [
+    {
+      "surface": "וַ/יַּ֥עַן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/6030 b",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to eye or (generally) to heed, i.e. pay attention; by implication, to respond; by extension to begin to speak; specifically to sing, shout, testify, announce",
+      "translation": "properly, to eye or (generally) to heed, i.e. pay attention; by implication, to respond; by extension to begin to speak; specifically to sing, shout, testify, announce"
+    },
+    {
+      "surface": "וַ/יַּ֥עַן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/6030 b",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to eye or (generally) to heed, i.e. pay attention; by implication, to respond; by extension to begin to speak; specifically to sing, shout, testify, announce",
+      "translation": "properly, to eye or (generally) to heed, i.e. pay attention; by implication, to respond; by extension to begin to speak; specifically to sing, shout, testify, announce"
+    },
+    {
+      "surface": "אִיּ֗וֹב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "347",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ijob, the patriarch famous for his patience",
+      "translation": "Ijob, the patriarch famous for his patience"
+    },
+    {
+      "surface": "אִיּ֗וֹב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "347",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ijob, the patriarch famous for his patience",
+      "translation": "Ijob, the patriarch famous for his patience"
+    },
+    {
+      "surface": "וַ/יֹּאמַֽר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/559",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    },
+    {
+      "surface": "וַ/יֹּאמַֽר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/559",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    }
+  ]
+}

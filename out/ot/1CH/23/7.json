@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 23:7",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 23,
+  "verse": 7,
+  "tokens": [
+    {
+      "surface": "לַ/גֵּרְשֻׁנִּ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ngmsa",
+      "strong": "l/1649",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Gereshonite or descendant of Gereshon",
+      "translation": "a Gereshonite or descendant of Gereshon"
+    },
+    {
+      "surface": "לַ/גֵּרְשֻׁנִּ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ngmsa",
+      "strong": "l/1649",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Gereshonite or descendant of Gereshon",
+      "translation": "a Gereshonite or descendant of Gereshon"
+    },
+    {
+      "surface": "לַעְדָּ֥ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3936",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ladan, the name of two Israelites",
+      "translation": "Ladan, the name of two Israelites"
+    },
+    {
+      "surface": "לַעְדָּ֥ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3936",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ladan, the name of two Israelites",
+      "translation": "Ladan, the name of two Israelites"
+    },
+    {
+      "surface": "וְ/שִׁמְעִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/8096",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shimi, the name of twenty Israelites",
+      "translation": "Shimi, the name of twenty Israelites"
+    },
+    {
+      "surface": "וְ/שִׁמְעִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/8096",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shimi, the name of twenty Israelites",
+      "translation": "Shimi, the name of twenty Israelites"
+    }
+  ]
+}

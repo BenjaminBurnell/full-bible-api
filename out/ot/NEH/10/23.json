@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:23",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 23,
+  "tokens": [
+    {
+      "surface": "פְּלַטְיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6410",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Pelatjah, the name of four Israelites",
+      "translation": "Pelatjah, the name of four Israelites"
+    },
+    {
+      "surface": "פְּלַטְיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6410",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Pelatjah, the name of four Israelites",
+      "translation": "Pelatjah, the name of four Israelites"
+    },
+    {
+      "surface": "חָנָ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2605",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chanan, the name of seven Israelites",
+      "translation": "Chanan, the name of seven Israelites"
+    },
+    {
+      "surface": "חָנָ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2605",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chanan, the name of seven Israelites",
+      "translation": "Chanan, the name of seven Israelites"
+    },
+    {
+      "surface": "עֲנָיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6043",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Anajah, the name of two Israelites",
+      "translation": "Anajah, the name of two Israelites"
+    },
+    {
+      "surface": "עֲנָיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6043",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Anajah, the name of two Israelites",
+      "translation": "Anajah, the name of two Israelites"
+    }
+  ]
+}

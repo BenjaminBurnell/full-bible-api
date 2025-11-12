@@ -1,0 +1,87 @@
+{
+  "reference": "JOS 19:36",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 19,
+  "verse": 36,
+  "tokens": [
+    {
+      "surface": "וַ/אֲדָמָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/128",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Adamah, a place in Palestine",
+      "translation": "Adamah, a place in Palestine"
+    },
+    {
+      "surface": "וַ/אֲדָמָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/128",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Adamah, a place in Palestine",
+      "translation": "Adamah, a place in Palestine"
+    },
+    {
+      "surface": "וְ/הָ/רָמָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Np",
+      "strong": "c/d/7414",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ramah, the name of four places in Palestine",
+      "translation": "Ramah, the name of four places in Palestine"
+    },
+    {
+      "surface": "וְ/הָ/רָמָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Np",
+      "strong": "c/d/7414",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ramah, the name of four places in Palestine",
+      "translation": "Ramah, the name of four places in Palestine"
+    },
+    {
+      "surface": "וְ/חָצֽוֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2674",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chatsor, the name (thus simply) of two places in Palestine and of one in Arabia",
+      "translation": "Chatsor, the name (thus simply) of two places in Palestine and of one in Arabia"
+    },
+    {
+      "surface": "וְ/חָצֽוֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2674",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chatsor, the name (thus simply) of two places in Palestine and of one in Arabia",
+      "translation": "Chatsor, the name (thus simply) of two places in Palestine and of one in Arabia"
+    }
+  ]
+}

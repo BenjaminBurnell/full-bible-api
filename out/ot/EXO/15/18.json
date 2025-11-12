@@ -1,0 +1,113 @@
+{
+  "reference": "EXO 15:18",
+  "book": "EXO",
+  "book_code": "EXO",
+  "chapter": 15,
+  "verse": 18,
+  "tokens": [
+    {
+      "surface": "יְהוָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3068",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God",
+      "translation": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3068",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God",
+      "translation": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God"
+    },
+    {
+      "surface": "יִמְלֹ֖ךְ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi3ms",
+      "strong": "4427 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to reign; inceptively, to ascend the throne; causatively, to induct into royalty; hence (by implication) to take counsel",
+      "translation": "to reign; inceptively, to ascend the throne; causatively, to induct into royalty; hence (by implication) to take counsel"
+    },
+    {
+      "surface": "יִמְלֹ֖ךְ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi3ms",
+      "strong": "4427 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to reign; inceptively, to ascend the throne; causatively, to induct into royalty; hence (by implication) to take counsel",
+      "translation": "to reign; inceptively, to ascend the throne; causatively, to induct into royalty; hence (by implication) to take counsel"
+    },
+    {
+      "surface": "לְ/עֹלָ֥ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmsa",
+      "strong": "l/5769",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, concealed, i.e. the vanishing point; generally, time out of mind (past or future), i.e. (practically) eternity; frequentatively, adverbial (especially with prepositional prefix) always",
+      "translation": "properly, concealed, i.e. the vanishing point; generally, time out of mind (past or future), i.e. (practically) eternity; frequentatively, adverbial (especially with prepositional prefix) always"
+    },
+    {
+      "surface": "לְ/עֹלָ֥ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmsa",
+      "strong": "l/5769",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, concealed, i.e. the vanishing point; generally, time out of mind (past or future), i.e. (practically) eternity; frequentatively, adverbial (especially with prepositional prefix) always",
+      "translation": "properly, concealed, i.e. the vanishing point; generally, time out of mind (past or future), i.e. (practically) eternity; frequentatively, adverbial (especially with prepositional prefix) always"
+    },
+    {
+      "surface": "וָ/עֶֽד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncmsa",
+      "strong": "c/5703",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, a (peremptory) terminus, i.e. (by implication) duration, in the sense of advance or perpetuity (substantially as a noun, either with or without a preposition)",
+      "translation": "properly, a (peremptory) terminus, i.e. (by implication) duration, in the sense of advance or perpetuity (substantially as a noun, either with or without a preposition)"
+    },
+    {
+      "surface": "וָ/עֶֽד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncmsa",
+      "strong": "c/5703",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, a (peremptory) terminus, i.e. (by implication) duration, in the sense of advance or perpetuity (substantially as a noun, either with or without a preposition)",
+      "translation": "properly, a (peremptory) terminus, i.e. (by implication) duration, in the sense of advance or perpetuity (substantially as a noun, either with or without a preposition)"
+    }
+  ]
+}

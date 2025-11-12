@@ -1,0 +1,113 @@
+{
+  "reference": "PSA 18:2",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 18,
+  "verse": 2,
+  "tokens": [
+    {
+      "surface": "וַ/יֹּאמַ֡ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/559",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    },
+    {
+      "surface": "וַ/יֹּאמַ֡ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/559",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    },
+    {
+      "surface": "אֶרְחָמְ/ךָ֖",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi1cs/Sp2ms",
+      "strong": "7355",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to fondle; by implication, to love, especially to compassionate",
+      "translation": "to fondle; by implication, to love, especially to compassionate"
+    },
+    {
+      "surface": "אֶרְחָמְ/ךָ֖",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi1cs/Sp2ms",
+      "strong": "7355",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to fondle; by implication, to love, especially to compassionate",
+      "translation": "to fondle; by implication, to love, especially to compassionate"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3068",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God",
+      "translation": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3068",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God",
+      "translation": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God"
+    },
+    {
+      "surface": "חִזְקִֽ/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc/Sp1cs",
+      "strong": "2391",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "help",
+      "translation": "help"
+    },
+    {
+      "surface": "חִזְקִֽ/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc/Sp1cs",
+      "strong": "2391",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "help",
+      "translation": "help"
+    }
+  ]
+}

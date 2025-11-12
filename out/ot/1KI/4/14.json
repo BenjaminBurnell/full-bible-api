@@ -1,0 +1,113 @@
+{
+  "reference": "1KI 4:14",
+  "book": "1KI",
+  "book_code": "1KI",
+  "chapter": 4,
+  "verse": 14,
+  "tokens": [
+    {
+      "surface": "אֲחִֽינָדָ֥ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "292",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achinadab, an Israelite",
+      "translation": "Achinadab, an Israelite"
+    },
+    {
+      "surface": "אֲחִֽינָדָ֥ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "292",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achinadab, an Israelite",
+      "translation": "Achinadab, an Israelite"
+    },
+    {
+      "surface": "בֶּן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "1121 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "בֶּן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "1121 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "עִדֹּ֖א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5714",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Iddo (or Iddi), the name of five Israelites",
+      "translation": "Iddo (or Iddi), the name of five Israelites"
+    },
+    {
+      "surface": "עִדֹּ֖א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5714",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Iddo (or Iddi), the name of five Israelites",
+      "translation": "Iddo (or Iddi), the name of five Israelites"
+    },
+    {
+      "surface": "מַחֲנָֽיְמָ/ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp/Sd",
+      "strong": "4266",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Machanajim, a place in Palestine",
+      "translation": "Machanajim, a place in Palestine"
+    },
+    {
+      "surface": "מַחֲנָֽיְמָ/ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp/Sd",
+      "strong": "4266",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Machanajim, a place in Palestine",
+      "translation": "Machanajim, a place in Palestine"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 11:27",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 11,
+  "verse": 27,
+  "tokens": [
+    {
+      "surface": "שַׁמּוֹת֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8054",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shammoth, an Israelite",
+      "translation": "Shammoth, an Israelite"
+    },
+    {
+      "surface": "שַׁמּוֹת֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8054",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shammoth, an Israelite",
+      "translation": "Shammoth, an Israelite"
+    },
+    {
+      "surface": "הַ/הֲרוֹרִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/2033",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Harorite or mountaineer",
+      "translation": "a Harorite or mountaineer"
+    },
+    {
+      "surface": "הַ/הֲרוֹרִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/2033",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Harorite or mountaineer",
+      "translation": "a Harorite or mountaineer"
+    },
+    {
+      "surface": "חֶ֖לֶץ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2503",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chelets, the name of two Israelites",
+      "translation": "Chelets, the name of two Israelites"
+    },
+    {
+      "surface": "חֶ֖לֶץ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2503",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chelets, the name of two Israelites",
+      "translation": "Chelets, the name of two Israelites"
+    },
+    {
+      "surface": "הַ/פְּלוֹנִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/6397",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Pelonite or inhabitant of an unknown Palon",
+      "translation": "a Pelonite or inhabitant of an unknown Palon"
+    },
+    {
+      "surface": "הַ/פְּלוֹנִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/6397",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Pelonite or inhabitant of an unknown Palon",
+      "translation": "a Pelonite or inhabitant of an unknown Palon"
+    }
+  ]
+}

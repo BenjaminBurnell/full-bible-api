@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 8:23",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 8,
+  "verse": 23,
+  "tokens": [
+    {
+      "surface": "וְ/עַבְדּ֥וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5658",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abdon, the name of a place in Palestine and of four Israelites",
+      "translation": "Abdon, the name of a place in Palestine and of four Israelites"
+    },
+    {
+      "surface": "וְ/עַבְדּ֥וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5658",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abdon, the name of a place in Palestine and of four Israelites",
+      "translation": "Abdon, the name of a place in Palestine and of four Israelites"
+    },
+    {
+      "surface": "וְ/זִכְרִ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2147",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zicri, the name of twelve Israelites",
+      "translation": "Zicri, the name of twelve Israelites"
+    },
+    {
+      "surface": "וְ/זִכְרִ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2147",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zicri, the name of twelve Israelites",
+      "translation": "Zicri, the name of twelve Israelites"
+    },
+    {
+      "surface": "וְ/חָנָֽן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2605",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chanan, the name of seven Israelites",
+      "translation": "Chanan, the name of seven Israelites"
+    },
+    {
+      "surface": "וְ/חָנָֽן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2605",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chanan, the name of seven Israelites",
+      "translation": "Chanan, the name of seven Israelites"
+    }
+  ]
+}

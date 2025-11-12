@@ -1,0 +1,113 @@
+{
+  "reference": "NEH 12:20",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 12,
+  "verse": 20,
+  "tokens": [
+    {
+      "surface": "לְ/סַלַּ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/5543 e",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Sallu or Sallai, the name of two Israelites",
+      "translation": "Sallu or Sallai, the name of two Israelites"
+    },
+    {
+      "surface": "לְ/סַלַּ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/5543 e",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Sallu or Sallai, the name of two Israelites",
+      "translation": "Sallu or Sallai, the name of two Israelites"
+    },
+    {
+      "surface": "קַלָּ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7040",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Kallai, an Israelite",
+      "translation": "Kallai, an Israelite"
+    },
+    {
+      "surface": "קַלָּ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7040",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Kallai, an Israelite",
+      "translation": "Kallai, an Israelite"
+    },
+    {
+      "surface": "לְ/עָמ֥וֹק",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/5987",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Amok, an Israelite",
+      "translation": "Amok, an Israelite"
+    },
+    {
+      "surface": "לְ/עָמ֥וֹק",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/5987",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Amok, an Israelite",
+      "translation": "Amok, an Israelite"
+    },
+    {
+      "surface": "עֵֽבֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5677",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eber, the name of two patriarchs and four Israelites",
+      "translation": "Eber, the name of two patriarchs and four Israelites"
+    },
+    {
+      "surface": "עֵֽבֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5677",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eber, the name of two patriarchs and four Israelites",
+      "translation": "Eber, the name of two patriarchs and four Israelites"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 11:34",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 11,
+  "verse": 34,
+  "tokens": [
+    {
+      "surface": "חָדִ֥יד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2307",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chadid, a place in Palestine",
+      "translation": "Chadid, a place in Palestine"
+    },
+    {
+      "surface": "חָדִ֥יד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2307",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chadid, a place in Palestine",
+      "translation": "Chadid, a place in Palestine"
+    },
+    {
+      "surface": "צְבֹעִ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6650",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tseboim, a place in Palestine",
+      "translation": "Tseboim, a place in Palestine"
+    },
+    {
+      "surface": "צְבֹעִ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6650",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tseboim, a place in Palestine",
+      "translation": "Tseboim, a place in Palestine"
+    },
+    {
+      "surface": "נְבַלָּֽט",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5041",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Neballat, a place in Palestine",
+      "translation": "Neballat, a place in Palestine"
+    },
+    {
+      "surface": "נְבַלָּֽט",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5041",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Neballat, a place in Palestine",
+      "translation": "Neballat, a place in Palestine"
+    }
+  ]
+}

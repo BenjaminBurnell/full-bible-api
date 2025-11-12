@@ -1,0 +1,87 @@
+{
+  "reference": "ISA 3:19",
+  "book": "ISA",
+  "book_code": "ISA",
+  "chapter": 3,
+  "verse": 19,
+  "tokens": [
+    {
+      "surface": "הַ/נְּטִיפ֥וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncfpa",
+      "strong": "d/5188",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a pendant for the ears (especially of pearls)",
+      "translation": "a pendant for the ears (especially of pearls)"
+    },
+    {
+      "surface": "הַ/נְּטִיפ֥וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncfpa",
+      "strong": "d/5188",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a pendant for the ears (especially of pearls)",
+      "translation": "a pendant for the ears (especially of pearls)"
+    },
+    {
+      "surface": "וְ/הַ/שֵּׁיר֖וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncbpa",
+      "strong": "c/d/8285",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a wrist-band (as compact or clasping)",
+      "translation": "a wrist-band (as compact or clasping)"
+    },
+    {
+      "surface": "וְ/הַ/שֵּׁיר֖וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncbpa",
+      "strong": "c/d/8285",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a wrist-band (as compact or clasping)",
+      "translation": "a wrist-band (as compact or clasping)"
+    },
+    {
+      "surface": "וְ/הָֽ/רְעָלֽוֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncfpa",
+      "strong": "c/d/7479",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a long veil (as fluttering)",
+      "translation": "a long veil (as fluttering)"
+    },
+    {
+      "surface": "וְ/הָֽ/רְעָלֽוֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncfpa",
+      "strong": "c/d/7479",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a long veil (as fluttering)",
+      "translation": "a long veil (as fluttering)"
+    }
+  ]
+}

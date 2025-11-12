@@ -1,0 +1,113 @@
+{
+  "reference": "PSA 69:1",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 69,
+  "verse": 1,
+  "tokens": [
+    {
+      "surface": "לַ/מְנַצֵּ֬חַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Vprmsa",
+      "strong": "l/5329",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to glitter from afar, i.e. to be eminent (as a superintendent, especially of the Temple services and its music); to be permanent",
+      "translation": "properly, to glitter from afar, i.e. to be eminent (as a superintendent, especially of the Temple services and its music); to be permanent"
+    },
+    {
+      "surface": "לַ/מְנַצֵּ֬חַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Vprmsa",
+      "strong": "l/5329",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to glitter from afar, i.e. to be eminent (as a superintendent, especially of the Temple services and its music); to be permanent",
+      "translation": "properly, to glitter from afar, i.e. to be eminent (as a superintendent, especially of the Temple services and its music); to be permanent"
+    },
+    {
+      "surface": "עַֽל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR",
+      "strong": "5921 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications",
+      "translation": "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications"
+    },
+    {
+      "surface": "עַֽל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR",
+      "strong": "5921 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications",
+      "translation": "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications"
+    },
+    {
+      "surface": "שׁוֹשַׁנִּ֬ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcbpa",
+      "strong": "7799",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a lily (from its whiteness), as a flower of architectural ornament; also a (straight) trumpet (from the tubular shape)",
+      "translation": "a lily (from its whiteness), as a flower of architectural ornament; also a (straight) trumpet (from the tubular shape)"
+    },
+    {
+      "surface": "שׁוֹשַׁנִּ֬ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcbpa",
+      "strong": "7799",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a lily (from its whiteness), as a flower of architectural ornament; also a (straight) trumpet (from the tubular shape)",
+      "translation": "a lily (from its whiteness), as a flower of architectural ornament; also a (straight) trumpet (from the tubular shape)"
+    },
+    {
+      "surface": "לְ/דָוִֽד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/1732",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "David, the youngest son of Jesse",
+      "translation": "David, the youngest son of Jesse"
+    },
+    {
+      "surface": "לְ/דָוִֽד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/1732",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "David, the youngest son of Jesse",
+      "translation": "David, the youngest son of Jesse"
+    }
+  ]
+}

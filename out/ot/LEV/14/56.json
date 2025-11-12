@@ -1,0 +1,87 @@
+{
+  "reference": "LEV 14:56",
+  "book": "LEV",
+  "book_code": "LEV",
+  "chapter": 14,
+  "verse": 56,
+  "tokens": [
+    {
+      "surface": "וְ/לַ/שְׂאֵ֥ת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Rd/Ncfsa",
+      "strong": "c/l/7613",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an elevation or leprous scab; figuratively, elation or cheerfulness; exaltation in rank or character",
+      "translation": "an elevation or leprous scab; figuratively, elation or cheerfulness; exaltation in rank or character"
+    },
+    {
+      "surface": "וְ/לַ/שְׂאֵ֥ת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Rd/Ncfsa",
+      "strong": "c/l/7613",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an elevation or leprous scab; figuratively, elation or cheerfulness; exaltation in rank or character",
+      "translation": "an elevation or leprous scab; figuratively, elation or cheerfulness; exaltation in rank or character"
+    },
+    {
+      "surface": "וְ/לַ/סַּפַּ֖חַת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Rd/Ncfsa",
+      "strong": "c/l/5597",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the mange (as making the hair fall off)",
+      "translation": "the mange (as making the hair fall off)"
+    },
+    {
+      "surface": "וְ/לַ/סַּפַּ֖חַת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Rd/Ncfsa",
+      "strong": "c/l/5597",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the mange (as making the hair fall off)",
+      "translation": "the mange (as making the hair fall off)"
+    },
+    {
+      "surface": "וְ/לַ/בֶּהָֽרֶת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Rd/Ncfsa",
+      "strong": "c/l/934",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a whitish spot on the skin",
+      "translation": "a whitish spot on the skin"
+    },
+    {
+      "surface": "וְ/לַ/בֶּהָֽרֶת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Rd/Ncfsa",
+      "strong": "c/l/934",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a whitish spot on the skin",
+      "translation": "a whitish spot on the skin"
+    }
+  ]
+}

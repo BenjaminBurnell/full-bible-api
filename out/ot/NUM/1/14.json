@@ -1,0 +1,113 @@
+{
+  "reference": "NUM 1:14",
+  "book": "NUM",
+  "book_code": "NUM",
+  "chapter": 1,
+  "verse": 14,
+  "tokens": [
+    {
+      "surface": "לְ/גָ֕ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/1410",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gad, a son of Jacob, including his tribe and its territory; also a prophet",
+      "translation": "Gad, a son of Jacob, including his tribe and its territory; also a prophet"
+    },
+    {
+      "surface": "לְ/גָ֕ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/1410",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gad, a son of Jacob, including his tribe and its territory; also a prophet",
+      "translation": "Gad, a son of Jacob, including his tribe and its territory; also a prophet"
+    },
+    {
+      "surface": "אֶלְיָסָ֖ף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "460",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eljasaph, the name of two Israelites",
+      "translation": "Eljasaph, the name of two Israelites"
+    },
+    {
+      "surface": "אֶלְיָסָ֖ף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "460",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eljasaph, the name of two Israelites",
+      "translation": "Eljasaph, the name of two Israelites"
+    },
+    {
+      "surface": "בֶּן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "1121 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "בֶּן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "1121 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "דְּעוּאֵֽל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1845",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Deuel, an Israelite",
+      "translation": "Deuel, an Israelite"
+    },
+    {
+      "surface": "דְּעוּאֵֽל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1845",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Deuel, an Israelite",
+      "translation": "Deuel, an Israelite"
+    }
+  ]
+}

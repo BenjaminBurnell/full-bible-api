@@ -1,0 +1,113 @@
+{
+  "reference": "NUM 26:46",
+  "book": "NUM",
+  "book_code": "NUM",
+  "chapter": 26,
+  "verse": 46,
+  "tokens": [
+    {
+      "surface": "וְ/שֵׁ֥ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncmsc",
+      "strong": "c/8034",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an appellation, as a mark or memorial of individuality; by implication honor, authority, character",
+      "translation": "an appellation, as a mark or memorial of individuality; by implication honor, authority, character"
+    },
+    {
+      "surface": "וְ/שֵׁ֥ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncmsc",
+      "strong": "c/8034",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an appellation, as a mark or memorial of individuality; by implication honor, authority, character",
+      "translation": "an appellation, as a mark or memorial of individuality; by implication honor, authority, character"
+    },
+    {
+      "surface": "בַּת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsc",
+      "strong": "1323",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a daughter (used in the same wide sense as other terms of relationship, literally and figuratively)",
+      "translation": "a daughter (used in the same wide sense as other terms of relationship, literally and figuratively)"
+    },
+    {
+      "surface": "בַּת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsc",
+      "strong": "1323",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a daughter (used in the same wide sense as other terms of relationship, literally and figuratively)",
+      "translation": "a daughter (used in the same wide sense as other terms of relationship, literally and figuratively)"
+    },
+    {
+      "surface": "אָשֵׁ֖ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "836",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Asher, a son of Jacob, and the tribe descended from him, with its territory; also a place in Palestine",
+      "translation": "Asher, a son of Jacob, and the tribe descended from him, with its territory; also a place in Palestine"
+    },
+    {
+      "surface": "אָשֵׁ֖ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "836",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Asher, a son of Jacob, and the tribe descended from him, with its territory; also a place in Palestine",
+      "translation": "Asher, a son of Jacob, and the tribe descended from him, with its territory; also a place in Palestine"
+    },
+    {
+      "surface": "שָֽׂרַח",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8294",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Serach, an Israelitess",
+      "translation": "Serach, an Israelitess"
+    },
+    {
+      "surface": "שָֽׂרַח",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8294",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Serach, an Israelitess",
+      "translation": "Serach, an Israelitess"
+    }
+  ]
+}

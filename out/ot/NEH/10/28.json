@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:28",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 28,
+  "tokens": [
+    {
+      "surface": "מַלּ֥וּךְ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4409 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Malluk, the name of five Israelites",
+      "translation": "Malluk, the name of five Israelites"
+    },
+    {
+      "surface": "מַלּ֥וּךְ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4409 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Malluk, the name of five Israelites",
+      "translation": "Malluk, the name of five Israelites"
+    },
+    {
+      "surface": "חָרִ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2766",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Charim, an Israelite",
+      "translation": "Charim, an Israelite"
+    },
+    {
+      "surface": "חָרִ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2766",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Charim, an Israelite",
+      "translation": "Charim, an Israelite"
+    },
+    {
+      "surface": "בַּעֲנָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1196",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Baanah, the name of four Israelites",
+      "translation": "Baanah, the name of four Israelites"
+    },
+    {
+      "surface": "בַּעֲנָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1196",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Baanah, the name of four Israelites",
+      "translation": "Baanah, the name of four Israelites"
+    }
+  ]
+}

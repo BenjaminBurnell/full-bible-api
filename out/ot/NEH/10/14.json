@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:14",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 14,
+  "tokens": [
+    {
+      "surface": "הוֹדִיָּ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1940",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Jewess",
+      "translation": "a Jewess"
+    },
+    {
+      "surface": "הוֹדִיָּ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1940",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Jewess",
+      "translation": "a Jewess"
+    },
+    {
+      "surface": "בָנִ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1137",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bani, the name of five Israelites",
+      "translation": "Bani, the name of five Israelites"
+    },
+    {
+      "surface": "בָנִ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1137",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bani, the name of five Israelites",
+      "translation": "Bani, the name of five Israelites"
+    },
+    {
+      "surface": "בְּנִֽינוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1148",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Beninu, an Israelite",
+      "translation": "Beninu, an Israelite"
+    },
+    {
+      "surface": "בְּנִֽינוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1148",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Beninu, an Israelite",
+      "translation": "Beninu, an Israelite"
+    }
+  ]
+}

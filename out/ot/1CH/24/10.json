@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 24:10",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 24,
+  "verse": 10,
+  "tokens": [
+    {
+      "surface": "לְ/הַקּוֹץ֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/6976",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Kots, the name of two Israelites",
+      "translation": "Kots, the name of two Israelites"
+    },
+    {
+      "surface": "לְ/הַקּוֹץ֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/6976",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Kots, the name of two Israelites",
+      "translation": "Kots, the name of two Israelites"
+    },
+    {
+      "surface": "הַ/שְּׁבִעִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/7637",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "seventh",
+      "translation": "seventh"
+    },
+    {
+      "surface": "הַ/שְּׁבִעִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/7637",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "seventh",
+      "translation": "seventh"
+    },
+    {
+      "surface": "לַ/אֲבִיָּ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/29",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abijah, the name of several Israelite men and two Israelitesses",
+      "translation": "Abijah, the name of several Israelite men and two Israelitesses"
+    },
+    {
+      "surface": "לַ/אֲבִיָּ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/29",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abijah, the name of several Israelite men and two Israelitesses",
+      "translation": "Abijah, the name of several Israelite men and two Israelitesses"
+    },
+    {
+      "surface": "הַ/שְּׁמִינִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/8066",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "eight",
+      "translation": "eight"
+    },
+    {
+      "surface": "הַ/שְּׁמִינִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/8066",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "eight",
+      "translation": "eight"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 12:4",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 12,
+  "verse": 4,
+  "tokens": [
+    {
+      "surface": "עִדּ֥וֹא",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5714",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Iddo (or Iddi), the name of five Israelites",
+      "translation": "Iddo (or Iddi), the name of five Israelites"
+    },
+    {
+      "surface": "עִדּ֥וֹא",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5714",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Iddo (or Iddi), the name of five Israelites",
+      "translation": "Iddo (or Iddi), the name of five Israelites"
+    },
+    {
+      "surface": "גִנְּת֖וֹי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1599",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ginnethon or Ginnetho, an Israelite",
+      "translation": "Ginnethon or Ginnetho, an Israelite"
+    },
+    {
+      "surface": "גִנְּת֖וֹי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1599",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ginnethon or Ginnetho, an Israelite",
+      "translation": "Ginnethon or Ginnetho, an Israelite"
+    },
+    {
+      "surface": "אֲבִיָּֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "29",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abijah, the name of several Israelite men and two Israelitesses",
+      "translation": "Abijah, the name of several Israelite men and two Israelitesses"
+    },
+    {
+      "surface": "אֲבִיָּֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "29",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abijah, the name of several Israelite men and two Israelitesses",
+      "translation": "Abijah, the name of several Israelite men and two Israelitesses"
+    }
+  ]
+}

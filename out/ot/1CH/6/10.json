@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 6:10",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 6,
+  "verse": 10,
+  "tokens": [
+    {
+      "surface": "וּ/בְנֵי֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncmpc",
+      "strong": "c/1121 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "וּ/בְנֵי֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncmpc",
+      "strong": "c/1121 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "אֶלְקָנָ֔ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "511",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elkanah, the name of several Israelites",
+      "translation": "Elkanah, the name of several Israelites"
+    },
+    {
+      "surface": "אֶלְקָנָ֔ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "511",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elkanah, the name of several Israelites",
+      "translation": "Elkanah, the name of several Israelites"
+    },
+    {
+      "surface": "עֲמָשַׂ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6022",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Amasai, the name of three Israelites",
+      "translation": "Amasai, the name of three Israelites"
+    },
+    {
+      "surface": "עֲמָשַׂ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6022",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Amasai, the name of three Israelites",
+      "translation": "Amasai, the name of three Israelites"
+    },
+    {
+      "surface": "וַ/אֲחִימֽוֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/287",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achimoth, an Israelite",
+      "translation": "Achimoth, an Israelite"
+    },
+    {
+      "surface": "וַ/אֲחִימֽוֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/287",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achimoth, an Israelite",
+      "translation": "Achimoth, an Israelite"
+    }
+  ]
+}

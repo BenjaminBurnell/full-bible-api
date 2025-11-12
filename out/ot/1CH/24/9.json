@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 24:9",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 24,
+  "verse": 9,
+  "tokens": [
+    {
+      "surface": "לְ/מַלְכִּיָּה֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/4441",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Malkijah, the name of ten Israelites",
+      "translation": "Malkijah, the name of ten Israelites"
+    },
+    {
+      "surface": "לְ/מַלְכִּיָּה֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/4441",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Malkijah, the name of ten Israelites",
+      "translation": "Malkijah, the name of ten Israelites"
+    },
+    {
+      "surface": "הַ/חֲמִישִׁ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/2549",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "fifth; also a fifth",
+      "translation": "fifth; also a fifth"
+    },
+    {
+      "surface": "הַ/חֲמִישִׁ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/2549",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "fifth; also a fifth",
+      "translation": "fifth; also a fifth"
+    },
+    {
+      "surface": "לְ/מִיָּמִ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/4326",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mijamin, the name of three Israelites",
+      "translation": "Mijamin, the name of three Israelites"
+    },
+    {
+      "surface": "לְ/מִיָּמִ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/4326",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mijamin, the name of three Israelites",
+      "translation": "Mijamin, the name of three Israelites"
+    },
+    {
+      "surface": "הַ/שִּׁשִּֽׁי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/8345",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "sixth, ordinal or (feminine) fractional",
+      "translation": "sixth, ordinal or (feminine) fractional"
+    },
+    {
+      "surface": "הַ/שִּׁשִּֽׁי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/8345",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "sixth, ordinal or (feminine) fractional",
+      "translation": "sixth, ordinal or (feminine) fractional"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "reference": "GEN 26:23",
+  "book": "GEN",
+  "book_code": "GEN",
+  "chapter": 26,
+  "verse": 23,
+  "tokens": [
+    {
+      "surface": "וַ/יַּ֥עַל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/5927",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to ascend, intransitively (be high) or actively (mount); used in a great variety of senses, primary and secondary, literal and figurative",
+      "translation": "to ascend, intransitively (be high) or actively (mount); used in a great variety of senses, primary and secondary, literal and figurative"
+    },
+    {
+      "surface": "וַ/יַּ֥עַל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/5927",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to ascend, intransitively (be high) or actively (mount); used in a great variety of senses, primary and secondary, literal and figurative",
+      "translation": "to ascend, intransitively (be high) or actively (mount); used in a great variety of senses, primary and secondary, literal and figurative"
+    },
+    {
+      "surface": "מִ/שָּׁ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/D",
+      "strong": "m/8033",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "there (transferring to time) then; often thither, or thence",
+      "translation": "there (transferring to time) then; often thither, or thence"
+    },
+    {
+      "surface": "מִ/שָּׁ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/D",
+      "strong": "m/8033",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "there (transferring to time) then; often thither, or thence",
+      "translation": "there (transferring to time) then; often thither, or thence"
+    },
+    {
+      "surface": "בְּאֵ֥ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "884+",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Beer-Sheba, a place in Palestine",
+      "translation": "Beer-Sheba, a place in Palestine"
+    },
+    {
+      "surface": "בְּאֵ֥ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "884+",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Beer-Sheba, a place in Palestine",
+      "translation": "Beer-Sheba, a place in Palestine"
+    },
+    {
+      "surface": "שָֽׁבַע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "884",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Beer-Sheba, a place in Palestine",
+      "translation": "Beer-Sheba, a place in Palestine"
+    },
+    {
+      "surface": "שָֽׁבַע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "884",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Beer-Sheba, a place in Palestine",
+      "translation": "Beer-Sheba, a place in Palestine"
+    }
+  ]
+}

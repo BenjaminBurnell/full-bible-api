@@ -1,0 +1,113 @@
+{
+  "reference": "EXO 16:30",
+  "book": "EXO",
+  "book_code": "EXO",
+  "chapter": 16,
+  "verse": 30,
+  "tokens": [
+    {
+      "surface": "וַ/יִּשְׁבְּת֥וּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3mp",
+      "strong": "c/7673 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to repose, i.e. desist from exertion; used in many implied relations (causative, figurative or specific)",
+      "translation": "to repose, i.e. desist from exertion; used in many implied relations (causative, figurative or specific)"
+    },
+    {
+      "surface": "וַ/יִּשְׁבְּת֥וּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3mp",
+      "strong": "c/7673 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to repose, i.e. desist from exertion; used in many implied relations (causative, figurative or specific)",
+      "translation": "to repose, i.e. desist from exertion; used in many implied relations (causative, figurative or specific)"
+    },
+    {
+      "surface": "הָ/עָ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncmsa",
+      "strong": "d/5971 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a people (as a congregated unit); specifically, a tribe (as those of Israel); hence (collectively) troops or attendants; figuratively, a flock",
+      "translation": "a people (as a congregated unit); specifically, a tribe (as those of Israel); hence (collectively) troops or attendants; figuratively, a flock"
+    },
+    {
+      "surface": "הָ/עָ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncmsa",
+      "strong": "d/5971 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a people (as a congregated unit); specifically, a tribe (as those of Israel); hence (collectively) troops or attendants; figuratively, a flock",
+      "translation": "a people (as a congregated unit); specifically, a tribe (as those of Israel); hence (collectively) troops or attendants; figuratively, a flock"
+    },
+    {
+      "surface": "בַּ/יּ֥וֹם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncmsa",
+      "strong": "b/3117",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)",
+      "translation": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)"
+    },
+    {
+      "surface": "בַּ/יּ֥וֹם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncmsa",
+      "strong": "b/3117",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)",
+      "translation": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)"
+    },
+    {
+      "surface": "הַ/שְּׁבִעִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/7637",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "seventh",
+      "translation": "seventh"
+    },
+    {
+      "surface": "הַ/שְּׁבִעִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/7637",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "seventh",
+      "translation": "seventh"
+    }
+  ]
+}

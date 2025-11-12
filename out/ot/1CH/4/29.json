@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 4:29",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 4,
+  "verse": 29,
+  "tokens": [
+    {
+      "surface": "וּ/בְ/בִלְהָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/1090 b",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bilhah, the name of one of Jacob's concubines; also of a place in Palestine",
+      "translation": "Bilhah, the name of one of Jacob's concubines; also of a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְ/בִלְהָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/1090 b",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bilhah, the name of one of Jacob's concubines; also of a place in Palestine",
+      "translation": "Bilhah, the name of one of Jacob's concubines; also of a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְ/עֶ֖צֶם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/6107",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Etsem, a place in Palestine",
+      "translation": "Etsem, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְ/עֶ֖צֶם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/6107",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Etsem, a place in Palestine",
+      "translation": "Etsem, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְ/תוֹלָֽד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/8434",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tolad, a place in Palestine",
+      "translation": "Tolad, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְ/תוֹלָֽד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/8434",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tolad, a place in Palestine",
+      "translation": "Tolad, a place in Palestine"
+    }
+  ]
+}

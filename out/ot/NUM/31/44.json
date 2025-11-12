@@ -1,0 +1,113 @@
+{
+  "reference": "NUM 31:44",
+  "book": "NUM",
+  "book_code": "NUM",
+  "chapter": 31,
+  "verse": 44,
+  "tokens": [
+    {
+      "surface": "וּ/בָקָ֕ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncbsa",
+      "strong": "c/1241",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a beeve or an animal of the ox family of either gender (as used for plowing); collectively, a herd",
+      "translation": "a beeve or an animal of the ox family of either gender (as used for plowing); collectively, a herd"
+    },
+    {
+      "surface": "וּ/בָקָ֕ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncbsa",
+      "strong": "c/1241",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a beeve or an animal of the ox family of either gender (as used for plowing); collectively, a herd",
+      "translation": "a beeve or an animal of the ox family of either gender (as used for plowing); collectively, a herd"
+    },
+    {
+      "surface": "שִׁשָּׁ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcmsa",
+      "strong": "8337",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "six (as an overplus beyond five or the fingers of the hand); as ordinal sixth",
+      "translation": "six (as an overplus beyond five or the fingers of the hand); as ordinal sixth"
+    },
+    {
+      "surface": "שִׁשָּׁ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcmsa",
+      "strong": "8337",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "six (as an overplus beyond five or the fingers of the hand); as ordinal sixth",
+      "translation": "six (as an overplus beyond five or the fingers of the hand); as ordinal sixth"
+    },
+    {
+      "surface": "וּ/שְׁלֹשִׁ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Acbpa",
+      "strong": "c/7970",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "thirty; or (ordinal) thirtieth",
+      "translation": "thirty; or (ordinal) thirtieth"
+    },
+    {
+      "surface": "וּ/שְׁלֹשִׁ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Acbpa",
+      "strong": "c/7970",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "thirty; or (ordinal) thirtieth",
+      "translation": "thirty; or (ordinal) thirtieth"
+    },
+    {
+      "surface": "אָֽלֶף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcbsa",
+      "strong": "505",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "hence (the ox's head being the first letter of the alphabet, and this eventually used as a numeral) a thousand",
+      "translation": "hence (the ox's head being the first letter of the alphabet, and this eventually used as a numeral) a thousand"
+    },
+    {
+      "surface": "אָֽלֶף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcbsa",
+      "strong": "505",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "hence (the ox's head being the first letter of the alphabet, and this eventually used as a numeral) a thousand",
+      "translation": "hence (the ox's head being the first letter of the alphabet, and this eventually used as a numeral) a thousand"
+    }
+  ]
+}

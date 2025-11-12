@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:7",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 7,
+  "tokens": [
+    {
+      "surface": "דָּנִיֵּ֥אל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1840",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Daniel or Danijel, the name of two Israelites",
+      "translation": "Daniel or Danijel, the name of two Israelites"
+    },
+    {
+      "surface": "דָּנִיֵּ֥אל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1840",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Daniel or Danijel, the name of two Israelites",
+      "translation": "Daniel or Danijel, the name of two Israelites"
+    },
+    {
+      "surface": "גִּנְּת֖וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1599",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ginnethon or Ginnetho, an Israelite",
+      "translation": "Ginnethon or Ginnetho, an Israelite"
+    },
+    {
+      "surface": "גִּנְּת֖וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1599",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ginnethon or Ginnetho, an Israelite",
+      "translation": "Ginnethon or Ginnetho, an Israelite"
+    },
+    {
+      "surface": "בָּרֽוּךְ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1263",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Baruk, the name of three Israelites",
+      "translation": "Baruk, the name of three Israelites"
+    },
+    {
+      "surface": "בָּרֽוּךְ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1263",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Baruk, the name of three Israelites",
+      "translation": "Baruk, the name of three Israelites"
+    }
+  ]
+}

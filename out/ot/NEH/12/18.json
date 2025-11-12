@@ -1,0 +1,113 @@
+{
+  "reference": "NEH 12:18",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 12,
+  "verse": 18,
+  "tokens": [
+    {
+      "surface": "לְ/בִלְגָּ֣ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/1083",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bilgah, the name of two Israelites",
+      "translation": "Bilgah, the name of two Israelites"
+    },
+    {
+      "surface": "לְ/בִלְגָּ֣ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/1083",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bilgah, the name of two Israelites",
+      "translation": "Bilgah, the name of two Israelites"
+    },
+    {
+      "surface": "שַׁמּ֔וּעַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8051",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shammua, the name of four Israelites",
+      "translation": "Shammua, the name of four Israelites"
+    },
+    {
+      "surface": "שַׁמּ֔וּעַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8051",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shammua, the name of four Israelites",
+      "translation": "Shammua, the name of four Israelites"
+    },
+    {
+      "surface": "לִֽ/שְׁמַעְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/8098",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shemajah, the name of twenty-five Israelites",
+      "translation": "Shemajah, the name of twenty-five Israelites"
+    },
+    {
+      "surface": "לִֽ/שְׁמַעְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/8098",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shemajah, the name of twenty-five Israelites",
+      "translation": "Shemajah, the name of twenty-five Israelites"
+    },
+    {
+      "surface": "יְהוֹנָתָֽן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3083",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jehonathan, the name of four Israelites",
+      "translation": "Jehonathan, the name of four Israelites"
+    },
+    {
+      "surface": "יְהוֹנָתָֽן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3083",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jehonathan, the name of four Israelites",
+      "translation": "Jehonathan, the name of four Israelites"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "reference": "NUM 1:11",
+  "book": "NUM",
+  "book_code": "NUM",
+  "chapter": 1,
+  "verse": 11,
+  "tokens": [
+    {
+      "surface": "לְ/בִ֨נְיָמִ֔ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/1144",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory",
+      "translation": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory"
+    },
+    {
+      "surface": "לְ/בִ֨נְיָמִ֔ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/1144",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory",
+      "translation": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory"
+    },
+    {
+      "surface": "אֲבִידָ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "27",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abidan, an Israelite",
+      "translation": "Abidan, an Israelite"
+    },
+    {
+      "surface": "אֲבִידָ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "27",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abidan, an Israelite",
+      "translation": "Abidan, an Israelite"
+    },
+    {
+      "surface": "בֶּן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "1121 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "בֶּן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "1121 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "גִּדְעֹנִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1441",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gidoni, an Israelite",
+      "translation": "Gidoni, an Israelite"
+    },
+    {
+      "surface": "גִּדְעֹנִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1441",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gidoni, an Israelite",
+      "translation": "Gidoni, an Israelite"
+    }
+  ]
+}

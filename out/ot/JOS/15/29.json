@@ -1,0 +1,87 @@
+{
+  "reference": "JOS 15:29",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 15,
+  "verse": 29,
+  "tokens": [
+    {
+      "surface": "בַּעֲלָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1173",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Baalah, the name of three places in Palestine",
+      "translation": "Baalah, the name of three places in Palestine"
+    },
+    {
+      "surface": "בַּעֲלָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1173",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Baalah, the name of three places in Palestine",
+      "translation": "Baalah, the name of three places in Palestine"
+    },
+    {
+      "surface": "וְ/עִיִּ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5864",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ijim, a place in the Desert.",
+      "translation": "Ijim, a place in the Desert."
+    },
+    {
+      "surface": "וְ/עִיִּ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5864",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ijim, a place in the Desert.",
+      "translation": "Ijim, a place in the Desert."
+    },
+    {
+      "surface": "וָ/עָֽצֶם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6107",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Etsem, a place in Palestine",
+      "translation": "Etsem, a place in Palestine"
+    },
+    {
+      "surface": "וָ/עָֽצֶם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6107",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Etsem, a place in Palestine",
+      "translation": "Etsem, a place in Palestine"
+    }
+  ]
+}

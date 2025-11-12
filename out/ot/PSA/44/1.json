@@ -1,0 +1,113 @@
+{
+  "reference": "PSA 44:1",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 44,
+  "verse": 1,
+  "tokens": [
+    {
+      "surface": "לַ/מְנַצֵּ֬חַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Vprmsa",
+      "strong": "l/5329",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to glitter from afar, i.e. to be eminent (as a superintendent, especially of the Temple services and its music); to be permanent",
+      "translation": "properly, to glitter from afar, i.e. to be eminent (as a superintendent, especially of the Temple services and its music); to be permanent"
+    },
+    {
+      "surface": "לַ/מְנַצֵּ֬חַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Vprmsa",
+      "strong": "l/5329",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to glitter from afar, i.e. to be eminent (as a superintendent, especially of the Temple services and its music); to be permanent",
+      "translation": "properly, to glitter from afar, i.e. to be eminent (as a superintendent, especially of the Temple services and its music); to be permanent"
+    },
+    {
+      "surface": "לִ/בְנֵי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpc",
+      "strong": "l/1121 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "לִ/בְנֵי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpc",
+      "strong": "l/1121 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "קֹ֬רַח",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7141",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Korach, the name of two Edomites and three Israelites",
+      "translation": "Korach, the name of two Edomites and three Israelites"
+    },
+    {
+      "surface": "קֹ֬רַח",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7141",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Korach, the name of two Edomites and three Israelites",
+      "translation": "Korach, the name of two Edomites and three Israelites"
+    },
+    {
+      "surface": "מַשְׂכִּֽיל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsa",
+      "strong": "4905",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "instructive, i.e. a didactic poem",
+      "translation": "instructive, i.e. a didactic poem"
+    },
+    {
+      "surface": "מַשְׂכִּֽיל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsa",
+      "strong": "4905",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "instructive, i.e. a didactic poem",
+      "translation": "instructive, i.e. a didactic poem"
+    }
+  ]
+}

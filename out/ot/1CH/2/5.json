@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 2:5",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 2,
+  "verse": 5,
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc",
+      "strong": "1121 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "בְּנֵי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc",
+      "strong": "1121 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "פֶ֖רֶץ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6557",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Perets, the name of two Israelites",
+      "translation": "Perets, the name of two Israelites"
+    },
+    {
+      "surface": "פֶ֖רֶץ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6557",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Perets, the name of two Israelites",
+      "translation": "Perets, the name of two Israelites"
+    },
+    {
+      "surface": "חֶצְר֥וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2696",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chetsron, the name of a place in Palestine; also of two Israelites",
+      "translation": "Chetsron, the name of a place in Palestine; also of two Israelites"
+    },
+    {
+      "surface": "חֶצְר֥וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2696",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chetsron, the name of a place in Palestine; also of two Israelites",
+      "translation": "Chetsron, the name of a place in Palestine; also of two Israelites"
+    },
+    {
+      "surface": "וְ/חָמֽוּל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2538",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chamul, an Israelite",
+      "translation": "Chamul, an Israelite"
+    },
+    {
+      "surface": "וְ/חָמֽוּל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2538",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chamul, an Israelite",
+      "translation": "Chamul, an Israelite"
+    }
+  ]
+}

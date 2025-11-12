@@ -1,0 +1,113 @@
+{
+  "reference": "EZR 2:22",
+  "book": "EZR",
+  "book_code": "EZR",
+  "chapter": 2,
+  "verse": 22,
+  "tokens": [
+    {
+      "surface": "אַנְשֵׁ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc",
+      "strong": "376",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a man as an individual or a male person; often used as an adjunct to a more definite term (and in such cases frequently not expressed in translation)",
+      "translation": "a man as an individual or a male person; often used as an adjunct to a more definite term (and in such cases frequently not expressed in translation)"
+    },
+    {
+      "surface": "אַנְשֵׁ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc",
+      "strong": "376",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a man as an individual or a male person; often used as an adjunct to a more definite term (and in such cases frequently not expressed in translation)",
+      "translation": "a man as an individual or a male person; often used as an adjunct to a more definite term (and in such cases frequently not expressed in translation)"
+    },
+    {
+      "surface": "נְטֹפָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5199",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Netophah, a place in Palestine",
+      "translation": "Netophah, a place in Palestine"
+    },
+    {
+      "surface": "נְטֹפָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5199",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Netophah, a place in Palestine",
+      "translation": "Netophah, a place in Palestine"
+    },
+    {
+      "surface": "חֲמִשִּׁ֥ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcbpa",
+      "strong": "2572",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "fifty",
+      "translation": "fifty"
+    },
+    {
+      "surface": "חֲמִשִּׁ֥ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcbpa",
+      "strong": "2572",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "fifty",
+      "translation": "fifty"
+    },
+    {
+      "surface": "וְ/שִׁשָּֽׁה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Acmsa",
+      "strong": "c/8337",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "six (as an overplus beyond five or the fingers of the hand); as ordinal sixth",
+      "translation": "six (as an overplus beyond five or the fingers of the hand); as ordinal sixth"
+    },
+    {
+      "surface": "וְ/שִׁשָּֽׁה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Acmsa",
+      "strong": "c/8337",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "six (as an overplus beyond five or the fingers of the hand); as ordinal sixth",
+      "translation": "six (as an overplus beyond five or the fingers of the hand); as ordinal sixth"
+    }
+  ]
+}

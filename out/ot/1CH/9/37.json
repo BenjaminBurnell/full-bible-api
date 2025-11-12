@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 9:37",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 9,
+  "verse": 37,
+  "tokens": [
+    {
+      "surface": "וּ/גְד֣וֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1446",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gedor, a place in Palestine; also the name of three Israelites",
+      "translation": "Gedor, a place in Palestine; also the name of three Israelites"
+    },
+    {
+      "surface": "וּ/גְד֣וֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1446",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gedor, a place in Palestine; also the name of three Israelites",
+      "translation": "Gedor, a place in Palestine; also the name of three Israelites"
+    },
+    {
+      "surface": "וְ/אַחְי֔וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/283",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achio, the name of three Israelites",
+      "translation": "Achio, the name of three Israelites"
+    },
+    {
+      "surface": "וְ/אַחְי֔וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/283",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achio, the name of three Israelites",
+      "translation": "Achio, the name of three Israelites"
+    },
+    {
+      "surface": "וּ/זְכַרְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2148 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zecarjah, the name of twenty-nine Israelites",
+      "translation": "Zecarjah, the name of twenty-nine Israelites"
+    },
+    {
+      "surface": "וּ/זְכַרְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2148 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zecarjah, the name of twenty-nine Israelites",
+      "translation": "Zecarjah, the name of twenty-nine Israelites"
+    },
+    {
+      "surface": "וּ/מִקְלֽוֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/4732",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mikloth, a place in the Desert",
+      "translation": "Mikloth, a place in the Desert"
+    },
+    {
+      "surface": "וּ/מִקְלֽוֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/4732",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mikloth, a place in the Desert",
+      "translation": "Mikloth, a place in the Desert"
+    }
+  ]
+}

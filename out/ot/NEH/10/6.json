@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:6",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 6,
+  "tokens": [
+    {
+      "surface": "חָרִ֥ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2766",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Charim, an Israelite",
+      "translation": "Charim, an Israelite"
+    },
+    {
+      "surface": "חָרִ֥ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2766",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Charim, an Israelite",
+      "translation": "Charim, an Israelite"
+    },
+    {
+      "surface": "מְרֵמ֖וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4822",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Meremoth, the name of two Israelites",
+      "translation": "Meremoth, the name of two Israelites"
+    },
+    {
+      "surface": "מְרֵמ֖וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4822",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Meremoth, the name of two Israelites",
+      "translation": "Meremoth, the name of two Israelites"
+    },
+    {
+      "surface": "עֹֽבַדְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5662",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Obadjah, the name of thirteen Israelites",
+      "translation": "Obadjah, the name of thirteen Israelites"
+    },
+    {
+      "surface": "עֹֽבַדְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5662",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Obadjah, the name of thirteen Israelites",
+      "translation": "Obadjah, the name of thirteen Israelites"
+    }
+  ]
+}

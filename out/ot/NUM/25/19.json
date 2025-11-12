@@ -1,0 +1,87 @@
+{
+  "reference": "NUM 25:19",
+  "book": "NUM",
+  "book_code": "NUM",
+  "chapter": 25,
+  "verse": 19,
+  "tokens": [
+    {
+      "surface": "וַ/יְהִ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/1961",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
+      "translation": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)"
+    },
+    {
+      "surface": "וַ/יְהִ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/1961",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
+      "translation": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)"
+    },
+    {
+      "surface": "אַחֲרֵ֣י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR",
+      "strong": "310 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, the hind part; generally used as an adverb or conjunction, after (in various senses)",
+      "translation": "properly, the hind part; generally used as an adverb or conjunction, after (in various senses)"
+    },
+    {
+      "surface": "אַחֲרֵ֣י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR",
+      "strong": "310 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, the hind part; generally used as an adverb or conjunction, after (in various senses)",
+      "translation": "properly, the hind part; generally used as an adverb or conjunction, after (in various senses)"
+    },
+    {
+      "surface": "הַ/מַּגֵּפָ֑ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncfsa",
+      "strong": "d/4046",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a pestilence; by analogy, defeat",
+      "translation": "a pestilence; by analogy, defeat"
+    },
+    {
+      "surface": "הַ/מַּגֵּפָ֑ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncfsa",
+      "strong": "d/4046",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a pestilence; by analogy, defeat",
+      "translation": "a pestilence; by analogy, defeat"
+    }
+  ]
+}

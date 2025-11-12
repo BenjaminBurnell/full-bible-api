@@ -1,0 +1,87 @@
+{
+  "reference": "GEN 26:6",
+  "book": "GEN",
+  "book_code": "GEN",
+  "chapter": 26,
+  "verse": 6,
+  "tokens": [
+    {
+      "surface": "וַ/יֵּ֥שֶׁב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/3427",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to sit down (specifically as judge. in ambush, in quiet); by implication, to dwell, to remain; causatively, to settle, to marry",
+      "translation": "properly, to sit down (specifically as judge. in ambush, in quiet); by implication, to dwell, to remain; causatively, to settle, to marry"
+    },
+    {
+      "surface": "וַ/יֵּ֥שֶׁב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/3427",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to sit down (specifically as judge. in ambush, in quiet); by implication, to dwell, to remain; causatively, to settle, to marry",
+      "translation": "properly, to sit down (specifically as judge. in ambush, in quiet); by implication, to dwell, to remain; causatively, to settle, to marry"
+    },
+    {
+      "surface": "יִצְחָ֖ק",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3327",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jitschak (or Isaac), son of Abraham",
+      "translation": "Jitschak (or Isaac), son of Abraham"
+    },
+    {
+      "surface": "יִצְחָ֖ק",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3327",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jitschak (or Isaac), son of Abraham",
+      "translation": "Jitschak (or Isaac), son of Abraham"
+    },
+    {
+      "surface": "בִּ/גְרָֽר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "b/1642",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gerar, a Philistine city",
+      "translation": "Gerar, a Philistine city"
+    },
+    {
+      "surface": "בִּ/גְרָֽר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "b/1642",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gerar, a Philistine city",
+      "translation": "Gerar, a Philistine city"
+    }
+  ]
+}

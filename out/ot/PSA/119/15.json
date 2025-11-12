@@ -1,0 +1,113 @@
+{
+  "reference": "PSA 119:15",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 119,
+  "verse": 15,
+  "tokens": [
+    {
+      "surface": "בְּ/פִקֻּדֶ֥י/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpc/Sp2ms",
+      "strong": "b/6490",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, appointed, i.e. a mandate (of God; plural only, collectively, for the Law)",
+      "translation": "properly, appointed, i.e. a mandate (of God; plural only, collectively, for the Law)"
+    },
+    {
+      "surface": "בְּ/פִקֻּדֶ֥י/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpc/Sp2ms",
+      "strong": "b/6490",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, appointed, i.e. a mandate (of God; plural only, collectively, for the Law)",
+      "translation": "properly, appointed, i.e. a mandate (of God; plural only, collectively, for the Law)"
+    },
+    {
+      "surface": "אָשִׂ֑יחָה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqh1cs",
+      "strong": "7878",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to ponder, i.e. (by implication) converse (with oneself, and hence, aloud) or (transitively) utter",
+      "translation": "to ponder, i.e. (by implication) converse (with oneself, and hence, aloud) or (transitively) utter"
+    },
+    {
+      "surface": "אָשִׂ֑יחָה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqh1cs",
+      "strong": "7878",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to ponder, i.e. (by implication) converse (with oneself, and hence, aloud) or (transitively) utter",
+      "translation": "to ponder, i.e. (by implication) converse (with oneself, and hence, aloud) or (transitively) utter"
+    },
+    {
+      "surface": "וְ֝/אַבִּ֗יטָה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vhh1cs",
+      "strong": "c/5027",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to scan, i.e. look intently at; by implication, to regard with pleasure, favor or care",
+      "translation": "to scan, i.e. look intently at; by implication, to regard with pleasure, favor or care"
+    },
+    {
+      "surface": "וְ֝/אַבִּ֗יטָה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vhh1cs",
+      "strong": "c/5027",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to scan, i.e. look intently at; by implication, to regard with pleasure, favor or care",
+      "translation": "to scan, i.e. look intently at; by implication, to regard with pleasure, favor or care"
+    },
+    {
+      "surface": "אֹרְחֹתֶֽי/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcbpc/Sp2ms",
+      "strong": "734",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a well-trodden road (literally or figuratively); also a caravan",
+      "translation": "a well-trodden road (literally or figuratively); also a caravan"
+    },
+    {
+      "surface": "אֹרְחֹתֶֽי/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcbpc/Sp2ms",
+      "strong": "734",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a well-trodden road (literally or figuratively); also a caravan",
+      "translation": "a well-trodden road (literally or figuratively); also a caravan"
+    }
+  ]
+}

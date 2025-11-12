@@ -1,0 +1,87 @@
+{
+  "reference": "PSA 31:1",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 31,
+  "verse": 1,
+  "tokens": [
+    {
+      "surface": "לַ/מְנַצֵּ֗חַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Vprmsa",
+      "strong": "l/5329",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to glitter from afar, i.e. to be eminent (as a superintendent, especially of the Temple services and its music); to be permanent",
+      "translation": "properly, to glitter from afar, i.e. to be eminent (as a superintendent, especially of the Temple services and its music); to be permanent"
+    },
+    {
+      "surface": "לַ/מְנַצֵּ֗חַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Vprmsa",
+      "strong": "l/5329",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to glitter from afar, i.e. to be eminent (as a superintendent, especially of the Temple services and its music); to be permanent",
+      "translation": "properly, to glitter from afar, i.e. to be eminent (as a superintendent, especially of the Temple services and its music); to be permanent"
+    },
+    {
+      "surface": "מִזְמ֥וֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsa",
+      "strong": "4210",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, instrumental music; by implication, a poem set to notes",
+      "translation": "properly, instrumental music; by implication, a poem set to notes"
+    },
+    {
+      "surface": "מִזְמ֥וֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsa",
+      "strong": "4210",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, instrumental music; by implication, a poem set to notes",
+      "translation": "properly, instrumental music; by implication, a poem set to notes"
+    },
+    {
+      "surface": "לְ/דָוִֽד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/1732",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "David, the youngest son of Jesse",
+      "translation": "David, the youngest son of Jesse"
+    },
+    {
+      "surface": "לְ/דָוִֽד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/1732",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "David, the youngest son of Jesse",
+      "translation": "David, the youngest son of Jesse"
+    }
+  ]
+}

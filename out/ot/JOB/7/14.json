@@ -1,0 +1,113 @@
+{
+  "reference": "JOB 7:14",
+  "book": "JOB",
+  "book_code": "JOB",
+  "chapter": 7,
+  "verse": 14,
+  "tokens": [
+    {
+      "surface": "וְ/חִתַּתַּ֥/נִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vpq2ms/Sp1cs",
+      "strong": "c/2865",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to prostrate; hence, to break down, either (literally) by violence, or (figuratively) by confusion and fear",
+      "translation": "properly, to prostrate; hence, to break down, either (literally) by violence, or (figuratively) by confusion and fear"
+    },
+    {
+      "surface": "וְ/חִתַּתַּ֥/נִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vpq2ms/Sp1cs",
+      "strong": "c/2865",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to prostrate; hence, to break down, either (literally) by violence, or (figuratively) by confusion and fear",
+      "translation": "properly, to prostrate; hence, to break down, either (literally) by violence, or (figuratively) by confusion and fear"
+    },
+    {
+      "surface": "בַ/חֲלֹמ֑וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpa",
+      "strong": "b/2472",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a dream",
+      "translation": "a dream"
+    },
+    {
+      "surface": "בַ/חֲלֹמ֑וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpa",
+      "strong": "b/2472",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a dream",
+      "translation": "a dream"
+    },
+    {
+      "surface": "וּֽ/מֵ/חֶזְיֹנ֥וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Ncmpa",
+      "strong": "c/m/2384",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a revelation, expectation by dream",
+      "translation": "a revelation, expectation by dream"
+    },
+    {
+      "surface": "וּֽ/מֵ/חֶזְיֹנ֥וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Ncmpa",
+      "strong": "c/m/2384",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a revelation, expectation by dream",
+      "translation": "a revelation, expectation by dream"
+    },
+    {
+      "surface": "תְּבַעֲתַֽ/נִּי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVpi2ms/Sp1cs",
+      "strong": "1204",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to fear",
+      "translation": "to fear"
+    },
+    {
+      "surface": "תְּבַעֲתַֽ/נִּי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVpi2ms/Sp1cs",
+      "strong": "1204",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to fear",
+      "translation": "to fear"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:3",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 3,
+  "tokens": [
+    {
+      "surface": "שְׂרָיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8304",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Serajah, the name of nine Israelites",
+      "translation": "Serajah, the name of nine Israelites"
+    },
+    {
+      "surface": "שְׂרָיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8304",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Serajah, the name of nine Israelites",
+      "translation": "Serajah, the name of nine Israelites"
+    },
+    {
+      "surface": "עֲזַרְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5838",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Azarjah, the name of nineteen Israelites",
+      "translation": "Azarjah, the name of nineteen Israelites"
+    },
+    {
+      "surface": "עֲזַרְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5838",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Azarjah, the name of nineteen Israelites",
+      "translation": "Azarjah, the name of nineteen Israelites"
+    },
+    {
+      "surface": "יִרְמְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3414",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jirmejah, the name of eight or nine Israelites",
+      "translation": "Jirmejah, the name of eight or nine Israelites"
+    },
+    {
+      "surface": "יִרְמְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3414",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jirmejah, the name of eight or nine Israelites",
+      "translation": "Jirmejah, the name of eight or nine Israelites"
+    }
+  ]
+}

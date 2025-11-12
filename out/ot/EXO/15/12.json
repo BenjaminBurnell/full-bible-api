@@ -1,0 +1,113 @@
+{
+  "reference": "EXO 15:12",
+  "book": "EXO",
+  "book_code": "EXO",
+  "chapter": 15,
+  "verse": 12,
+  "tokens": [
+    {
+      "surface": "נָטִ֨יתָ֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqp2ms",
+      "strong": "5186",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to stretch or spread out; by implication, to bend away (including moral deflection); used in a great variety of application (as follows)",
+      "translation": "to stretch or spread out; by implication, to bend away (including moral deflection); used in a great variety of application (as follows)"
+    },
+    {
+      "surface": "נָטִ֨יתָ֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqp2ms",
+      "strong": "5186",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to stretch or spread out; by implication, to bend away (including moral deflection); used in a great variety of application (as follows)",
+      "translation": "to stretch or spread out; by implication, to bend away (including moral deflection); used in a great variety of application (as follows)"
+    },
+    {
+      "surface": "יְמִ֣ינְ/ךָ֔",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsc/Sp2ms",
+      "strong": "3225",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the right hand or side (leg, eye) of a person or other object (as the stronger and more dexterous); locally, the south",
+      "translation": "the right hand or side (leg, eye) of a person or other object (as the stronger and more dexterous); locally, the south"
+    },
+    {
+      "surface": "יְמִ֣ינְ/ךָ֔",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsc/Sp2ms",
+      "strong": "3225",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the right hand or side (leg, eye) of a person or other object (as the stronger and more dexterous); locally, the south",
+      "translation": "the right hand or side (leg, eye) of a person or other object (as the stronger and more dexterous); locally, the south"
+    },
+    {
+      "surface": "תִּבְלָעֵ֖/מוֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi3fs/Sp3mp",
+      "strong": "1104",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to make away with (specifically by swallowing); generally, to destroy",
+      "translation": "to make away with (specifically by swallowing); generally, to destroy"
+    },
+    {
+      "surface": "תִּבְלָעֵ֖/מוֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi3fs/Sp3mp",
+      "strong": "1104",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to make away with (specifically by swallowing); generally, to destroy",
+      "translation": "to make away with (specifically by swallowing); generally, to destroy"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcbsa",
+      "strong": "776",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the earth (at large, or partitively a land)",
+      "translation": "the earth (at large, or partitively a land)"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcbsa",
+      "strong": "776",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the earth (at large, or partitively a land)",
+      "translation": "the earth (at large, or partitively a land)"
+    }
+  ]
+}

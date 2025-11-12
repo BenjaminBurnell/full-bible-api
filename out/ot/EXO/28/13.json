@@ -1,0 +1,87 @@
+{
+  "reference": "EXO 28:13",
+  "book": "EXO",
+  "book_code": "EXO",
+  "chapter": 28,
+  "verse": 13,
+  "tokens": [
+    {
+      "surface": "וְ/עָשִׂ֥יתָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqq2ms",
+      "strong": "c/6213 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to do or make, in the broadest sense and widest application",
+      "translation": "to do or make, in the broadest sense and widest application"
+    },
+    {
+      "surface": "וְ/עָשִׂ֥יתָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqq2ms",
+      "strong": "c/6213 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to do or make, in the broadest sense and widest application",
+      "translation": "to do or make, in the broadest sense and widest application"
+    },
+    {
+      "surface": "מִשְׁבְּצֹ֖ת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfpc",
+      "strong": "4865",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a brocade; by analogy, a (reticulated) setting of a gem",
+      "translation": "a brocade; by analogy, a (reticulated) setting of a gem"
+    },
+    {
+      "surface": "מִשְׁבְּצֹ֖ת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfpc",
+      "strong": "4865",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a brocade; by analogy, a (reticulated) setting of a gem",
+      "translation": "a brocade; by analogy, a (reticulated) setting of a gem"
+    },
+    {
+      "surface": "זָהָֽב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsa",
+      "strong": "2091",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "gold, figuratively, something gold-colored (i.e. yellow), as oil, a clear sky",
+      "translation": "gold, figuratively, something gold-colored (i.e. yellow), as oil, a clear sky"
+    },
+    {
+      "surface": "זָהָֽב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsa",
+      "strong": "2091",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "gold, figuratively, something gold-colored (i.e. yellow), as oil, a clear sky",
+      "translation": "gold, figuratively, something gold-colored (i.e. yellow), as oil, a clear sky"
+    }
+  ]
+}

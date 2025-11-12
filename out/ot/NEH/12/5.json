@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 12:5",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 12,
+  "verse": 5,
+  "tokens": [
+    {
+      "surface": "מִיָּמִ֥ין",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4326",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mijamin, the name of three Israelites",
+      "translation": "Mijamin, the name of three Israelites"
+    },
+    {
+      "surface": "מִיָּמִ֥ין",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4326",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mijamin, the name of three Israelites",
+      "translation": "Mijamin, the name of three Israelites"
+    },
+    {
+      "surface": "מַֽעַדְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4573",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Maadjah, an Israelite",
+      "translation": "Maadjah, an Israelite"
+    },
+    {
+      "surface": "מַֽעַדְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4573",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Maadjah, an Israelite",
+      "translation": "Maadjah, an Israelite"
+    },
+    {
+      "surface": "בִּלְגָּֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1083",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bilgah, the name of two Israelites",
+      "translation": "Bilgah, the name of two Israelites"
+    },
+    {
+      "surface": "בִּלְגָּֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1083",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bilgah, the name of two Israelites",
+      "translation": "Bilgah, the name of two Israelites"
+    }
+  ]
+}

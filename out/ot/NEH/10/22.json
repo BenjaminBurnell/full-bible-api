@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:22",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 22,
+  "tokens": [
+    {
+      "surface": "מְשֵׁיזַבְאֵ֥ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4898",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Meshezabel, an Israelite",
+      "translation": "Meshezabel, an Israelite"
+    },
+    {
+      "surface": "מְשֵׁיזַבְאֵ֥ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4898",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Meshezabel, an Israelite",
+      "translation": "Meshezabel, an Israelite"
+    },
+    {
+      "surface": "צָד֖וֹק",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6659",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tsadok, the name of eight or nine Israelites",
+      "translation": "Tsadok, the name of eight or nine Israelites"
+    },
+    {
+      "surface": "צָד֖וֹק",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6659",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tsadok, the name of eight or nine Israelites",
+      "translation": "Tsadok, the name of eight or nine Israelites"
+    },
+    {
+      "surface": "יַדּֽוּעַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3037",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jaddua, the name of two Israelites",
+      "translation": "Jaddua, the name of two Israelites"
+    },
+    {
+      "surface": "יַדּֽוּעַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3037",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jaddua, the name of two Israelites",
+      "translation": "Jaddua, the name of two Israelites"
+    }
+  ]
+}

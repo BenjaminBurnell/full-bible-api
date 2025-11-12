@@ -1,0 +1,87 @@
+{
+  "reference": "DEU 28:17",
+  "book": "DEU",
+  "book_code": "DEU",
+  "chapter": 28,
+  "verse": 17,
+  "tokens": [
+    {
+      "surface": "אָר֥וּר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqsmsa",
+      "strong": "779",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to execrate",
+      "translation": "to execrate"
+    },
+    {
+      "surface": "אָר֥וּר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqsmsa",
+      "strong": "779",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to execrate",
+      "translation": "to execrate"
+    },
+    {
+      "surface": "טַנְאֲ/ךָ֖",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc/Sp2ms",
+      "strong": "2935",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a basket (of interlaced osiers)",
+      "translation": "a basket (of interlaced osiers)"
+    },
+    {
+      "surface": "טַנְאֲ/ךָ֖",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc/Sp2ms",
+      "strong": "2935",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a basket (of interlaced osiers)",
+      "translation": "a basket (of interlaced osiers)"
+    },
+    {
+      "surface": "וּ/מִשְׁאַרְתֶּֽ/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncfsc/Sp2ms",
+      "strong": "c/4863",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a kneading-trough (in which the dough rises)",
+      "translation": "a kneading-trough (in which the dough rises)"
+    },
+    {
+      "surface": "וּ/מִשְׁאַרְתֶּֽ/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncfsc/Sp2ms",
+      "strong": "c/4863",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a kneading-trough (in which the dough rises)",
+      "translation": "a kneading-trough (in which the dough rises)"
+    }
+  ]
+}

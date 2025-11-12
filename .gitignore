@@ -1,0 +1,18 @@
+@'
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Local DB (we’ll build/seed on Render)
+interlinear.sqlite3
+
+# OS/Editor junk
+.DS_Store
+Thumbs.db
+
+# Optional: ignore large raw downloads
+data/oshb/oshb.zip
+data/oshb/morphhb-*/
+'@ | Set-Content .\.gitignore -Encoding UTF8

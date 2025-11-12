@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:13",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 13,
+  "tokens": [
+    {
+      "surface": "זַכּ֥וּר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2139",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zakkur, the name of seven Israelites",
+      "translation": "Zakkur, the name of seven Israelites"
+    },
+    {
+      "surface": "זַכּ֥וּר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2139",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zakkur, the name of seven Israelites",
+      "translation": "Zakkur, the name of seven Israelites"
+    },
+    {
+      "surface": "שֵׁרֵֽבְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8274",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Sherebjah, the name of two Israelites",
+      "translation": "Sherebjah, the name of two Israelites"
+    },
+    {
+      "surface": "שֵׁרֵֽבְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8274",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Sherebjah, the name of two Israelites",
+      "translation": "Sherebjah, the name of two Israelites"
+    },
+    {
+      "surface": "שְׁבַנְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7645",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shebanjah, the name of three or four Israelites",
+      "translation": "Shebanjah, the name of three or four Israelites"
+    },
+    {
+      "surface": "שְׁבַנְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7645",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shebanjah, the name of three or four Israelites",
+      "translation": "Shebanjah, the name of three or four Israelites"
+    }
+  ]
+}

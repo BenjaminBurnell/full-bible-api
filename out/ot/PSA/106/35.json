@@ -1,0 +1,113 @@
+{
+  "reference": "PSA 106:35",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 106,
+  "verse": 35,
+  "tokens": [
+    {
+      "surface": "וַ/יִּתְעָרְב֥וּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vtw3mp",
+      "strong": "c/6148",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to braid, i.e. intermix; technically, to traffic (as if by barter); also or give to be security (as a kind of exchange)",
+      "translation": "to braid, i.e. intermix; technically, to traffic (as if by barter); also or give to be security (as a kind of exchange)"
+    },
+    {
+      "surface": "וַ/יִּתְעָרְב֥וּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vtw3mp",
+      "strong": "c/6148",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to braid, i.e. intermix; technically, to traffic (as if by barter); also or give to be security (as a kind of exchange)",
+      "translation": "to braid, i.e. intermix; technically, to traffic (as if by barter); also or give to be security (as a kind of exchange)"
+    },
+    {
+      "surface": "בַ/גּוֹיִ֑ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncmpa",
+      "strong": "b/1471 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a foreign nation; hence, a Gentile; also (figuratively) a troop of animals, or a flight of locusts",
+      "translation": "a foreign nation; hence, a Gentile; also (figuratively) a troop of animals, or a flight of locusts"
+    },
+    {
+      "surface": "בַ/גּוֹיִ֑ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncmpa",
+      "strong": "b/1471 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a foreign nation; hence, a Gentile; also (figuratively) a troop of animals, or a flight of locusts",
+      "translation": "a foreign nation; hence, a Gentile; also (figuratively) a troop of animals, or a flight of locusts"
+    },
+    {
+      "surface": "וַֽ֝/יִּלְמְד֗וּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3mp",
+      "strong": "c/3925",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to goad, i.e. (by implication) to teach (the rod being an Oriental incentive)",
+      "translation": "properly, to goad, i.e. (by implication) to teach (the rod being an Oriental incentive)"
+    },
+    {
+      "surface": "וַֽ֝/יִּלְמְד֗וּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3mp",
+      "strong": "c/3925",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to goad, i.e. (by implication) to teach (the rod being an Oriental incentive)",
+      "translation": "properly, to goad, i.e. (by implication) to teach (the rod being an Oriental incentive)"
+    },
+    {
+      "surface": "מַֽעֲשֵׂי/הֶֽם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc/Sp3mp",
+      "strong": "4639",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an action (good or bad); generally, a transaction; abstractly, activity; by implication, a product (specifically, a poem) or (generally) property",
+      "translation": "an action (good or bad); generally, a transaction; abstractly, activity; by implication, a product (specifically, a poem) or (generally) property"
+    },
+    {
+      "surface": "מַֽעֲשֵׂי/הֶֽם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc/Sp3mp",
+      "strong": "4639",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an action (good or bad); generally, a transaction; abstractly, activity; by implication, a product (specifically, a poem) or (generally) property",
+      "translation": "an action (good or bad); generally, a transaction; abstractly, activity; by implication, a product (specifically, a poem) or (generally) property"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:17",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 17,
+  "tokens": [
+    {
+      "surface": "אֲדֹנִיָּ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "138",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Adonijah, the name of three Israelites",
+      "translation": "Adonijah, the name of three Israelites"
+    },
+    {
+      "surface": "אֲדֹנִיָּ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "138",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Adonijah, the name of three Israelites",
+      "translation": "Adonijah, the name of three Israelites"
+    },
+    {
+      "surface": "בִגְוַ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "902",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bigvai, an Israelite",
+      "translation": "Bigvai, an Israelite"
+    },
+    {
+      "surface": "בִגְוַ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "902",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bigvai, an Israelite",
+      "translation": "Bigvai, an Israelite"
+    },
+    {
+      "surface": "עָדִֽין",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5720",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Adin, the name of two Israelites",
+      "translation": "Adin, the name of two Israelites"
+    },
+    {
+      "surface": "עָדִֽין",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5720",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Adin, the name of two Israelites",
+      "translation": "Adin, the name of two Israelites"
+    }
+  ]
+}

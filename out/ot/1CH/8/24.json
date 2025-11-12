@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 8:24",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 8,
+  "verse": 24,
+  "tokens": [
+    {
+      "surface": "וַ/חֲנַנְיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2608 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chananjah, the name of thirteen Israelites",
+      "translation": "Chananjah, the name of thirteen Israelites"
+    },
+    {
+      "surface": "וַ/חֲנַנְיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2608 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chananjah, the name of thirteen Israelites",
+      "translation": "Chananjah, the name of thirteen Israelites"
+    },
+    {
+      "surface": "וְ/עֵילָ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5867 b",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elam, a son of Shem and his descendants, with their country; also of six Israelites",
+      "translation": "Elam, a son of Shem and his descendants, with their country; also of six Israelites"
+    },
+    {
+      "surface": "וְ/עֵילָ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5867 b",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elam, a son of Shem and his descendants, with their country; also of six Israelites",
+      "translation": "Elam, a son of Shem and his descendants, with their country; also of six Israelites"
+    },
+    {
+      "surface": "וְ/עַנְתֹתִיָּֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6070",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Anthothijah, an Israelite",
+      "translation": "Anthothijah, an Israelite"
+    },
+    {
+      "surface": "וְ/עַנְתֹתִיָּֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6070",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Anthothijah, an Israelite",
+      "translation": "Anthothijah, an Israelite"
+    }
+  ]
+}

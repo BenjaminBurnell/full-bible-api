@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:16",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 16,
+  "tokens": [
+    {
+      "surface": "בֻּנִּ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1138",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bunni or Buni, an Israelite",
+      "translation": "Bunni or Buni, an Israelite"
+    },
+    {
+      "surface": "בֻּנִּ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1138",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bunni or Buni, an Israelite",
+      "translation": "Bunni or Buni, an Israelite"
+    },
+    {
+      "surface": "עַזְגָּ֖ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5803",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Azgad, an Israelite",
+      "translation": "Azgad, an Israelite"
+    },
+    {
+      "surface": "עַזְגָּ֖ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5803",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Azgad, an Israelite",
+      "translation": "Azgad, an Israelite"
+    },
+    {
+      "surface": "בֵּבָֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "893",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bebai, an Israelite",
+      "translation": "Bebai, an Israelite"
+    },
+    {
+      "surface": "בֵּבָֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "893",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bebai, an Israelite",
+      "translation": "Bebai, an Israelite"
+    }
+  ]
+}

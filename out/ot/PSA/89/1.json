@@ -1,0 +1,87 @@
+{
+  "reference": "PSA 89:1",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 89,
+  "verse": 1,
+  "tokens": [
+    {
+      "surface": "מַ֝שְׂכִּ֗יל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsa",
+      "strong": "4905",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "instructive, i.e. a didactic poem",
+      "translation": "instructive, i.e. a didactic poem"
+    },
+    {
+      "surface": "מַ֝שְׂכִּ֗יל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsa",
+      "strong": "4905",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "instructive, i.e. a didactic poem",
+      "translation": "instructive, i.e. a didactic poem"
+    },
+    {
+      "surface": "לְ/אֵיתָ֥ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/387",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ethan, the name of four Israelites",
+      "translation": "Ethan, the name of four Israelites"
+    },
+    {
+      "surface": "לְ/אֵיתָ֥ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/387",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ethan, the name of four Israelites",
+      "translation": "Ethan, the name of four Israelites"
+    },
+    {
+      "surface": "הָֽ/אֶזְרָחִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/250",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an Ezrachite or descendant of Zerach",
+      "translation": "an Ezrachite or descendant of Zerach"
+    },
+    {
+      "surface": "הָֽ/אֶזְרָחִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/250",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an Ezrachite or descendant of Zerach",
+      "translation": "an Ezrachite or descendant of Zerach"
+    }
+  ]
+}

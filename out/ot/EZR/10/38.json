@@ -1,0 +1,87 @@
+{
+  "reference": "EZR 10:38",
+  "book": "EZR",
+  "book_code": "EZR",
+  "chapter": 10,
+  "verse": 38,
+  "tokens": [
+    {
+      "surface": "וּ/בָנִ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1137",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bani, the name of five Israelites",
+      "translation": "Bani, the name of five Israelites"
+    },
+    {
+      "surface": "וּ/בָנִ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1137",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bani, the name of five Israelites",
+      "translation": "Bani, the name of five Israelites"
+    },
+    {
+      "surface": "וּ/בִנּ֖וּי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1131",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Binnui, an Israelite",
+      "translation": "Binnui, an Israelite"
+    },
+    {
+      "surface": "וּ/בִנּ֖וּי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1131",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Binnui, an Israelite",
+      "translation": "Binnui, an Israelite"
+    },
+    {
+      "surface": "שִׁמְעִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8096",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shimi, the name of twenty Israelites",
+      "translation": "Shimi, the name of twenty Israelites"
+    },
+    {
+      "surface": "שִׁמְעִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8096",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shimi, the name of twenty Israelites",
+      "translation": "Shimi, the name of twenty Israelites"
+    }
+  ]
+}

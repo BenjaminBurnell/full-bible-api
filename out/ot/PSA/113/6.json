@@ -1,0 +1,113 @@
+{
+  "reference": "PSA 113:6",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 113,
+  "verse": 6,
+  "tokens": [
+    {
+      "surface": "הַֽ/מַּשְׁפִּילִ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Vhrmsc",
+      "strong": "d/8213",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to depress or sink (especially figuratively, to humiliate, intransitive or transitive)",
+      "translation": "to depress or sink (especially figuratively, to humiliate, intransitive or transitive)"
+    },
+    {
+      "surface": "הַֽ/מַּשְׁפִּילִ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Vhrmsc",
+      "strong": "d/8213",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to depress or sink (especially figuratively, to humiliate, intransitive or transitive)",
+      "translation": "to depress or sink (especially figuratively, to humiliate, intransitive or transitive)"
+    },
+    {
+      "surface": "לִ/רְא֑וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Vqc",
+      "strong": "l/7200",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)",
+      "translation": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)"
+    },
+    {
+      "surface": "לִ/רְא֑וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Vqc",
+      "strong": "l/7200",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)",
+      "translation": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)"
+    },
+    {
+      "surface": "בַּ/שָּׁמַ֥יִם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncmpa",
+      "strong": "b/8064",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
+      "translation": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)"
+    },
+    {
+      "surface": "בַּ/שָּׁמַ֥יִם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncmpa",
+      "strong": "b/8064",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)",
+      "translation": "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)"
+    },
+    {
+      "surface": "וּ/בָ/אָֽרֶץ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Rd/Ncbsa",
+      "strong": "c/b/776",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the earth (at large, or partitively a land)",
+      "translation": "the earth (at large, or partitively a land)"
+    },
+    {
+      "surface": "וּ/בָ/אָֽרֶץ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Rd/Ncbsa",
+      "strong": "c/b/776",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the earth (at large, or partitively a land)",
+      "translation": "the earth (at large, or partitively a land)"
+    }
+  ]
+}

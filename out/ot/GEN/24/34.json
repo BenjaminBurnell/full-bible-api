@@ -1,0 +1,113 @@
+{
+  "reference": "GEN 24:34",
+  "book": "GEN",
+  "book_code": "GEN",
+  "chapter": 24,
+  "verse": 34,
+  "tokens": [
+    {
+      "surface": "וַ/יֹּאמַ֑ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/559",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    },
+    {
+      "surface": "וַ/יֹּאמַ֑ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/559",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    },
+    {
+      "surface": "עֶ֥בֶד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "5650",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a servant",
+      "translation": "a servant"
+    },
+    {
+      "surface": "עֶ֥בֶד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "5650",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a servant",
+      "translation": "a servant"
+    },
+    {
+      "surface": "אַבְרָהָ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "85",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abraham, the later name of Abram",
+      "translation": "Abraham, the later name of Abram"
+    },
+    {
+      "surface": "אַבְרָהָ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "85",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abraham, the later name of Abram",
+      "translation": "Abraham, the later name of Abram"
+    },
+    {
+      "surface": "אָנֹֽכִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HPp1cs",
+      "strong": "595",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "I",
+      "translation": "I"
+    },
+    {
+      "surface": "אָנֹֽכִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HPp1cs",
+      "strong": "595",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "I",
+      "translation": "I"
+    }
+  ]
+}

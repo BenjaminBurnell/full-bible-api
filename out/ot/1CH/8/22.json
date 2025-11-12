@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 8:22",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 8,
+  "verse": 22,
+  "tokens": [
+    {
+      "surface": "וְ/יִשְׁפָּ֥ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3473",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jishpan, an Israelite",
+      "translation": "Jishpan, an Israelite"
+    },
+    {
+      "surface": "וְ/יִשְׁפָּ֥ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3473",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jishpan, an Israelite",
+      "translation": "Jishpan, an Israelite"
+    },
+    {
+      "surface": "וָ/עֵ֖בֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5677",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eber, the name of two patriarchs and four Israelites",
+      "translation": "Eber, the name of two patriarchs and four Israelites"
+    },
+    {
+      "surface": "וָ/עֵ֖בֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5677",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eber, the name of two patriarchs and four Israelites",
+      "translation": "Eber, the name of two patriarchs and four Israelites"
+    },
+    {
+      "surface": "וֶ/אֱלִיאֵֽל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/447",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eliel, the name of nine Israelites",
+      "translation": "Eliel, the name of nine Israelites"
+    },
+    {
+      "surface": "וֶ/אֱלִיאֵֽל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/447",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eliel, the name of nine Israelites",
+      "translation": "Eliel, the name of nine Israelites"
+    }
+  ]
+}

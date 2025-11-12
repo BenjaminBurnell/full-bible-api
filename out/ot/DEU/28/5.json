@@ -1,0 +1,87 @@
+{
+  "reference": "DEU 28:5",
+  "book": "DEU",
+  "book_code": "DEU",
+  "chapter": 28,
+  "verse": 5,
+  "tokens": [
+    {
+      "surface": "בָּר֥וּךְ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqsmsa",
+      "strong": "1288",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to kneel; by implication to bless God (as an act of adoration), and (vice-versa) man (as a benefit); also (by euphemism) to curse (God or the king, as treason)",
+      "translation": "to kneel; by implication to bless God (as an act of adoration), and (vice-versa) man (as a benefit); also (by euphemism) to curse (God or the king, as treason)"
+    },
+    {
+      "surface": "בָּר֥וּךְ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqsmsa",
+      "strong": "1288",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to kneel; by implication to bless God (as an act of adoration), and (vice-versa) man (as a benefit); also (by euphemism) to curse (God or the king, as treason)",
+      "translation": "to kneel; by implication to bless God (as an act of adoration), and (vice-versa) man (as a benefit); also (by euphemism) to curse (God or the king, as treason)"
+    },
+    {
+      "surface": "טַנְאֲ/ךָ֖",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc/Sp2ms",
+      "strong": "2935",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a basket (of interlaced osiers)",
+      "translation": "a basket (of interlaced osiers)"
+    },
+    {
+      "surface": "טַנְאֲ/ךָ֖",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc/Sp2ms",
+      "strong": "2935",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a basket (of interlaced osiers)",
+      "translation": "a basket (of interlaced osiers)"
+    },
+    {
+      "surface": "וּ/מִשְׁאַרְתֶּֽ/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncfsc/Sp2ms",
+      "strong": "c/4863",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a kneading-trough (in which the dough rises)",
+      "translation": "a kneading-trough (in which the dough rises)"
+    },
+    {
+      "surface": "וּ/מִשְׁאַרְתֶּֽ/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncfsc/Sp2ms",
+      "strong": "c/4863",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a kneading-trough (in which the dough rises)",
+      "translation": "a kneading-trough (in which the dough rises)"
+    }
+  ]
+}

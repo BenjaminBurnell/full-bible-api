@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 11:28",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 11,
+  "verse": 28,
+  "tokens": [
+    {
+      "surface": "וּ/בְ/צִֽקְלַ֥ג",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/6860",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tsiklag or Tsikelag, a place in Palestine",
+      "translation": "Tsiklag or Tsikelag, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְ/צִֽקְלַ֥ג",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/6860",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tsiklag or Tsikelag, a place in Palestine",
+      "translation": "Tsiklag or Tsikelag, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בִ/מְכֹנָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/4368",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mekonah, a place in Palestine",
+      "translation": "Mekonah, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בִ/מְכֹנָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/4368",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mekonah, a place in Palestine",
+      "translation": "Mekonah, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בִ/בְנֹתֶֽי/הָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Ncfpc/Sp3fs",
+      "strong": "c/b/1323",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a daughter (used in the same wide sense as other terms of relationship, literally and figuratively)",
+      "translation": "a daughter (used in the same wide sense as other terms of relationship, literally and figuratively)"
+    },
+    {
+      "surface": "וּ/בִ/בְנֹתֶֽי/הָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Ncfpc/Sp3fs",
+      "strong": "c/b/1323",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a daughter (used in the same wide sense as other terms of relationship, literally and figuratively)",
+      "translation": "a daughter (used in the same wide sense as other terms of relationship, literally and figuratively)"
+    }
+  ]
+}

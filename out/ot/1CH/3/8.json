@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 3:8",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 3,
+  "verse": 8,
+  "tokens": [
+    {
+      "surface": "וֶ/אֱלִישָׁמָ֧ע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/476",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elishama, the name of seven Israelites",
+      "translation": "Elishama, the name of seven Israelites"
+    },
+    {
+      "surface": "וֶ/אֱלִישָׁמָ֧ע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/476",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elishama, the name of seven Israelites",
+      "translation": "Elishama, the name of seven Israelites"
+    },
+    {
+      "surface": "וְ/אֶלְיָדָ֛ע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/450",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eljada, the name of two Israelites and of an Aramaean leader",
+      "translation": "Eljada, the name of two Israelites and of an Aramaean leader"
+    },
+    {
+      "surface": "וְ/אֶלְיָדָ֛ע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/450",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eljada, the name of two Israelites and of an Aramaean leader",
+      "translation": "Eljada, the name of two Israelites and of an Aramaean leader"
+    },
+    {
+      "surface": "וֶ/אֱלִיפֶ֖לֶט",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/467",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eliphelet or Elpelet, the name of six Israelites",
+      "translation": "Eliphelet or Elpelet, the name of six Israelites"
+    },
+    {
+      "surface": "וֶ/אֱלִיפֶ֖לֶט",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/467",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eliphelet or Elpelet, the name of six Israelites",
+      "translation": "Eliphelet or Elpelet, the name of six Israelites"
+    },
+    {
+      "surface": "תִּשְׁעָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcmsa",
+      "strong": "8672",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "nine or (ordinal) ninth",
+      "translation": "nine or (ordinal) ninth"
+    },
+    {
+      "surface": "תִּשְׁעָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcmsa",
+      "strong": "8672",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "nine or (ordinal) ninth",
+      "translation": "nine or (ordinal) ninth"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:26",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 26,
+  "tokens": [
+    {
+      "surface": "רְח֥וּם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7348 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Rechum, the name of a Persian and of three Israelites",
+      "translation": "Rechum, the name of a Persian and of three Israelites"
+    },
+    {
+      "surface": "רְח֥וּם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7348 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Rechum, the name of a Persian and of three Israelites",
+      "translation": "Rechum, the name of a Persian and of three Israelites"
+    },
+    {
+      "surface": "חֲשַׁבְנָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2812",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chashnah, an Israelite",
+      "translation": "Chashnah, an Israelite"
+    },
+    {
+      "surface": "חֲשַׁבְנָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2812",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chashnah, an Israelite",
+      "translation": "Chashnah, an Israelite"
+    },
+    {
+      "surface": "מַעֲשֵׂיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4641",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Maasejah, the name of sixteen Israelites",
+      "translation": "Maasejah, the name of sixteen Israelites"
+    },
+    {
+      "surface": "מַעֲשֵׂיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4641",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Maasejah, the name of sixteen Israelites",
+      "translation": "Maasejah, the name of sixteen Israelites"
+    }
+  ]
+}

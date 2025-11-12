@@ -1,0 +1,113 @@
+{
+  "reference": "NEH 12:15",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 12,
+  "verse": 15,
+  "tokens": [
+    {
+      "surface": "לְ/חָרִ֣ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/2766",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Charim, an Israelite",
+      "translation": "Charim, an Israelite"
+    },
+    {
+      "surface": "לְ/חָרִ֣ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/2766",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Charim, an Israelite",
+      "translation": "Charim, an Israelite"
+    },
+    {
+      "surface": "עַדְנָ֔א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5733",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Adna, the name of two Israelites",
+      "translation": "Adna, the name of two Israelites"
+    },
+    {
+      "surface": "עַדְנָ֔א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5733",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Adna, the name of two Israelites",
+      "translation": "Adna, the name of two Israelites"
+    },
+    {
+      "surface": "לִ/מְרָי֖וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/4812",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Merajoth, the name of two Israelites",
+      "translation": "Merajoth, the name of two Israelites"
+    },
+    {
+      "surface": "לִ/מְרָי֖וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/4812",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Merajoth, the name of two Israelites",
+      "translation": "Merajoth, the name of two Israelites"
+    },
+    {
+      "surface": "חֶלְקָֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2517",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chelkai, an Israelite",
+      "translation": "Chelkai, an Israelite"
+    },
+    {
+      "surface": "חֶלְקָֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2517",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chelkai, an Israelite",
+      "translation": "Chelkai, an Israelite"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "reference": "EXO 25:38",
+  "book": "EXO",
+  "book_code": "EXO",
+  "chapter": 25,
+  "verse": 38,
+  "tokens": [
+    {
+      "surface": "וּ/מַלְקָחֶ֥י/הָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncmdc/Sp3fs",
+      "strong": "c/4457",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(only in dual) tweezers",
+      "translation": "(only in dual) tweezers"
+    },
+    {
+      "surface": "וּ/מַלְקָחֶ֥י/הָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncmdc/Sp3fs",
+      "strong": "c/4457",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(only in dual) tweezers",
+      "translation": "(only in dual) tweezers"
+    },
+    {
+      "surface": "וּ/מַחְתֹּתֶ֖י/הָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncfpc/Sp3fs",
+      "strong": "c/4289",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a pan for live coals",
+      "translation": "a pan for live coals"
+    },
+    {
+      "surface": "וּ/מַחְתֹּתֶ֖י/הָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncfpc/Sp3fs",
+      "strong": "c/4289",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a pan for live coals",
+      "translation": "a pan for live coals"
+    },
+    {
+      "surface": "זָהָ֥ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsa",
+      "strong": "2091",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "gold, figuratively, something gold-colored (i.e. yellow), as oil, a clear sky",
+      "translation": "gold, figuratively, something gold-colored (i.e. yellow), as oil, a clear sky"
+    },
+    {
+      "surface": "זָהָ֥ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsa",
+      "strong": "2091",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "gold, figuratively, something gold-colored (i.e. yellow), as oil, a clear sky",
+      "translation": "gold, figuratively, something gold-colored (i.e. yellow), as oil, a clear sky"
+    },
+    {
+      "surface": "טָהֽוֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAamsa",
+      "strong": "2889",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "pure (in a physical, chemical, ceremonial or moral sense)",
+      "translation": "pure (in a physical, chemical, ceremonial or moral sense)"
+    },
+    {
+      "surface": "טָהֽוֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAamsa",
+      "strong": "2889",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "pure (in a physical, chemical, ceremonial or moral sense)",
+      "translation": "pure (in a physical, chemical, ceremonial or moral sense)"
+    }
+  ]
+}

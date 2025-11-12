@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 1:1",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 1,
+  "verse": 1,
+  "tokens": [
+    {
+      "surface": "אָדָ֥ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "121",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Adam the name of the first man, also of a place in Palestine",
+      "translation": "Adam the name of the first man, also of a place in Palestine"
+    },
+    {
+      "surface": "אָדָ֥ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "121",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Adam the name of the first man, also of a place in Palestine",
+      "translation": "Adam the name of the first man, also of a place in Palestine"
+    },
+    {
+      "surface": "שֵׁ֖ת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8352",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Sheth, third son of Adam",
+      "translation": "Sheth, third son of Adam"
+    },
+    {
+      "surface": "שֵׁ֖ת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8352",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Sheth, third son of Adam",
+      "translation": "Sheth, third son of Adam"
+    },
+    {
+      "surface": "אֱנֽוֹשׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "583",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Enosh, a son of Seth",
+      "translation": "Enosh, a son of Seth"
+    },
+    {
+      "surface": "אֱנֽוֹשׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "583",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Enosh, a son of Seth",
+      "translation": "Enosh, a son of Seth"
+    }
+  ]
+}

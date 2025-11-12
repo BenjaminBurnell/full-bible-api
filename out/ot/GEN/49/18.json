@@ -1,0 +1,87 @@
+{
+  "reference": "GEN 49:18",
+  "book": "GEN",
+  "book_code": "GEN",
+  "chapter": 49,
+  "verse": 18,
+  "tokens": [
+    {
+      "surface": "לִֽ/ישׁוּעָתְ/ךָ֖",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfsc/Sp2ms",
+      "strong": "l/3444",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "something saved, i.e. (abstractly) deliverance; hence, aid, victory, prosperity",
+      "translation": "something saved, i.e. (abstractly) deliverance; hence, aid, victory, prosperity"
+    },
+    {
+      "surface": "לִֽ/ישׁוּעָתְ/ךָ֖",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfsc/Sp2ms",
+      "strong": "l/3444",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "something saved, i.e. (abstractly) deliverance; hence, aid, victory, prosperity",
+      "translation": "something saved, i.e. (abstractly) deliverance; hence, aid, victory, prosperity"
+    },
+    {
+      "surface": "קִוִּ֥יתִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVpp1cs",
+      "strong": "6960 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to bind together (perhaps by twisting), i.e. collect; (figuratively) to expect",
+      "translation": "to bind together (perhaps by twisting), i.e. collect; (figuratively) to expect"
+    },
+    {
+      "surface": "קִוִּ֥יתִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVpp1cs",
+      "strong": "6960 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to bind together (perhaps by twisting), i.e. collect; (figuratively) to expect",
+      "translation": "to bind together (perhaps by twisting), i.e. collect; (figuratively) to expect"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3068",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God",
+      "translation": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3068",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God",
+      "translation": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God"
+    }
+  ]
+}

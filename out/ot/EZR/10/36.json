@@ -1,0 +1,87 @@
+{
+  "reference": "EZR 10:36",
+  "book": "EZR",
+  "book_code": "EZR",
+  "chapter": 10,
+  "verse": 36,
+  "tokens": [
+    {
+      "surface": "וַנְיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2057",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Vanjah, an Israelite",
+      "translation": "Vanjah, an Israelite"
+    },
+    {
+      "surface": "וַנְיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2057",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Vanjah, an Israelite",
+      "translation": "Vanjah, an Israelite"
+    },
+    {
+      "surface": "מְרֵמ֖וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4822",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Meremoth, the name of two Israelites",
+      "translation": "Meremoth, the name of two Israelites"
+    },
+    {
+      "surface": "מְרֵמ֖וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4822",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Meremoth, the name of two Israelites",
+      "translation": "Meremoth, the name of two Israelites"
+    },
+    {
+      "surface": "אֶלְיָשִֽׁיב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "475",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eljashib, the name of six Israelites",
+      "translation": "Eljashib, the name of six Israelites"
+    },
+    {
+      "surface": "אֶלְיָשִֽׁיב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "475",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eljashib, the name of six Israelites",
+      "translation": "Eljashib, the name of six Israelites"
+    }
+  ]
+}

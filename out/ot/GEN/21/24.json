@@ -1,0 +1,113 @@
+{
+  "reference": "GEN 21:24",
+  "book": "GEN",
+  "book_code": "GEN",
+  "chapter": 21,
+  "verse": 24,
+  "tokens": [
+    {
+      "surface": "וַ/יֹּ֨אמֶר֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/559",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    },
+    {
+      "surface": "וַ/יֹּ֨אמֶר֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/559",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    },
+    {
+      "surface": "אַבְרָהָ֔ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "85",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abraham, the later name of Abram",
+      "translation": "Abraham, the later name of Abram"
+    },
+    {
+      "surface": "אַבְרָהָ֔ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "85",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abraham, the later name of Abram",
+      "translation": "Abraham, the later name of Abram"
+    },
+    {
+      "surface": "אָנֹכִ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HPp1cs",
+      "strong": "595",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "I",
+      "translation": "I"
+    },
+    {
+      "surface": "אָנֹכִ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HPp1cs",
+      "strong": "595",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "I",
+      "translation": "I"
+    },
+    {
+      "surface": "אִשָּׁבֵֽעַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVNi1cs",
+      "strong": "7650",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to seven oneself, i.e. swear (as if by repeating a declaration seven times)",
+      "translation": "to seven oneself, i.e. swear (as if by repeating a declaration seven times)"
+    },
+    {
+      "surface": "אִשָּׁבֵֽעַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVNi1cs",
+      "strong": "7650",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to seven oneself, i.e. swear (as if by repeating a declaration seven times)",
+      "translation": "to seven oneself, i.e. swear (as if by repeating a declaration seven times)"
+    }
+  ]
+}

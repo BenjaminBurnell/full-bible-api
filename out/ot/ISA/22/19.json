@@ -1,0 +1,113 @@
+{
+  "reference": "ISA 22:19",
+  "book": "ISA",
+  "book_code": "ISA",
+  "chapter": 22,
+  "verse": 19,
+  "tokens": [
+    {
+      "surface": "וַ/הֲדַפְתִּ֖י/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqq1cs/Sp2ms",
+      "strong": "c/1920",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to push away or down",
+      "translation": "to push away or down"
+    },
+    {
+      "surface": "וַ/הֲדַפְתִּ֖י/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqq1cs/Sp2ms",
+      "strong": "c/1920",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to push away or down",
+      "translation": "to push away or down"
+    },
+    {
+      "surface": "מִ/מַּצָּבֶ֑/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmsc/Sp2ms",
+      "strong": "m/4673",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a fixed spot; figuratively, an office, a military post",
+      "translation": "a fixed spot; figuratively, an office, a military post"
+    },
+    {
+      "surface": "מִ/מַּצָּבֶ֑/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmsc/Sp2ms",
+      "strong": "m/4673",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a fixed spot; figuratively, an office, a military post",
+      "translation": "a fixed spot; figuratively, an office, a military post"
+    },
+    {
+      "surface": "וּ/מִ/מַּעֲמָֽדְ/ךָ֖",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Ncmsc/Sp2ms",
+      "strong": "c/m/4612",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(figuratively) a position",
+      "translation": "(figuratively) a position"
+    },
+    {
+      "surface": "וּ/מִ/מַּעֲמָֽדְ/ךָ֖",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Ncmsc/Sp2ms",
+      "strong": "c/m/4612",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(figuratively) a position",
+      "translation": "(figuratively) a position"
+    },
+    {
+      "surface": "יֶהֶרְסֶֽ/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi3ms/Sp2ms",
+      "strong": "2040",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to pull down or in pieces, break, destroy",
+      "translation": "to pull down or in pieces, break, destroy"
+    },
+    {
+      "surface": "יֶהֶרְסֶֽ/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi3ms/Sp2ms",
+      "strong": "2040",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to pull down or in pieces, break, destroy",
+      "translation": "to pull down or in pieces, break, destroy"
+    }
+  ]
+}

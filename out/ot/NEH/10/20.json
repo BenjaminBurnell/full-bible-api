@@ -1,0 +1,113 @@
+{
+  "reference": "NEH 10:20",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 20,
+  "tokens": [
+    {
+      "surface": "חָרִ֥יף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2756",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chariph, the name of two Israelites",
+      "translation": "Chariph, the name of two Israelites"
+    },
+    {
+      "surface": "חָרִ֥יף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2756",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chariph, the name of two Israelites",
+      "translation": "Chariph, the name of two Israelites"
+    },
+    {
+      "surface": "עֲנָת֖וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6068",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Anathoth, the name of two Israelites, also of a place in Pal",
+      "translation": "Anathoth, the name of two Israelites, also of a place in Pal"
+    },
+    {
+      "surface": "עֲנָת֖וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6068",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Anathoth, the name of two Israelites, also of a place in Pal",
+      "translation": "Anathoth, the name of two Israelites, also of a place in Pal"
+    },
+    {
+      "surface": "נובי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5109",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nobai, an Israelite",
+      "translation": "Nobai, an Israelite"
+    },
+    {
+      "surface": "נובי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5109",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nobai, an Israelite",
+      "translation": "Nobai, an Israelite"
+    },
+    {
+      "surface": "נֵיבָֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5109",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nobai, an Israelite",
+      "translation": "Nobai, an Israelite"
+    },
+    {
+      "surface": "נֵיבָֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5109",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nobai, an Israelite",
+      "translation": "Nobai, an Israelite"
+    }
+  ]
+}

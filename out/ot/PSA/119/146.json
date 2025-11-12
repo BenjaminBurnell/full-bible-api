@@ -1,0 +1,113 @@
+{
+  "reference": "PSA 119:146",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 119,
+  "verse": 146,
+  "tokens": [
+    {
+      "surface": "קְרָאתִ֥י/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqp1cs/Sp2ms",
+      "strong": "7121",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to call out to (i.e. properly, address by name, but used in a wide variety of applications)",
+      "translation": "to call out to (i.e. properly, address by name, but used in a wide variety of applications)"
+    },
+    {
+      "surface": "קְרָאתִ֥י/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqp1cs/Sp2ms",
+      "strong": "7121",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to call out to (i.e. properly, address by name, but used in a wide variety of applications)",
+      "translation": "to call out to (i.e. properly, address by name, but used in a wide variety of applications)"
+    },
+    {
+      "surface": "הוֹשִׁיעֵ֑/נִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVhv2ms/Sp1cs",
+      "strong": "3467",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to be open, wide or free, i.e. (by implication) to be safe; causatively, to free or succor",
+      "translation": "properly, to be open, wide or free, i.e. (by implication) to be safe; causatively, to free or succor"
+    },
+    {
+      "surface": "הוֹשִׁיעֵ֑/נִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVhv2ms/Sp1cs",
+      "strong": "3467",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to be open, wide or free, i.e. (by implication) to be safe; causatively, to free or succor",
+      "translation": "properly, to be open, wide or free, i.e. (by implication) to be safe; causatively, to free or succor"
+    },
+    {
+      "surface": "וְ֝/אֶשְׁמְרָ֗ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqh1cs",
+      "strong": "c/8104",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to hedge about (as with thorns), i.e. guard; generally, to protect, attend to, etc.",
+      "translation": "properly, to hedge about (as with thorns), i.e. guard; generally, to protect, attend to, etc."
+    },
+    {
+      "surface": "וְ֝/אֶשְׁמְרָ֗ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqh1cs",
+      "strong": "c/8104",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to hedge about (as with thorns), i.e. guard; generally, to protect, attend to, etc.",
+      "translation": "properly, to hedge about (as with thorns), i.e. guard; generally, to protect, attend to, etc."
+    },
+    {
+      "surface": "עֵדֹתֶֽי/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfpc/Sp2ms",
+      "strong": "5713 b",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "testimony",
+      "translation": "testimony"
+    },
+    {
+      "surface": "עֵדֹתֶֽי/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfpc/Sp2ms",
+      "strong": "5713 b",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "testimony",
+      "translation": "testimony"
+    }
+  ]
+}

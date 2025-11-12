@@ -1,0 +1,113 @@
+{
+  "reference": "DEU 3:15",
+  "book": "DEU",
+  "book_code": "DEU",
+  "chapter": 3,
+  "verse": 15,
+  "tokens": [
+    {
+      "surface": "וּ/לְ/מָכִ֖יר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/l/4353",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Makir, an Israelite",
+      "translation": "Makir, an Israelite"
+    },
+    {
+      "surface": "וּ/לְ/מָכִ֖יר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/l/4353",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Makir, an Israelite",
+      "translation": "Makir, an Israelite"
+    },
+    {
+      "surface": "נָתַ֥תִּי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqp1cs",
+      "strong": "5414",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to give, used with greatest latitude of application (put, make, etc.)",
+      "translation": "to give, used with greatest latitude of application (put, make, etc.)"
+    },
+    {
+      "surface": "נָתַ֥תִּי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqp1cs",
+      "strong": "5414",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to give, used with greatest latitude of application (put, make, etc.)",
+      "translation": "to give, used with greatest latitude of application (put, make, etc.)"
+    },
+    {
+      "surface": "אֶת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTo",
+      "strong": "853",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, self (but generally used to point out more definitely the object of a verb or preposition, even or namely)",
+      "translation": "properly, self (but generally used to point out more definitely the object of a verb or preposition, even or namely)"
+    },
+    {
+      "surface": "אֶת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTo",
+      "strong": "853",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, self (but generally used to point out more definitely the object of a verb or preposition, even or namely)",
+      "translation": "properly, self (but generally used to point out more definitely the object of a verb or preposition, even or namely)"
+    },
+    {
+      "surface": "הַ/גִּלְעָֽד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Np",
+      "strong": "d/1568",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gilad, a region East of the Jordan; also the name of three Israelites",
+      "translation": "Gilad, a region East of the Jordan; also the name of three Israelites"
+    },
+    {
+      "surface": "הַ/גִּלְעָֽד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Np",
+      "strong": "d/1568",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gilad, a region East of the Jordan; also the name of three Israelites",
+      "translation": "Gilad, a region East of the Jordan; also the name of three Israelites"
+    }
+  ]
+}

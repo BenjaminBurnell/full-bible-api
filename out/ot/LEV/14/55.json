@@ -1,0 +1,87 @@
+{
+  "reference": "LEV 14:55",
+  "book": "LEV",
+  "book_code": "LEV",
+  "chapter": 14,
+  "verse": 55,
+  "tokens": [
+    {
+      "surface": "וּ/לְ/צָרַ֥עַת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Ncfsc",
+      "strong": "c/l/6883",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "leprosy",
+      "translation": "leprosy"
+    },
+    {
+      "surface": "וּ/לְ/צָרַ֥עַת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Ncfsc",
+      "strong": "c/l/6883",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "leprosy",
+      "translation": "leprosy"
+    },
+    {
+      "surface": "הַ/בֶּ֖גֶד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncmsa",
+      "strong": "d/899 b",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a covering, i.e. clothing; also treachery or pillage",
+      "translation": "a covering, i.e. clothing; also treachery or pillage"
+    },
+    {
+      "surface": "הַ/בֶּ֖גֶד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncmsa",
+      "strong": "d/899 b",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a covering, i.e. clothing; also treachery or pillage",
+      "translation": "a covering, i.e. clothing; also treachery or pillage"
+    },
+    {
+      "surface": "וְ/לַ/בָּֽיִת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Rd/Ncmsa",
+      "strong": "c/l/1004 b",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a house (in the greatest variation of applications, especially family, etc.)",
+      "translation": "a house (in the greatest variation of applications, especially family, etc.)"
+    },
+    {
+      "surface": "וְ/לַ/בָּֽיִת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Rd/Ncmsa",
+      "strong": "c/l/1004 b",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a house (in the greatest variation of applications, especially family, etc.)",
+      "translation": "a house (in the greatest variation of applications, especially family, etc.)"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "reference": "LEV 10:20",
+  "book": "LEV",
+  "book_code": "LEV",
+  "chapter": 10,
+  "verse": 20,
+  "tokens": [
+    {
+      "surface": "וַ/יִּשְׁמַ֣ע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/8085",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to hear intelligently (often with implication of attention, obedience, etc.; causatively, to tell, etc.)",
+      "translation": "to hear intelligently (often with implication of attention, obedience, etc.; causatively, to tell, etc.)"
+    },
+    {
+      "surface": "וַ/יִּשְׁמַ֣ע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/8085",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to hear intelligently (often with implication of attention, obedience, etc.; causatively, to tell, etc.)",
+      "translation": "to hear intelligently (often with implication of attention, obedience, etc.; causatively, to tell, etc.)"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4872",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mosheh, the Israelite lawgiver",
+      "translation": "Mosheh, the Israelite lawgiver"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4872",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mosheh, the Israelite lawgiver",
+      "translation": "Mosheh, the Israelite lawgiver"
+    },
+    {
+      "surface": "וַ/יִּיטַ֖ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/3190",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to be (causative) make well, literally (sound, beautiful) or figuratively (happy, successful, right)",
+      "translation": "to be (causative) make well, literally (sound, beautiful) or figuratively (happy, successful, right)"
+    },
+    {
+      "surface": "וַ/יִּיטַ֖ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/3190",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to be (causative) make well, literally (sound, beautiful) or figuratively (happy, successful, right)",
+      "translation": "to be (causative) make well, literally (sound, beautiful) or figuratively (happy, successful, right)"
+    },
+    {
+      "surface": "בְּ/עֵינָֽי/ו",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncbdc/Sp3ms",
+      "strong": "b/5869 a",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an eye (literally or figuratively); by analogy, a fountain (as the eye of the landscape)",
+      "translation": "an eye (literally or figuratively); by analogy, a fountain (as the eye of the landscape)"
+    },
+    {
+      "surface": "בְּ/עֵינָֽי/ו",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncbdc/Sp3ms",
+      "strong": "b/5869 a",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an eye (literally or figuratively); by analogy, a fountain (as the eye of the landscape)",
+      "translation": "an eye (literally or figuratively); by analogy, a fountain (as the eye of the landscape)"
+    }
+  ]
+}

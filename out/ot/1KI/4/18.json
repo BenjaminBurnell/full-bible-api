@@ -1,0 +1,113 @@
+{
+  "reference": "1KI 4:18",
+  "book": "1KI",
+  "book_code": "1KI",
+  "chapter": 4,
+  "verse": 18,
+  "tokens": [
+    {
+      "surface": "שִׁמְעִ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8096",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shimi, the name of twenty Israelites",
+      "translation": "Shimi, the name of twenty Israelites"
+    },
+    {
+      "surface": "שִׁמְעִ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8096",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shimi, the name of twenty Israelites",
+      "translation": "Shimi, the name of twenty Israelites"
+    },
+    {
+      "surface": "בֶן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "1121 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "בֶן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "1121 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "אֵלָ֖א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "414",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ela, an Israelite",
+      "translation": "Ela, an Israelite"
+    },
+    {
+      "surface": "אֵלָ֖א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "414",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ela, an Israelite",
+      "translation": "Ela, an Israelite"
+    },
+    {
+      "surface": "בְּ/בִנְיָמִֽן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "b/1144",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory",
+      "translation": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory"
+    },
+    {
+      "surface": "בְּ/בִנְיָמִֽן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "b/1144",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory",
+      "translation": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory"
+    }
+  ]
+}

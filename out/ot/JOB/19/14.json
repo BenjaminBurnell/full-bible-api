@@ -1,0 +1,113 @@
+{
+  "reference": "JOB 19:14",
+  "book": "JOB",
+  "book_code": "JOB",
+  "chapter": 19,
+  "verse": 14,
+  "tokens": [
+    {
+      "surface": "חָדְל֥וּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqp3cp",
+      "strong": "2308",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to be flabby, i.e. (by implication) desist; (figuratively) be lacking or idle",
+      "translation": "properly, to be flabby, i.e. (by implication) desist; (figuratively) be lacking or idle"
+    },
+    {
+      "surface": "חָדְל֥וּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqp3cp",
+      "strong": "2308",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to be flabby, i.e. (by implication) desist; (figuratively) be lacking or idle",
+      "translation": "properly, to be flabby, i.e. (by implication) desist; (figuratively) be lacking or idle"
+    },
+    {
+      "surface": "קְרוֹבָ֑/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAampc/Sp1cs",
+      "strong": "7138",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "near (in place, kindred or time)",
+      "translation": "near (in place, kindred or time)"
+    },
+    {
+      "surface": "קְרוֹבָ֑/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAampc/Sp1cs",
+      "strong": "7138",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "near (in place, kindred or time)",
+      "translation": "near (in place, kindred or time)"
+    },
+    {
+      "surface": "וּֽ/מְיֻדָּעַ֥/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/VPsmpc/Sp1cs",
+      "strong": "c/3045",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to know (properly, to ascertain by seeing); used in a great variety of senses, figuratively, literally, euphemistically and inferentially (including observation, care, recognition; and causatively, instruction, designation, punishment, etc.)",
+      "translation": "to know (properly, to ascertain by seeing); used in a great variety of senses, figuratively, literally, euphemistically and inferentially (including observation, care, recognition; and causatively, instruction, designation, punishment, etc.)"
+    },
+    {
+      "surface": "וּֽ/מְיֻדָּעַ֥/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/VPsmpc/Sp1cs",
+      "strong": "c/3045",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to know (properly, to ascertain by seeing); used in a great variety of senses, figuratively, literally, euphemistically and inferentially (including observation, care, recognition; and causatively, instruction, designation, punishment, etc.)",
+      "translation": "to know (properly, to ascertain by seeing); used in a great variety of senses, figuratively, literally, euphemistically and inferentially (including observation, care, recognition; and causatively, instruction, designation, punishment, etc.)"
+    },
+    {
+      "surface": "שְׁכֵחֽוּ/נִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqp3cp/Sp1cs",
+      "strong": "7911",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to mislay, i.e. to be oblivious of, from want of memory or attention",
+      "translation": "to mislay, i.e. to be oblivious of, from want of memory or attention"
+    },
+    {
+      "surface": "שְׁכֵחֽוּ/נִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqp3cp/Sp1cs",
+      "strong": "7911",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to mislay, i.e. to be oblivious of, from want of memory or attention",
+      "translation": "to mislay, i.e. to be oblivious of, from want of memory or attention"
+    }
+  ]
+}

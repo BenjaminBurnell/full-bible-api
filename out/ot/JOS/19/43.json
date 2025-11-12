@@ -1,0 +1,87 @@
+{
+  "reference": "JOS 19:43",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 19,
+  "verse": 43,
+  "tokens": [
+    {
+      "surface": "וְ/אֵיל֥וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/356",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elon, the name of a place in Palestine, and also of one Hittite, two Israelites",
+      "translation": "Elon, the name of a place in Palestine, and also of one Hittite, two Israelites"
+    },
+    {
+      "surface": "וְ/אֵיל֥וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/356",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elon, the name of a place in Palestine, and also of one Hittite, two Israelites",
+      "translation": "Elon, the name of a place in Palestine, and also of one Hittite, two Israelites"
+    },
+    {
+      "surface": "וְ/תִמְנָ֖תָ/ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np/Sd",
+      "strong": "c/8553",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Timnah, the name of two places in Palestine",
+      "translation": "Timnah, the name of two places in Palestine"
+    },
+    {
+      "surface": "וְ/תִמְנָ֖תָ/ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np/Sd",
+      "strong": "c/8553",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Timnah, the name of two places in Palestine",
+      "translation": "Timnah, the name of two places in Palestine"
+    },
+    {
+      "surface": "וְ/עֶקְרֽוֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6138",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ekron, a place in Palestine",
+      "translation": "Ekron, a place in Palestine"
+    },
+    {
+      "surface": "וְ/עֶקְרֽוֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6138",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ekron, a place in Palestine",
+      "translation": "Ekron, a place in Palestine"
+    }
+  ]
+}

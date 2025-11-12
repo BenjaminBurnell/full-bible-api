@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 12:13",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 12,
+  "verse": 13,
+  "tokens": [
+    {
+      "surface": "יֽוֹחָנָן֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3076",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jehochanan, the name of eight Israelites",
+      "translation": "Jehochanan, the name of eight Israelites"
+    },
+    {
+      "surface": "יֽוֹחָנָן֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3076",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jehochanan, the name of eight Israelites",
+      "translation": "Jehochanan, the name of eight Israelites"
+    },
+    {
+      "surface": "הַ/שְּׁמִינִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/8066",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "eight",
+      "translation": "eight"
+    },
+    {
+      "surface": "הַ/שְּׁמִינִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/8066",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "eight",
+      "translation": "eight"
+    },
+    {
+      "surface": "אֶלְזָבָ֖ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "443",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elzabad, the name of two Israelites",
+      "translation": "Elzabad, the name of two Israelites"
+    },
+    {
+      "surface": "אֶלְזָבָ֖ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "443",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elzabad, the name of two Israelites",
+      "translation": "Elzabad, the name of two Israelites"
+    },
+    {
+      "surface": "הַ/תְּשִׁיעִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/8671",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "ninth",
+      "translation": "ninth"
+    },
+    {
+      "surface": "הַ/תְּשִׁיעִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/8671",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "ninth",
+      "translation": "ninth"
+    }
+  ]
+}

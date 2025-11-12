@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:4",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 4,
+  "tokens": [
+    {
+      "surface": "פַּשְׁח֥וּר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6583",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Pashchur, the name of four Israelites",
+      "translation": "Pashchur, the name of four Israelites"
+    },
+    {
+      "surface": "פַּשְׁח֥וּר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6583",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Pashchur, the name of four Israelites",
+      "translation": "Pashchur, the name of four Israelites"
+    },
+    {
+      "surface": "אֲמַרְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "568",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Amarjah, the name of nine Israelites",
+      "translation": "Amarjah, the name of nine Israelites"
+    },
+    {
+      "surface": "אֲמַרְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "568",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Amarjah, the name of nine Israelites",
+      "translation": "Amarjah, the name of nine Israelites"
+    },
+    {
+      "surface": "מַלְכִּיָּֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4441",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Malkijah, the name of ten Israelites",
+      "translation": "Malkijah, the name of ten Israelites"
+    },
+    {
+      "surface": "מַלְכִּיָּֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4441",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Malkijah, the name of ten Israelites",
+      "translation": "Malkijah, the name of ten Israelites"
+    }
+  ]
+}

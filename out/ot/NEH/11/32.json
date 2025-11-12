@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 11:32",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 11,
+  "verse": 32,
+  "tokens": [
+    {
+      "surface": "עֲנָת֥וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6068",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Anathoth, the name of two Israelites, also of a place in Pal",
+      "translation": "Anathoth, the name of two Israelites, also of a place in Pal"
+    },
+    {
+      "surface": "עֲנָת֥וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6068",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Anathoth, the name of two Israelites, also of a place in Pal",
+      "translation": "Anathoth, the name of two Israelites, also of a place in Pal"
+    },
+    {
+      "surface": "נֹ֖ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5011",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nob, a place in Palestine",
+      "translation": "Nob, a place in Palestine"
+    },
+    {
+      "surface": "נֹ֖ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5011",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nob, a place in Palestine",
+      "translation": "Nob, a place in Palestine"
+    },
+    {
+      "surface": "עֲנָֽנְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6055",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ananjah, the name of an Israelite and of a place in Palestine",
+      "translation": "Ananjah, the name of an Israelite and of a place in Palestine"
+    },
+    {
+      "surface": "עֲנָֽנְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6055",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ananjah, the name of an Israelite and of a place in Palestine",
+      "translation": "Ananjah, the name of an Israelite and of a place in Palestine"
+    }
+  ]
+}

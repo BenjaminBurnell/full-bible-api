@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:8",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 8,
+  "tokens": [
+    {
+      "surface": "מְשֻׁלָּ֥ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4918",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Meshullam, the name of seventeen Israelites",
+      "translation": "Meshullam, the name of seventeen Israelites"
+    },
+    {
+      "surface": "מְשֻׁלָּ֥ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4918",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Meshullam, the name of seventeen Israelites",
+      "translation": "Meshullam, the name of seventeen Israelites"
+    },
+    {
+      "surface": "אֲבִיָּ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "29",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abijah, the name of several Israelite men and two Israelitesses",
+      "translation": "Abijah, the name of several Israelite men and two Israelitesses"
+    },
+    {
+      "surface": "אֲבִיָּ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "29",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abijah, the name of several Israelite men and two Israelitesses",
+      "translation": "Abijah, the name of several Israelite men and two Israelitesses"
+    },
+    {
+      "surface": "מִיָּמִֽן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4326",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mijamin, the name of three Israelites",
+      "translation": "Mijamin, the name of three Israelites"
+    },
+    {
+      "surface": "מִיָּמִֽן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4326",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mijamin, the name of three Israelites",
+      "translation": "Mijamin, the name of three Israelites"
+    }
+  ]
+}

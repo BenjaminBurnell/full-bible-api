@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 11:29",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 11,
+  "verse": 29,
+  "tokens": [
+    {
+      "surface": "סִבְּכַי֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5444",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Sibbecai, an Israelite",
+      "translation": "Sibbecai, an Israelite"
+    },
+    {
+      "surface": "סִבְּכַי֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5444",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Sibbecai, an Israelite",
+      "translation": "Sibbecai, an Israelite"
+    },
+    {
+      "surface": "הַ/חֻ֣שָׁתִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/2843",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Chushathite or descendant of Chushah",
+      "translation": "a Chushathite or descendant of Chushah"
+    },
+    {
+      "surface": "הַ/חֻ֣שָׁתִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/2843",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Chushathite or descendant of Chushah",
+      "translation": "a Chushathite or descendant of Chushah"
+    },
+    {
+      "surface": "עִילַ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5866",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ilai, an Israelite",
+      "translation": "Ilai, an Israelite"
+    },
+    {
+      "surface": "עִילַ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5866",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ilai, an Israelite",
+      "translation": "Ilai, an Israelite"
+    },
+    {
+      "surface": "הָ/אֲחוֹחִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/266",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an Achochite or descendant of Achoach",
+      "translation": "an Achochite or descendant of Achoach"
+    },
+    {
+      "surface": "הָ/אֲחוֹחִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/266",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an Achochite or descendant of Achoach",
+      "translation": "an Achochite or descendant of Achoach"
+    }
+  ]
+}

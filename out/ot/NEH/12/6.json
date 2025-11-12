@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 12:6",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 12,
+  "verse": 6,
+  "tokens": [
+    {
+      "surface": "שְׁמַֽעְיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8098",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shemajah, the name of twenty-five Israelites",
+      "translation": "Shemajah, the name of twenty-five Israelites"
+    },
+    {
+      "surface": "שְׁמַֽעְיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8098",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shemajah, the name of twenty-five Israelites",
+      "translation": "Shemajah, the name of twenty-five Israelites"
+    },
+    {
+      "surface": "וְ/יוֹיָרִ֖יב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3114",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jojarib, the name of four Israelites",
+      "translation": "Jojarib, the name of four Israelites"
+    },
+    {
+      "surface": "וְ/יוֹיָרִ֖יב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3114",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jojarib, the name of four Israelites",
+      "translation": "Jojarib, the name of four Israelites"
+    },
+    {
+      "surface": "יְדַֽעְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3048",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jedajah, the name of two Israelites",
+      "translation": "Jedajah, the name of two Israelites"
+    },
+    {
+      "surface": "יְדַֽעְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3048",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jedajah, the name of two Israelites",
+      "translation": "Jedajah, the name of two Israelites"
+    }
+  ]
+}

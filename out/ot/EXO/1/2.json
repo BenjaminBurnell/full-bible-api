@@ -1,0 +1,113 @@
+{
+  "reference": "EXO 1:2",
+  "book": "EXO",
+  "book_code": "EXO",
+  "chapter": 1,
+  "verse": 2,
+  "tokens": [
+    {
+      "surface": "רְאוּבֵ֣ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7205",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Reuben, a son of Jacob",
+      "translation": "Reuben, a son of Jacob"
+    },
+    {
+      "surface": "רְאוּבֵ֣ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7205",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Reuben, a son of Jacob",
+      "translation": "Reuben, a son of Jacob"
+    },
+    {
+      "surface": "שִׁמְע֔וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8095",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shimon, one of Jacob's sons, also the tribe descended from him",
+      "translation": "Shimon, one of Jacob's sons, also the tribe descended from him"
+    },
+    {
+      "surface": "שִׁמְע֔וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8095",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shimon, one of Jacob's sons, also the tribe descended from him",
+      "translation": "Shimon, one of Jacob's sons, also the tribe descended from him"
+    },
+    {
+      "surface": "לֵוִ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3878",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Levi, a son of Jacob",
+      "translation": "Levi, a son of Jacob"
+    },
+    {
+      "surface": "לֵוִ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3878",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Levi, a son of Jacob",
+      "translation": "Levi, a son of Jacob"
+    },
+    {
+      "surface": "וִ/יהוּדָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3063",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jehudah (or Judah), the name of five Israelites; also of the tribe descended from the first, and of its territory",
+      "translation": "Jehudah (or Judah), the name of five Israelites; also of the tribe descended from the first, and of its territory"
+    },
+    {
+      "surface": "וִ/יהוּדָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3063",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jehudah (or Judah), the name of five Israelites; also of the tribe descended from the first, and of its territory",
+      "translation": "Jehudah (or Judah), the name of five Israelites; also of the tribe descended from the first, and of its territory"
+    }
+  ]
+}

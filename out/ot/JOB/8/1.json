@@ -1,0 +1,113 @@
+{
+  "reference": "JOB 8:1",
+  "book": "JOB",
+  "book_code": "JOB",
+  "chapter": 8,
+  "verse": 1,
+  "tokens": [
+    {
+      "surface": "וַ֭/יַּעַן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/6030 b",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to eye or (generally) to heed, i.e. pay attention; by implication, to respond; by extension to begin to speak; specifically to sing, shout, testify, announce",
+      "translation": "properly, to eye or (generally) to heed, i.e. pay attention; by implication, to respond; by extension to begin to speak; specifically to sing, shout, testify, announce"
+    },
+    {
+      "surface": "וַ֭/יַּעַן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/6030 b",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to eye or (generally) to heed, i.e. pay attention; by implication, to respond; by extension to begin to speak; specifically to sing, shout, testify, announce",
+      "translation": "properly, to eye or (generally) to heed, i.e. pay attention; by implication, to respond; by extension to begin to speak; specifically to sing, shout, testify, announce"
+    },
+    {
+      "surface": "בִּלְדַּ֥ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1085",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bildad, one of Job's friends",
+      "translation": "Bildad, one of Job's friends"
+    },
+    {
+      "surface": "בִּלְדַּ֥ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1085",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bildad, one of Job's friends",
+      "translation": "Bildad, one of Job's friends"
+    },
+    {
+      "surface": "הַ/שּׁוּחִ֗י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/7747",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Shuchite or descendant of Shuach",
+      "translation": "a Shuchite or descendant of Shuach"
+    },
+    {
+      "surface": "הַ/שּׁוּחִ֗י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/7747",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Shuchite or descendant of Shuach",
+      "translation": "a Shuchite or descendant of Shuach"
+    },
+    {
+      "surface": "וַ/יֹאמַֽר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/559",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    },
+    {
+      "surface": "וַ/יֹאמַֽר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/559",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    }
+  ]
+}

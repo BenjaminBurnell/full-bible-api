@@ -1,0 +1,113 @@
+{
+  "reference": "NEH 12:21",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 12,
+  "verse": 21,
+  "tokens": [
+    {
+      "surface": "לְ/חִלְקִיָּ֣ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/2518",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chilhijah, the name of eight Israelites",
+      "translation": "Chilhijah, the name of eight Israelites"
+    },
+    {
+      "surface": "לְ/חִלְקִיָּ֣ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/2518",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chilhijah, the name of eight Israelites",
+      "translation": "Chilhijah, the name of eight Israelites"
+    },
+    {
+      "surface": "חֲשַׁבְיָ֔ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2811",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chashabjah, the name of nine Israelites",
+      "translation": "Chashabjah, the name of nine Israelites"
+    },
+    {
+      "surface": "חֲשַׁבְיָ֔ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2811",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chashabjah, the name of nine Israelites",
+      "translation": "Chashabjah, the name of nine Israelites"
+    },
+    {
+      "surface": "לִֽ/ידַֽעְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/3048",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jedajah, the name of two Israelites",
+      "translation": "Jedajah, the name of two Israelites"
+    },
+    {
+      "surface": "לִֽ/ידַֽעְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/3048",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jedajah, the name of two Israelites",
+      "translation": "Jedajah, the name of two Israelites"
+    },
+    {
+      "surface": "נְתַנְאֵֽל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5417",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nethanel, the name of ten Israelites",
+      "translation": "Nethanel, the name of ten Israelites"
+    },
+    {
+      "surface": "נְתַנְאֵֽל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5417",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nethanel, the name of ten Israelites",
+      "translation": "Nethanel, the name of ten Israelites"
+    }
+  ]
+}

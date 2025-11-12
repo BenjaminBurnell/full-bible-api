@@ -1,0 +1,113 @@
+{
+  "reference": "PSA 126:5",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 126,
+  "verse": 5,
+  "tokens": [
+    {
+      "surface": "הַ/זֹּרְעִ֥ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Vqrmpa",
+      "strong": "d/2232",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to sow; figuratively, to disseminate, plant, fructify",
+      "translation": "to sow; figuratively, to disseminate, plant, fructify"
+    },
+    {
+      "surface": "הַ/זֹּרְעִ֥ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Vqrmpa",
+      "strong": "d/2232",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to sow; figuratively, to disseminate, plant, fructify",
+      "translation": "to sow; figuratively, to disseminate, plant, fructify"
+    },
+    {
+      "surface": "בְּ/דִמְעָ֗ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfsa",
+      "strong": "b/1832",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "weeping",
+      "translation": "weeping"
+    },
+    {
+      "surface": "בְּ/דִמְעָ֗ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfsa",
+      "strong": "b/1832",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "weeping",
+      "translation": "weeping"
+    },
+    {
+      "surface": "בְּ/רִנָּ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfsa",
+      "strong": "b/7440",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, a creaking (or shrill sound), i.e. shout (of joy or grief)",
+      "translation": "properly, a creaking (or shrill sound), i.e. shout (of joy or grief)"
+    },
+    {
+      "surface": "בְּ/רִנָּ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfsa",
+      "strong": "b/7440",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, a creaking (or shrill sound), i.e. shout (of joy or grief)",
+      "translation": "properly, a creaking (or shrill sound), i.e. shout (of joy or grief)"
+    },
+    {
+      "surface": "יִקְצֹֽרוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi3mp",
+      "strong": "7114 b",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to dock off, i.e. curtail (transitive or intransitive, literal or figurative); especially to harvest (grass or grain)",
+      "translation": "to dock off, i.e. curtail (transitive or intransitive, literal or figurative); especially to harvest (grass or grain)"
+    },
+    {
+      "surface": "יִקְצֹֽרוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi3mp",
+      "strong": "7114 b",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to dock off, i.e. curtail (transitive or intransitive, literal or figurative); especially to harvest (grass or grain)",
+      "translation": "to dock off, i.e. curtail (transitive or intransitive, literal or figurative); especially to harvest (grass or grain)"
+    }
+  ]
+}

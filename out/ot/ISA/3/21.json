@@ -1,0 +1,87 @@
+{
+  "reference": "ISA 3:21",
+  "book": "ISA",
+  "book_code": "ISA",
+  "chapter": 3,
+  "verse": 21,
+  "tokens": [
+    {
+      "surface": "הַ/טַּבָּע֖וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncfpa",
+      "strong": "d/2885",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, a seal (as sunk into the wax), i.e. signet (for sealing); hence (generally) a ring of any kind",
+      "translation": "properly, a seal (as sunk into the wax), i.e. signet (for sealing); hence (generally) a ring of any kind"
+    },
+    {
+      "surface": "הַ/טַּבָּע֖וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncfpa",
+      "strong": "d/2885",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, a seal (as sunk into the wax), i.e. signet (for sealing); hence (generally) a ring of any kind",
+      "translation": "properly, a seal (as sunk into the wax), i.e. signet (for sealing); hence (generally) a ring of any kind"
+    },
+    {
+      "surface": "וְ/נִזְמֵ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncmpc",
+      "strong": "c/5141",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a nose-ring",
+      "translation": "a nose-ring"
+    },
+    {
+      "surface": "וְ/נִזְמֵ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncmpc",
+      "strong": "c/5141",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a nose-ring",
+      "translation": "a nose-ring"
+    },
+    {
+      "surface": "הָ/אָֽף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncmsa",
+      "strong": "d/639",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, the nose or nostril; hence, the face, and occasionally a person; also (from the rapid breathing in passion) ire",
+      "translation": "properly, the nose or nostril; hence, the face, and occasionally a person; also (from the rapid breathing in passion) ire"
+    },
+    {
+      "surface": "הָ/אָֽף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncmsa",
+      "strong": "d/639",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, the nose or nostril; hence, the face, and occasionally a person; also (from the rapid breathing in passion) ire",
+      "translation": "properly, the nose or nostril; hence, the face, and occasionally a person; also (from the rapid breathing in passion) ire"
+    }
+  ]
+}

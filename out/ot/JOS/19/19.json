@@ -1,0 +1,87 @@
+{
+  "reference": "JOS 19:19",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 19,
+  "verse": 19,
+  "tokens": [
+    {
+      "surface": "וַ/חֲפָרַ֥יִם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2663",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chapharajim, a place in Palestine",
+      "translation": "Chapharajim, a place in Palestine"
+    },
+    {
+      "surface": "וַ/חֲפָרַ֥יִם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2663",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chapharajim, a place in Palestine",
+      "translation": "Chapharajim, a place in Palestine"
+    },
+    {
+      "surface": "וְ/שִׁיאֹ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/7866",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shijon, a place in Palestine",
+      "translation": "Shijon, a place in Palestine"
+    },
+    {
+      "surface": "וְ/שִׁיאֹ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/7866",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shijon, a place in Palestine",
+      "translation": "Shijon, a place in Palestine"
+    },
+    {
+      "surface": "וַ/אֲנָחֲרַֽת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/588",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Anacharath, a place in Palestine",
+      "translation": "Anacharath, a place in Palestine"
+    },
+    {
+      "surface": "וַ/אֲנָחֲרַֽת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/588",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Anacharath, a place in Palestine",
+      "translation": "Anacharath, a place in Palestine"
+    }
+  ]
+}

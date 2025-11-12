@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:5",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 5,
+  "tokens": [
+    {
+      "surface": "חַטּ֥וּשׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2407",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chattush, the name of four or five Israelites",
+      "translation": "Chattush, the name of four or five Israelites"
+    },
+    {
+      "surface": "חַטּ֥וּשׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2407",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chattush, the name of four or five Israelites",
+      "translation": "Chattush, the name of four or five Israelites"
+    },
+    {
+      "surface": "שְׁבַנְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7645",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shebanjah, the name of three or four Israelites",
+      "translation": "Shebanjah, the name of three or four Israelites"
+    },
+    {
+      "surface": "שְׁבַנְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7645",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shebanjah, the name of three or four Israelites",
+      "translation": "Shebanjah, the name of three or four Israelites"
+    },
+    {
+      "surface": "מַלּֽוּךְ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4409 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Malluk, the name of five Israelites",
+      "translation": "Malluk, the name of five Israelites"
+    },
+    {
+      "surface": "מַלּֽוּךְ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4409 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Malluk, the name of five Israelites",
+      "translation": "Malluk, the name of five Israelites"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:19",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 19,
+  "tokens": [
+    {
+      "surface": "הוֹדִיָּ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1940",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Jewess",
+      "translation": "a Jewess"
+    },
+    {
+      "surface": "הוֹדִיָּ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1940",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Jewess",
+      "translation": "a Jewess"
+    },
+    {
+      "surface": "חָשֻׁ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2828",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chashum, the name of two or three Israelites",
+      "translation": "Chashum, the name of two or three Israelites"
+    },
+    {
+      "surface": "חָשֻׁ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2828",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chashum, the name of two or three Israelites",
+      "translation": "Chashum, the name of two or three Israelites"
+    },
+    {
+      "surface": "בֵּצָֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1209",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Betsai, the name of two Israelites",
+      "translation": "Betsai, the name of two Israelites"
+    },
+    {
+      "surface": "בֵּצָֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1209",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Betsai, the name of two Israelites",
+      "translation": "Betsai, the name of two Israelites"
+    }
+  ]
+}

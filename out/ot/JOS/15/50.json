@@ -1,0 +1,87 @@
+{
+  "reference": "JOS 15:50",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 15,
+  "verse": 50,
+  "tokens": [
+    {
+      "surface": "וַ/עֲנָ֥ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6024",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Anab, a place in Palestine",
+      "translation": "Anab, a place in Palestine"
+    },
+    {
+      "surface": "וַ/עֲנָ֥ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6024",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Anab, a place in Palestine",
+      "translation": "Anab, a place in Palestine"
+    },
+    {
+      "surface": "וְ/אֶשְׁתְּמֹ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/851",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eshtemoa or Eshtemoh, a place in Palestine",
+      "translation": "Eshtemoa or Eshtemoh, a place in Palestine"
+    },
+    {
+      "surface": "וְ/אֶשְׁתְּמֹ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/851",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eshtemoa or Eshtemoh, a place in Palestine",
+      "translation": "Eshtemoa or Eshtemoh, a place in Palestine"
+    },
+    {
+      "surface": "וְ/עָנִֽים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6044",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Anim, a place in Palestine",
+      "translation": "Anim, a place in Palestine"
+    },
+    {
+      "surface": "וְ/עָנִֽים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6044",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Anim, a place in Palestine",
+      "translation": "Anim, a place in Palestine"
+    }
+  ]
+}

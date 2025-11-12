@@ -1,0 +1,113 @@
+{
+  "reference": "2SA 23:27",
+  "book": "2SA",
+  "book_code": "2SA",
+  "chapter": 23,
+  "verse": 27,
+  "tokens": [
+    {
+      "surface": "אֲבִיעֶ֨זֶר֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "44",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abiezer, the name of two Israelites",
+      "translation": "Abiezer, the name of two Israelites"
+    },
+    {
+      "surface": "אֲבִיעֶ֨זֶר֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "44",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abiezer, the name of two Israelites",
+      "translation": "Abiezer, the name of two Israelites"
+    },
+    {
+      "surface": "הָֽ/עַנְּתֹתִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/6069",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Antothite or inhabitant of Anathoth",
+      "translation": "a Antothite or inhabitant of Anathoth"
+    },
+    {
+      "surface": "הָֽ/עַנְּתֹתִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/6069",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Antothite or inhabitant of Anathoth",
+      "translation": "a Antothite or inhabitant of Anathoth"
+    },
+    {
+      "surface": "מְבֻנַּ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4012",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mebunnai, an Israelite",
+      "translation": "Mebunnai, an Israelite"
+    },
+    {
+      "surface": "מְבֻנַּ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4012",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mebunnai, an Israelite",
+      "translation": "Mebunnai, an Israelite"
+    },
+    {
+      "surface": "הַ/חֻשָׁתִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/2843",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Chushathite or descendant of Chushah",
+      "translation": "a Chushathite or descendant of Chushah"
+    },
+    {
+      "surface": "הַ/חֻשָׁתִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/2843",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Chushathite or descendant of Chushah",
+      "translation": "a Chushathite or descendant of Chushah"
+    }
+  ]
+}

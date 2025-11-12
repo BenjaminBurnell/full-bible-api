@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:12",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 12,
+  "tokens": [
+    {
+      "surface": "מִיכָ֥א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4316",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mica, the name of two Israelites",
+      "translation": "Mica, the name of two Israelites"
+    },
+    {
+      "surface": "מִיכָ֥א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4316",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mica, the name of two Israelites",
+      "translation": "Mica, the name of two Israelites"
+    },
+    {
+      "surface": "רְח֖וֹב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7340",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Rechob, the name of a place in Syria, also of a Syrian and an Israelite",
+      "translation": "Rechob, the name of a place in Syria, also of a Syrian and an Israelite"
+    },
+    {
+      "surface": "רְח֖וֹב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7340",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Rechob, the name of a place in Syria, also of a Syrian and an Israelite",
+      "translation": "Rechob, the name of a place in Syria, also of a Syrian and an Israelite"
+    },
+    {
+      "surface": "חֲשַׁבְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2811",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chashabjah, the name of nine Israelites",
+      "translation": "Chashabjah, the name of nine Israelites"
+    },
+    {
+      "surface": "חֲשַׁבְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2811",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chashabjah, the name of nine Israelites",
+      "translation": "Chashabjah, the name of nine Israelites"
+    }
+  ]
+}

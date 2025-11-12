@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 8:5",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 8,
+  "verse": 5,
+  "tokens": [
+    {
+      "surface": "וְ/גֵרָ֥א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1617",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gera, the name of six Israelites",
+      "translation": "Gera, the name of six Israelites"
+    },
+    {
+      "surface": "וְ/גֵרָ֥א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1617",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gera, the name of six Israelites",
+      "translation": "Gera, the name of six Israelites"
+    },
+    {
+      "surface": "וּ/שְׁפוּפָ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/8197 b",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shephupham, an Israelite",
+      "translation": "Shephupham, an Israelite"
+    },
+    {
+      "surface": "וּ/שְׁפוּפָ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/8197 b",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shephupham, an Israelite",
+      "translation": "Shephupham, an Israelite"
+    },
+    {
+      "surface": "וְ/חוּרָֽם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2361",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Churam, the name of an Israelite and two Syrians",
+      "translation": "Churam, the name of an Israelite and two Syrians"
+    },
+    {
+      "surface": "וְ/חוּרָֽם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2361",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Churam, the name of an Israelite and two Syrians",
+      "translation": "Churam, the name of an Israelite and two Syrians"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:25",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 25,
+  "tokens": [
+    {
+      "surface": "הַלּוֹחֵ֥שׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3873",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Lochesh, an Israelite",
+      "translation": "Lochesh, an Israelite"
+    },
+    {
+      "surface": "הַלּוֹחֵ֥שׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3873",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Lochesh, an Israelite",
+      "translation": "Lochesh, an Israelite"
+    },
+    {
+      "surface": "פִּלְחָ֖א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6401",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Pilcha, an Israelite",
+      "translation": "Pilcha, an Israelite"
+    },
+    {
+      "surface": "פִּלְחָ֖א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6401",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Pilcha, an Israelite",
+      "translation": "Pilcha, an Israelite"
+    },
+    {
+      "surface": "שׁוֹבֵֽק",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7733",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shobek, an Israelite",
+      "translation": "Shobek, an Israelite"
+    },
+    {
+      "surface": "שׁוֹבֵֽק",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7733",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shobek, an Israelite",
+      "translation": "Shobek, an Israelite"
+    }
+  ]
+}

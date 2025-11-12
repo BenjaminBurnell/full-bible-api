@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 8:20",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 8,
+  "verse": 20,
+  "tokens": [
+    {
+      "surface": "וֶ/אֱלִיעֵנַ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/462",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elienai, an Israelite",
+      "translation": "Elienai, an Israelite"
+    },
+    {
+      "surface": "וֶ/אֱלִיעֵנַ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/462",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elienai, an Israelite",
+      "translation": "Elienai, an Israelite"
+    },
+    {
+      "surface": "וְ/צִלְּתַ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6769",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tsillethai, the name of two Israelites",
+      "translation": "Tsillethai, the name of two Israelites"
+    },
+    {
+      "surface": "וְ/צִלְּתַ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6769",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tsillethai, the name of two Israelites",
+      "translation": "Tsillethai, the name of two Israelites"
+    },
+    {
+      "surface": "וֶ/אֱלִיאֵֽל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/447",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eliel, the name of nine Israelites",
+      "translation": "Eliel, the name of nine Israelites"
+    },
+    {
+      "surface": "וֶ/אֱלִיאֵֽל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/447",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eliel, the name of nine Israelites",
+      "translation": "Eliel, the name of nine Israelites"
+    }
+  ]
+}

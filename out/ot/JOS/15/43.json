@@ -1,0 +1,87 @@
+{
+  "reference": "JOS 15:43",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 15,
+  "verse": 43,
+  "tokens": [
+    {
+      "surface": "וְ/יִפְתָּ֥ח",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3316",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jiphtach, an Israelite; also a place in Palestine",
+      "translation": "Jiphtach, an Israelite; also a place in Palestine"
+    },
+    {
+      "surface": "וְ/יִפְתָּ֥ח",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3316",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jiphtach, an Israelite; also a place in Palestine",
+      "translation": "Jiphtach, an Israelite; also a place in Palestine"
+    },
+    {
+      "surface": "וְ/אַשְׁנָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/823",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ashnah, the name of two places in Palestine",
+      "translation": "Ashnah, the name of two places in Palestine"
+    },
+    {
+      "surface": "וְ/אַשְׁנָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/823",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ashnah, the name of two places in Palestine",
+      "translation": "Ashnah, the name of two places in Palestine"
+    },
+    {
+      "surface": "וּ/נְצִֽיב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5334",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Netsib, a place in Palestine",
+      "translation": "Netsib, a place in Palestine"
+    },
+    {
+      "surface": "וּ/נְצִֽיב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5334",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Netsib, a place in Palestine",
+      "translation": "Netsib, a place in Palestine"
+    }
+  ]
+}

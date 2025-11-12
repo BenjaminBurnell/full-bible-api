@@ -1,0 +1,113 @@
+{
+  "reference": "EZR 10:20",
+  "book": "EZR",
+  "book_code": "EZR",
+  "chapter": 10,
+  "verse": 20,
+  "tokens": [
+    {
+      "surface": "וּ/מִ/בְּנֵ֣י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Ncmpc",
+      "strong": "c/m/1121 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "וּ/מִ/בְּנֵ֣י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Ncmpc",
+      "strong": "c/m/1121 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "אִמֵּ֔ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "564",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Immer, the name of five Israelites",
+      "translation": "Immer, the name of five Israelites"
+    },
+    {
+      "surface": "אִמֵּ֔ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "564",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Immer, the name of five Israelites",
+      "translation": "Immer, the name of five Israelites"
+    },
+    {
+      "surface": "חֲנָ֖נִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2607",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chanani, the name of six Israelites",
+      "translation": "Chanani, the name of six Israelites"
+    },
+    {
+      "surface": "חֲנָ֖נִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2607",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chanani, the name of six Israelites",
+      "translation": "Chanani, the name of six Israelites"
+    },
+    {
+      "surface": "וּ/זְבַדְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2069",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zebadjah, the name of nine Israelites",
+      "translation": "Zebadjah, the name of nine Israelites"
+    },
+    {
+      "surface": "וּ/זְבַדְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2069",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zebadjah, the name of nine Israelites",
+      "translation": "Zebadjah, the name of nine Israelites"
+    }
+  ]
+}

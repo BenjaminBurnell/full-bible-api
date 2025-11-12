@@ -1,0 +1,113 @@
+{
+  "reference": "ISA 3:23",
+  "book": "ISA",
+  "book_code": "ISA",
+  "chapter": 3,
+  "verse": 23,
+  "tokens": [
+    {
+      "surface": "וְ/הַ/גִּלְיֹנִים֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncmpa",
+      "strong": "c/d/1549",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a tablet for writing (as bare); by analogy, a mirror (as a plate)",
+      "translation": "a tablet for writing (as bare); by analogy, a mirror (as a plate)"
+    },
+    {
+      "surface": "וְ/הַ/גִּלְיֹנִים֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncmpa",
+      "strong": "c/d/1549",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a tablet for writing (as bare); by analogy, a mirror (as a plate)",
+      "translation": "a tablet for writing (as bare); by analogy, a mirror (as a plate)"
+    },
+    {
+      "surface": "וְ/הַ/סְּדִינִ֔ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncmpa",
+      "strong": "c/d/5466",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a wrapper, i.e. shirt",
+      "translation": "a wrapper, i.e. shirt"
+    },
+    {
+      "surface": "וְ/הַ/סְּדִינִ֔ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncmpa",
+      "strong": "c/d/5466",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a wrapper, i.e. shirt",
+      "translation": "a wrapper, i.e. shirt"
+    },
+    {
+      "surface": "וְ/הַ/צְּנִיפ֖וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncbpa",
+      "strong": "c/d/6797",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a head-dress (i.e. piece of cloth wrapped around)",
+      "translation": "a head-dress (i.e. piece of cloth wrapped around)"
+    },
+    {
+      "surface": "וְ/הַ/צְּנִיפ֖וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncbpa",
+      "strong": "c/d/6797",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a head-dress (i.e. piece of cloth wrapped around)",
+      "translation": "a head-dress (i.e. piece of cloth wrapped around)"
+    },
+    {
+      "surface": "וְ/הָ/רְדִידִֽים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncmpa",
+      "strong": "c/d/7289",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a veil (as expanded)",
+      "translation": "a veil (as expanded)"
+    },
+    {
+      "surface": "וְ/הָ/רְדִידִֽים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncmpa",
+      "strong": "c/d/7289",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a veil (as expanded)",
+      "translation": "a veil (as expanded)"
+    }
+  ]
+}

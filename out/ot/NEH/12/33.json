@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 12:33",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 12,
+  "verse": 33,
+  "tokens": [
+    {
+      "surface": "וַ/עֲזַרְיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5838",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Azarjah, the name of nineteen Israelites",
+      "translation": "Azarjah, the name of nineteen Israelites"
+    },
+    {
+      "surface": "וַ/עֲזַרְיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5838",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Azarjah, the name of nineteen Israelites",
+      "translation": "Azarjah, the name of nineteen Israelites"
+    },
+    {
+      "surface": "עֶזְרָ֖א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5830",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ezra, an Israelite",
+      "translation": "Ezra, an Israelite"
+    },
+    {
+      "surface": "עֶזְרָ֖א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5830",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ezra, an Israelite",
+      "translation": "Ezra, an Israelite"
+    },
+    {
+      "surface": "וּ/מְשֻׁלָּֽם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/4918",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Meshullam, the name of seventeen Israelites",
+      "translation": "Meshullam, the name of seventeen Israelites"
+    },
+    {
+      "surface": "וּ/מְשֻׁלָּֽם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/4918",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Meshullam, the name of seventeen Israelites",
+      "translation": "Meshullam, the name of seventeen Israelites"
+    }
+  ]
+}

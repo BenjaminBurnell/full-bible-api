@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 14:5",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 14,
+  "verse": 5,
+  "tokens": [
+    {
+      "surface": "וְ/יִבְחָ֥ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2984",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jibchar, an Israelite",
+      "translation": "Jibchar, an Israelite"
+    },
+    {
+      "surface": "וְ/יִבְחָ֥ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2984",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jibchar, an Israelite",
+      "translation": "Jibchar, an Israelite"
+    },
+    {
+      "surface": "וֶ/אֱלִישׁ֖וּעַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/474",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elishua, the son of King David",
+      "translation": "Elishua, the son of King David"
+    },
+    {
+      "surface": "וֶ/אֱלִישׁ֖וּעַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/474",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elishua, the son of King David",
+      "translation": "Elishua, the son of King David"
+    },
+    {
+      "surface": "וְ/אֶלְפָּֽלֶט",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/467",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eliphelet or Elpelet, the name of six Israelites",
+      "translation": "Eliphelet or Elpelet, the name of six Israelites"
+    },
+    {
+      "surface": "וְ/אֶלְפָּֽלֶט",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/467",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eliphelet or Elpelet, the name of six Israelites",
+      "translation": "Eliphelet or Elpelet, the name of six Israelites"
+    }
+  ]
+}

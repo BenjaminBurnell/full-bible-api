@@ -1,0 +1,113 @@
+{
+  "reference": "NUM 14:20",
+  "book": "NUM",
+  "book_code": "NUM",
+  "chapter": 14,
+  "verse": 20,
+  "tokens": [
+    {
+      "surface": "וַ/יֹּ֣אמֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/559",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    },
+    {
+      "surface": "וַ/יֹּ֣אמֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/559",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3068",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God",
+      "translation": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3068",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God",
+      "translation": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God"
+    },
+    {
+      "surface": "סָלַ֖חְתִּי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqp1cs",
+      "strong": "5545",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to forgive",
+      "translation": "to forgive"
+    },
+    {
+      "surface": "סָלַ֖חְתִּי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqp1cs",
+      "strong": "5545",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to forgive",
+      "translation": "to forgive"
+    },
+    {
+      "surface": "כִּ/דְבָרֶֽ/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmsc/Sp2ms",
+      "strong": "k/1697",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a word; by implication, a matter (as spoken of) or thing; adverbially, a cause",
+      "translation": "a word; by implication, a matter (as spoken of) or thing; adverbially, a cause"
+    },
+    {
+      "surface": "כִּ/דְבָרֶֽ/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmsc/Sp2ms",
+      "strong": "k/1697",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a word; by implication, a matter (as spoken of) or thing; adverbially, a cause",
+      "translation": "a word; by implication, a matter (as spoken of) or thing; adverbially, a cause"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "reference": "2SA 23:28",
+  "book": "2SA",
+  "book_code": "2SA",
+  "chapter": 23,
+  "verse": 28,
+  "tokens": [
+    {
+      "surface": "צַלְמוֹן֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6756 b",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tsalmon, the name of a place in Palestine and of an Israelite",
+      "translation": "Tsalmon, the name of a place in Palestine and of an Israelite"
+    },
+    {
+      "surface": "צַלְמוֹן֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6756 b",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tsalmon, the name of a place in Palestine and of an Israelite",
+      "translation": "Tsalmon, the name of a place in Palestine and of an Israelite"
+    },
+    {
+      "surface": "הָֽ/אֲחֹחִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/266",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an Achochite or descendant of Achoach",
+      "translation": "an Achochite or descendant of Achoach"
+    },
+    {
+      "surface": "הָֽ/אֲחֹחִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/266",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an Achochite or descendant of Achoach",
+      "translation": "an Achochite or descendant of Achoach"
+    },
+    {
+      "surface": "מַהְרַ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4121",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Maharai, an Israelite",
+      "translation": "Maharai, an Israelite"
+    },
+    {
+      "surface": "מַהְרַ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4121",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Maharai, an Israelite",
+      "translation": "Maharai, an Israelite"
+    },
+    {
+      "surface": "הַ/נְּטֹפָתִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/5200",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Netophathite, or inhabitant of Netophah",
+      "translation": "a Netophathite, or inhabitant of Netophah"
+    },
+    {
+      "surface": "הַ/נְּטֹפָתִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/5200",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Netophathite, or inhabitant of Netophah",
+      "translation": "a Netophathite, or inhabitant of Netophah"
+    }
+  ]
+}

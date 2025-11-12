@@ -1,0 +1,87 @@
+{
+  "reference": "JOB 36:1",
+  "book": "JOB",
+  "book_code": "JOB",
+  "chapter": 36,
+  "verse": 1,
+  "tokens": [
+    {
+      "surface": "וַ/יֹּ֥סֶף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vhw3ms",
+      "strong": "c/3254",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to add or augment (often adverbial, to continue to do a thing)",
+      "translation": "to add or augment (often adverbial, to continue to do a thing)"
+    },
+    {
+      "surface": "וַ/יֹּ֥סֶף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vhw3ms",
+      "strong": "c/3254",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to add or augment (often adverbial, to continue to do a thing)",
+      "translation": "to add or augment (often adverbial, to continue to do a thing)"
+    },
+    {
+      "surface": "אֱלִיה֗וּא",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "453",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elihu, the name of one of Job's friends, and of three Israelites",
+      "translation": "Elihu, the name of one of Job's friends, and of three Israelites"
+    },
+    {
+      "surface": "אֱלִיה֗וּא",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "453",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elihu, the name of one of Job's friends, and of three Israelites",
+      "translation": "Elihu, the name of one of Job's friends, and of three Israelites"
+    },
+    {
+      "surface": "וַ/יֹּאמַֽר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/559",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    },
+    {
+      "surface": "וַ/יֹּאמַֽר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/559",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to say (used with great latitude)",
+      "translation": "to say (used with great latitude)"
+    }
+  ]
+}

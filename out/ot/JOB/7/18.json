@@ -1,0 +1,113 @@
+{
+  "reference": "JOB 7:18",
+  "book": "JOB",
+  "book_code": "JOB",
+  "chapter": 7,
+  "verse": 18,
+  "tokens": [
+    {
+      "surface": "וַ/תִּפְקְדֶ֥/נּוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw2ms/Sp3ms",
+      "strong": "c/6485 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to visit (with friendly or hostile intent); by analogy, to oversee, muster, charge, care for, miss, deposit, etc.",
+      "translation": "to visit (with friendly or hostile intent); by analogy, to oversee, muster, charge, care for, miss, deposit, etc."
+    },
+    {
+      "surface": "וַ/תִּפְקְדֶ֥/נּוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw2ms/Sp3ms",
+      "strong": "c/6485 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to visit (with friendly or hostile intent); by analogy, to oversee, muster, charge, care for, miss, deposit, etc.",
+      "translation": "to visit (with friendly or hostile intent); by analogy, to oversee, muster, charge, care for, miss, deposit, etc."
+    },
+    {
+      "surface": "לִ/בְקָרִ֑ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpa",
+      "strong": "l/1242",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, dawn (as the break of day); generally, morning",
+      "translation": "properly, dawn (as the break of day); generally, morning"
+    },
+    {
+      "surface": "לִ/בְקָרִ֑ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpa",
+      "strong": "l/1242",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, dawn (as the break of day); generally, morning",
+      "translation": "properly, dawn (as the break of day); generally, morning"
+    },
+    {
+      "surface": "לִ֝/רְגָעִ֗ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpa",
+      "strong": "l/7281",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a wink (of the eyes), i.e. a very short space of time",
+      "translation": "a wink (of the eyes), i.e. a very short space of time"
+    },
+    {
+      "surface": "לִ֝/רְגָעִ֗ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpa",
+      "strong": "l/7281",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a wink (of the eyes), i.e. a very short space of time",
+      "translation": "a wink (of the eyes), i.e. a very short space of time"
+    },
+    {
+      "surface": "תִּבְחָנֶֽ/נּוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi2ms/Sp3ms",
+      "strong": "974",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to test (especially metals); generally and figuratively, to investigate",
+      "translation": "to test (especially metals); generally and figuratively, to investigate"
+    },
+    {
+      "surface": "תִּבְחָנֶֽ/נּוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi2ms/Sp3ms",
+      "strong": "974",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to test (especially metals); generally and figuratively, to investigate",
+      "translation": "to test (especially metals); generally and figuratively, to investigate"
+    }
+  ]
+}

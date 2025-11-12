@@ -1,0 +1,87 @@
+{
+  "reference": "JOS 19:4",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 19,
+  "verse": 4,
+  "tokens": [
+    {
+      "surface": "וְ/אֶלְתּוֹלַ֥ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/513",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eltolad, a place in Palestine",
+      "translation": "Eltolad, a place in Palestine"
+    },
+    {
+      "surface": "וְ/אֶלְתּוֹלַ֥ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/513",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eltolad, a place in Palestine",
+      "translation": "Eltolad, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְת֖וּל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1329",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bethul (i.e. Bethuel), a place in Palestine",
+      "translation": "Bethul (i.e. Bethuel), a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְת֖וּל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1329",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bethul (i.e. Bethuel), a place in Palestine",
+      "translation": "Bethul (i.e. Bethuel), a place in Palestine"
+    },
+    {
+      "surface": "וְ/חָרְמָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2767",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chormah, a place in Palestine",
+      "translation": "Chormah, a place in Palestine"
+    },
+    {
+      "surface": "וְ/חָרְמָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2767",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chormah, a place in Palestine",
+      "translation": "Chormah, a place in Palestine"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "reference": "DEU 14:11",
+  "book": "DEU",
+  "book_code": "DEU",
+  "chapter": 14,
+  "verse": 11,
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "3605",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)",
+      "translation": "properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)"
+    },
+    {
+      "surface": "כָּל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "3605",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)",
+      "translation": "properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)"
+    },
+    {
+      "surface": "צִפּ֥וֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcbsa",
+      "strong": "6833",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a little bird (as hopping)",
+      "translation": "a little bird (as hopping)"
+    },
+    {
+      "surface": "צִפּ֥וֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcbsa",
+      "strong": "6833",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a little bird (as hopping)",
+      "translation": "a little bird (as hopping)"
+    },
+    {
+      "surface": "טְהֹרָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAafsa",
+      "strong": "2889",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "pure (in a physical, chemical, ceremonial or moral sense)",
+      "translation": "pure (in a physical, chemical, ceremonial or moral sense)"
+    },
+    {
+      "surface": "טְהֹרָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAafsa",
+      "strong": "2889",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "pure (in a physical, chemical, ceremonial or moral sense)",
+      "translation": "pure (in a physical, chemical, ceremonial or moral sense)"
+    },
+    {
+      "surface": "תֹּאכֵֽלוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi2mp",
+      "strong": "398",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to eat (literally or figuratively)",
+      "translation": "to eat (literally or figuratively)"
+    },
+    {
+      "surface": "תֹּאכֵֽלוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi2mp",
+      "strong": "398",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to eat (literally or figuratively)",
+      "translation": "to eat (literally or figuratively)"
+    }
+  ]
+}

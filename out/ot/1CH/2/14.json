@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 2:14",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 2,
+  "verse": 14,
+  "tokens": [
+    {
+      "surface": "נְתַנְאֵל֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5417",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nethanel, the name of ten Israelites",
+      "translation": "Nethanel, the name of ten Israelites"
+    },
+    {
+      "surface": "נְתַנְאֵל֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5417",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nethanel, the name of ten Israelites",
+      "translation": "Nethanel, the name of ten Israelites"
+    },
+    {
+      "surface": "הָֽ/רְבִיעִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/7243",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "fourth; also (fractionally) a fourth",
+      "translation": "fourth; also (fractionally) a fourth"
+    },
+    {
+      "surface": "הָֽ/רְבִיעִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/7243",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "fourth; also (fractionally) a fourth",
+      "translation": "fourth; also (fractionally) a fourth"
+    },
+    {
+      "surface": "רַדַּ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7288",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Raddai, an Israelite",
+      "translation": "Raddai, an Israelite"
+    },
+    {
+      "surface": "רַדַּ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7288",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Raddai, an Israelite",
+      "translation": "Raddai, an Israelite"
+    },
+    {
+      "surface": "הַ/חֲמִישִֽׁי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/2549",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "fifth; also a fifth",
+      "translation": "fifth; also a fifth"
+    },
+    {
+      "surface": "הַ/חֲמִישִֽׁי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/2549",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "fifth; also a fifth",
+      "translation": "fifth; also a fifth"
+    }
+  ]
+}

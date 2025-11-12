@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:21",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 21,
+  "tokens": [
+    {
+      "surface": "מַגְפִּיעָ֥שׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4047",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Magpiash, an Israelite",
+      "translation": "Magpiash, an Israelite"
+    },
+    {
+      "surface": "מַגְפִּיעָ֥שׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4047",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Magpiash, an Israelite",
+      "translation": "Magpiash, an Israelite"
+    },
+    {
+      "surface": "מְשֻׁלָּ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4918",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Meshullam, the name of seventeen Israelites",
+      "translation": "Meshullam, the name of seventeen Israelites"
+    },
+    {
+      "surface": "מְשֻׁלָּ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4918",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Meshullam, the name of seventeen Israelites",
+      "translation": "Meshullam, the name of seventeen Israelites"
+    },
+    {
+      "surface": "חֵזִֽיר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2387",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chezir, the name of two Israelites",
+      "translation": "Chezir, the name of two Israelites"
+    },
+    {
+      "surface": "חֵזִֽיר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2387",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chezir, the name of two Israelites",
+      "translation": "Chezir, the name of two Israelites"
+    }
+  ]
+}

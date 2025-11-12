@@ -1,0 +1,87 @@
+{
+  "reference": "ISA 2:18",
+  "book": "ISA",
+  "book_code": "ISA",
+  "chapter": 2,
+  "verse": 18,
+  "tokens": [
+    {
+      "surface": "וְ/הָ/אֱלִילִ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncmpa",
+      "strong": "c/d/457",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "good for nothing, by analogy vain or vanity; specifically an idol",
+      "translation": "good for nothing, by analogy vain or vanity; specifically an idol"
+    },
+    {
+      "surface": "וְ/הָ/אֱלִילִ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncmpa",
+      "strong": "c/d/457",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "good for nothing, by analogy vain or vanity; specifically an idol",
+      "translation": "good for nothing, by analogy vain or vanity; specifically an idol"
+    },
+    {
+      "surface": "כָּלִ֥יל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAamsa",
+      "strong": "3632",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "complete; as noun, the whole (specifically, a sacrifice entirely consumed); as adverb, fully",
+      "translation": "complete; as noun, the whole (specifically, a sacrifice entirely consumed); as adverb, fully"
+    },
+    {
+      "surface": "כָּלִ֥יל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAamsa",
+      "strong": "3632",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "complete; as noun, the whole (specifically, a sacrifice entirely consumed); as adverb, fully",
+      "translation": "complete; as noun, the whole (specifically, a sacrifice entirely consumed); as adverb, fully"
+    },
+    {
+      "surface": "יַחֲלֹֽף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi3ms",
+      "strong": "2498",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to slide by, i.e. (by implication) to hasten away, pass on, spring up, pierce or change",
+      "translation": "properly, to slide by, i.e. (by implication) to hasten away, pass on, spring up, pierce or change"
+    },
+    {
+      "surface": "יַחֲלֹֽף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqi3ms",
+      "strong": "2498",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to slide by, i.e. (by implication) to hasten away, pass on, spring up, pierce or change",
+      "translation": "properly, to slide by, i.e. (by implication) to hasten away, pass on, spring up, pierce or change"
+    }
+  ]
+}

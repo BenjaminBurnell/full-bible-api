@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 26:23",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 26,
+  "verse": 23,
+  "tokens": [
+    {
+      "surface": "לַֽ/עַמְרָמִי֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ngmsa",
+      "strong": "l/6020",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an Amramite or descendant of Amram",
+      "translation": "an Amramite or descendant of Amram"
+    },
+    {
+      "surface": "לַֽ/עַמְרָמִי֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ngmsa",
+      "strong": "l/6020",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an Amramite or descendant of Amram",
+      "translation": "an Amramite or descendant of Amram"
+    },
+    {
+      "surface": "לַ/יִּצְהָרִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ngmsa",
+      "strong": "l/3325",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Jitsharite or descendant of Jitshar",
+      "translation": "a Jitsharite or descendant of Jitshar"
+    },
+    {
+      "surface": "לַ/יִּצְהָרִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ngmsa",
+      "strong": "l/3325",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Jitsharite or descendant of Jitshar",
+      "translation": "a Jitsharite or descendant of Jitshar"
+    },
+    {
+      "surface": "לַֽ/חֶבְרוֹנִ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ngmsa",
+      "strong": "l/2276",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chebronite (collectively), an inhabitant of Chebron",
+      "translation": "Chebronite (collectively), an inhabitant of Chebron"
+    },
+    {
+      "surface": "לַֽ/חֶבְרוֹנִ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ngmsa",
+      "strong": "l/2276",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chebronite (collectively), an inhabitant of Chebron",
+      "translation": "Chebronite (collectively), an inhabitant of Chebron"
+    },
+    {
+      "surface": "לָֽ/עָזִּיאֵלִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ngmsa",
+      "strong": "l/5817",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an Uzzielite (collectively) or descendants of Uzziel",
+      "translation": "an Uzzielite (collectively) or descendants of Uzziel"
+    },
+    {
+      "surface": "לָֽ/עָזִּיאֵלִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ngmsa",
+      "strong": "l/5817",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an Uzzielite (collectively) or descendants of Uzziel",
+      "translation": "an Uzzielite (collectively) or descendants of Uzziel"
+    }
+  ]
+}

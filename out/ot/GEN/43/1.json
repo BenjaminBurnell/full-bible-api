@@ -1,0 +1,87 @@
+{
+  "reference": "GEN 43:1",
+  "book": "GEN",
+  "book_code": "GEN",
+  "chapter": 43,
+  "verse": 1,
+  "tokens": [
+    {
+      "surface": "וְ/הָ/רָעָ֖ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncmsa",
+      "strong": "c/d/7458",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "hunger (more or less extensive)",
+      "translation": "hunger (more or less extensive)"
+    },
+    {
+      "surface": "וְ/הָ/רָעָ֖ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncmsa",
+      "strong": "c/d/7458",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "hunger (more or less extensive)",
+      "translation": "hunger (more or less extensive)"
+    },
+    {
+      "surface": "כָּבֵ֥ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAamsa",
+      "strong": "3515",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "heavy; figuratively in a good sense (numerous) or in a bad sense (severe, difficult, stupid)",
+      "translation": "heavy; figuratively in a good sense (numerous) or in a bad sense (severe, difficult, stupid)"
+    },
+    {
+      "surface": "כָּבֵ֥ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAamsa",
+      "strong": "3515",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "heavy; figuratively in a good sense (numerous) or in a bad sense (severe, difficult, stupid)",
+      "translation": "heavy; figuratively in a good sense (numerous) or in a bad sense (severe, difficult, stupid)"
+    },
+    {
+      "surface": "בָּ/אָֽרֶץ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncbsa",
+      "strong": "b/776",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the earth (at large, or partitively a land)",
+      "translation": "the earth (at large, or partitively a land)"
+    },
+    {
+      "surface": "בָּ/אָֽרֶץ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncbsa",
+      "strong": "b/776",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the earth (at large, or partitively a land)",
+      "translation": "the earth (at large, or partitively a land)"
+    }
+  ]
+}

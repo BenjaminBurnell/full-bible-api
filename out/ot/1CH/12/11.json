@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 12:11",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 12,
+  "verse": 11,
+  "tokens": [
+    {
+      "surface": "מִשְׁמַנָּה֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4925",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mashmannah, an Israelite",
+      "translation": "Mashmannah, an Israelite"
+    },
+    {
+      "surface": "מִשְׁמַנָּה֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4925",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mashmannah, an Israelite",
+      "translation": "Mashmannah, an Israelite"
+    },
+    {
+      "surface": "הָ/רְבִיעִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/7243",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "fourth; also (fractionally) a fourth",
+      "translation": "fourth; also (fractionally) a fourth"
+    },
+    {
+      "surface": "הָ/רְבִיעִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/7243",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "fourth; also (fractionally) a fourth",
+      "translation": "fourth; also (fractionally) a fourth"
+    },
+    {
+      "surface": "יִרְמְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3414",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jirmejah, the name of eight or nine Israelites",
+      "translation": "Jirmejah, the name of eight or nine Israelites"
+    },
+    {
+      "surface": "יִרְמְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3414",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jirmejah, the name of eight or nine Israelites",
+      "translation": "Jirmejah, the name of eight or nine Israelites"
+    },
+    {
+      "surface": "הַ/חֲמִשִֽׁי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/2549",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "fifth; also a fifth",
+      "translation": "fifth; also a fifth"
+    },
+    {
+      "surface": "הַ/חֲמִשִֽׁי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/2549",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "fifth; also a fifth",
+      "translation": "fifth; also a fifth"
+    }
+  ]
+}

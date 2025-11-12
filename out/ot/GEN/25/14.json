@@ -1,0 +1,87 @@
+{
+  "reference": "GEN 25:14",
+  "book": "GEN",
+  "book_code": "GEN",
+  "chapter": 25,
+  "verse": 14,
+  "tokens": [
+    {
+      "surface": "וּ/מִשְׁמָ֥ע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/4927",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mishma, the name of a son of Ishmael, and of an Israelite",
+      "translation": "Mishma, the name of a son of Ishmael, and of an Israelite"
+    },
+    {
+      "surface": "וּ/מִשְׁמָ֥ע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/4927",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mishma, the name of a son of Ishmael, and of an Israelite",
+      "translation": "Mishma, the name of a son of Ishmael, and of an Israelite"
+    },
+    {
+      "surface": "וְ/דוּמָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1746",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Dumah, a tribe and region of Arabia",
+      "translation": "Dumah, a tribe and region of Arabia"
+    },
+    {
+      "surface": "וְ/דוּמָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1746",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Dumah, a tribe and region of Arabia",
+      "translation": "Dumah, a tribe and region of Arabia"
+    },
+    {
+      "surface": "וּ/מַשָּֽׂא",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/4854",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Massa, a son of Ishmael",
+      "translation": "Massa, a son of Ishmael"
+    },
+    {
+      "surface": "וּ/מַשָּֽׂא",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/4854",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Massa, a son of Ishmael",
+      "translation": "Massa, a son of Ishmael"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:18",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 18,
+  "tokens": [
+    {
+      "surface": "אָטֵ֥ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "333",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ater, the name of three Israelites",
+      "translation": "Ater, the name of three Israelites"
+    },
+    {
+      "surface": "אָטֵ֥ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "333",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ater, the name of three Israelites",
+      "translation": "Ater, the name of three Israelites"
+    },
+    {
+      "surface": "חִזְקִיָּ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2396",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chizkijah, a king of Judah, also the name of two other Israelites",
+      "translation": "Chizkijah, a king of Judah, also the name of two other Israelites"
+    },
+    {
+      "surface": "חִזְקִיָּ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2396",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chizkijah, a king of Judah, also the name of two other Israelites",
+      "translation": "Chizkijah, a king of Judah, also the name of two other Israelites"
+    },
+    {
+      "surface": "עַזּֽוּר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5809",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Azzur, the name of three Israelites",
+      "translation": "Azzur, the name of three Israelites"
+    },
+    {
+      "surface": "עַזּֽוּר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5809",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Azzur, the name of three Israelites",
+      "translation": "Azzur, the name of three Israelites"
+    }
+  ]
+}

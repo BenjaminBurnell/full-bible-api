@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 8:19",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 8,
+  "verse": 19,
+  "tokens": [
+    {
+      "surface": "וְ/יָקִ֥ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3356",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jakim, the name of two Israelites",
+      "translation": "Jakim, the name of two Israelites"
+    },
+    {
+      "surface": "וְ/יָקִ֥ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3356",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jakim, the name of two Israelites",
+      "translation": "Jakim, the name of two Israelites"
+    },
+    {
+      "surface": "וְ/זִכְרִ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2147",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zicri, the name of twelve Israelites",
+      "translation": "Zicri, the name of twelve Israelites"
+    },
+    {
+      "surface": "וְ/זִכְרִ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2147",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zicri, the name of twelve Israelites",
+      "translation": "Zicri, the name of twelve Israelites"
+    },
+    {
+      "surface": "וְ/זַבְדִּֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2067",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zabdi, the name of four Israelites",
+      "translation": "Zabdi, the name of four Israelites"
+    },
+    {
+      "surface": "וְ/זַבְדִּֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2067",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zabdi, the name of four Israelites",
+      "translation": "Zabdi, the name of four Israelites"
+    }
+  ]
+}

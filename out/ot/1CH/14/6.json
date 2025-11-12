@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 14:6",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 14,
+  "verse": 6,
+  "tokens": [
+    {
+      "surface": "וְ/נֹ֥גַהּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5052",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nogah, a son of David",
+      "translation": "Nogah, a son of David"
+    },
+    {
+      "surface": "וְ/נֹ֥גַהּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5052",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nogah, a son of David",
+      "translation": "Nogah, a son of David"
+    },
+    {
+      "surface": "וְ/נֶ֖פֶג",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5298",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nepheg, the name of two Israelites",
+      "translation": "Nepheg, the name of two Israelites"
+    },
+    {
+      "surface": "וְ/נֶ֖פֶג",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5298",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nepheg, the name of two Israelites",
+      "translation": "Nepheg, the name of two Israelites"
+    },
+    {
+      "surface": "וְ/יָפִֽיעַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3309",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Japhia, the name of a Canaanite, an Israelite, and a place in Palestine",
+      "translation": "Japhia, the name of a Canaanite, an Israelite, and a place in Palestine"
+    },
+    {
+      "surface": "וְ/יָפִֽיעַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3309",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Japhia, the name of a Canaanite, an Israelite, and a place in Palestine",
+      "translation": "Japhia, the name of a Canaanite, an Israelite, and a place in Palestine"
+    }
+  ]
+}

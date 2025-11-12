@@ -1,0 +1,113 @@
+{
+  "reference": "1KI 4:17",
+  "book": "1KI",
+  "book_code": "1KI",
+  "chapter": 4,
+  "verse": 17,
+  "tokens": [
+    {
+      "surface": "יְהוֹשָׁפָ֥ט",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3092",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jehoshaphat, the name of six Israelites; also of a valley near Jerusalem",
+      "translation": "Jehoshaphat, the name of six Israelites; also of a valley near Jerusalem"
+    },
+    {
+      "surface": "יְהוֹשָׁפָ֥ט",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3092",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jehoshaphat, the name of six Israelites; also of a valley near Jerusalem",
+      "translation": "Jehoshaphat, the name of six Israelites; also of a valley near Jerusalem"
+    },
+    {
+      "surface": "בֶּן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "1121 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "בֶּן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "1121 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "פָּר֖וּחַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6515",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Paruach, an Israelite",
+      "translation": "Paruach, an Israelite"
+    },
+    {
+      "surface": "פָּר֖וּחַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6515",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Paruach, an Israelite",
+      "translation": "Paruach, an Israelite"
+    },
+    {
+      "surface": "בְּ/יִשָׂשכָֽר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "b/3485",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jissaskar, a son of Jacob",
+      "translation": "Jissaskar, a son of Jacob"
+    },
+    {
+      "surface": "בְּ/יִשָׂשכָֽר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "b/3485",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jissaskar, a son of Jacob",
+      "translation": "Jissaskar, a son of Jacob"
+    }
+  ]
+}

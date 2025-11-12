@@ -1,0 +1,87 @@
+{
+  "reference": "EZR 10:41",
+  "book": "EZR",
+  "book_code": "EZR",
+  "chapter": 10,
+  "verse": 41,
+  "tokens": [
+    {
+      "surface": "עֲזַרְאֵ֥ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5832",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Azarel, the name of five Israelites",
+      "translation": "Azarel, the name of five Israelites"
+    },
+    {
+      "surface": "עֲזַרְאֵ֥ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5832",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Azarel, the name of five Israelites",
+      "translation": "Azarel, the name of five Israelites"
+    },
+    {
+      "surface": "וְ/שֶׁלֶמְיָ֖הוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/8018",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shelemjah, the name of nine Israelites",
+      "translation": "Shelemjah, the name of nine Israelites"
+    },
+    {
+      "surface": "וְ/שֶׁלֶמְיָ֖הוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/8018",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shelemjah, the name of nine Israelites",
+      "translation": "Shelemjah, the name of nine Israelites"
+    },
+    {
+      "surface": "שְׁמַרְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8114",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shemarjah, the name of four Israelites",
+      "translation": "Shemarjah, the name of four Israelites"
+    },
+    {
+      "surface": "שְׁמַרְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8114",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shemarjah, the name of four Israelites",
+      "translation": "Shemarjah, the name of four Israelites"
+    }
+  ]
+}

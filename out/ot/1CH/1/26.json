@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 1:26",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 1,
+  "verse": 26,
+  "tokens": [
+    {
+      "surface": "שְׂר֥וּג",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8286",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Serug, a postdiluvian patriarch",
+      "translation": "Serug, a postdiluvian patriarch"
+    },
+    {
+      "surface": "שְׂר֥וּג",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8286",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Serug, a postdiluvian patriarch",
+      "translation": "Serug, a postdiluvian patriarch"
+    },
+    {
+      "surface": "נָח֖וֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5152",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nachor, the name of the grandfather and a brother of Abraham",
+      "translation": "Nachor, the name of the grandfather and a brother of Abraham"
+    },
+    {
+      "surface": "נָח֖וֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5152",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nachor, the name of the grandfather and a brother of Abraham",
+      "translation": "Nachor, the name of the grandfather and a brother of Abraham"
+    },
+    {
+      "surface": "תָּֽרַח",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8646",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Terach, the father of Abraham; also a place in the Desert",
+      "translation": "Terach, the father of Abraham; also a place in the Desert"
+    },
+    {
+      "surface": "תָּֽרַח",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8646",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Terach, the father of Abraham; also a place in the Desert",
+      "translation": "Terach, the father of Abraham; also a place in the Desert"
+    }
+  ]
+}

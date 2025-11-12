@@ -1,0 +1,87 @@
+{
+  "reference": "JOS 15:45",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 15,
+  "verse": 45,
+  "tokens": [
+    {
+      "surface": "עֶקְר֥וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6138",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ekron, a place in Palestine",
+      "translation": "Ekron, a place in Palestine"
+    },
+    {
+      "surface": "עֶקְר֥וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "6138",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ekron, a place in Palestine",
+      "translation": "Ekron, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְנֹתֶ֖י/הָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncfpc/Sp3fs",
+      "strong": "c/1323",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a daughter (used in the same wide sense as other terms of relationship, literally and figuratively)",
+      "translation": "a daughter (used in the same wide sense as other terms of relationship, literally and figuratively)"
+    },
+    {
+      "surface": "וּ/בְנֹתֶ֖י/הָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncfpc/Sp3fs",
+      "strong": "c/1323",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a daughter (used in the same wide sense as other terms of relationship, literally and figuratively)",
+      "translation": "a daughter (used in the same wide sense as other terms of relationship, literally and figuratively)"
+    },
+    {
+      "surface": "וַ/חֲצֵרֶֽי/הָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncbpc/Sp3fs",
+      "strong": "c/2691 b",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a yard (as inclosed by a fence); also a hamlet (as similarly surrounded with walls)",
+      "translation": "a yard (as inclosed by a fence); also a hamlet (as similarly surrounded with walls)"
+    },
+    {
+      "surface": "וַ/חֲצֵרֶֽי/הָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncbpc/Sp3fs",
+      "strong": "c/2691 b",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a yard (as inclosed by a fence); also a hamlet (as similarly surrounded with walls)",
+      "translation": "a yard (as inclosed by a fence); also a hamlet (as similarly surrounded with walls)"
+    }
+  ]
+}

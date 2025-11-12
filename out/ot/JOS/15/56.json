@@ -1,0 +1,87 @@
+{
+  "reference": "JOS 15:56",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 15,
+  "verse": 56,
+  "tokens": [
+    {
+      "surface": "וְ/יִזְרְעֶ֥אל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3157",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jizreel, the name of two places in Palestine and of two Israelites",
+      "translation": "Jizreel, the name of two places in Palestine and of two Israelites"
+    },
+    {
+      "surface": "וְ/יִזְרְעֶ֥אל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3157",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jizreel, the name of two places in Palestine and of two Israelites",
+      "translation": "Jizreel, the name of two places in Palestine and of two Israelites"
+    },
+    {
+      "surface": "וְ/יָקְדְעָ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3347",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jokdeam, a place in Palestine",
+      "translation": "Jokdeam, a place in Palestine"
+    },
+    {
+      "surface": "וְ/יָקְדְעָ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3347",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jokdeam, a place in Palestine",
+      "translation": "Jokdeam, a place in Palestine"
+    },
+    {
+      "surface": "וְ/זָנֽוֹחַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2182",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zanoach, the name of two places in Palestine",
+      "translation": "Zanoach, the name of two places in Palestine"
+    },
+    {
+      "surface": "וְ/זָנֽוֹחַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2182",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zanoach, the name of two places in Palestine",
+      "translation": "Zanoach, the name of two places in Palestine"
+    }
+  ]
+}

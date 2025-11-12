@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 24:8",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 24,
+  "verse": 8,
+  "tokens": [
+    {
+      "surface": "לְ/חָרִם֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/2766",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Charim, an Israelite",
+      "translation": "Charim, an Israelite"
+    },
+    {
+      "surface": "לְ/חָרִם֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/2766",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Charim, an Israelite",
+      "translation": "Charim, an Israelite"
+    },
+    {
+      "surface": "הַ/שְּׁלִישִׁ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/7992",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "third; feminine a third (part); by extension, a third (day, year or time); specifically, a third-story cell)",
+      "translation": "third; feminine a third (part); by extension, a third (day, year or time); specifically, a third-story cell)"
+    },
+    {
+      "surface": "הַ/שְּׁלִישִׁ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/7992",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "third; feminine a third (part); by extension, a third (day, year or time); specifically, a third-story cell)",
+      "translation": "third; feminine a third (part); by extension, a third (day, year or time); specifically, a third-story cell)"
+    },
+    {
+      "surface": "לִ/שְׂעֹרִ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/8188",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Seorim, an Israelite",
+      "translation": "Seorim, an Israelite"
+    },
+    {
+      "surface": "לִ/שְׂעֹרִ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/8188",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Seorim, an Israelite",
+      "translation": "Seorim, an Israelite"
+    },
+    {
+      "surface": "הָ/רְבִעִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/7243",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "fourth; also (fractionally) a fourth",
+      "translation": "fourth; also (fractionally) a fourth"
+    },
+    {
+      "surface": "הָ/רְבִעִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/7243",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "fourth; also (fractionally) a fourth",
+      "translation": "fourth; also (fractionally) a fourth"
+    }
+  ]
+}

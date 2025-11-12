@@ -1,0 +1,113 @@
+{
+  "reference": "NUM 21:19",
+  "book": "NUM",
+  "book_code": "NUM",
+  "chapter": 21,
+  "verse": 19,
+  "tokens": [
+    {
+      "surface": "וּ/מִ/מַּתָּנָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/m/4980",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mattanah, a place in the Desert",
+      "translation": "Mattanah, a place in the Desert"
+    },
+    {
+      "surface": "וּ/מִ/מַּתָּנָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/m/4980",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mattanah, a place in the Desert",
+      "translation": "Mattanah, a place in the Desert"
+    },
+    {
+      "surface": "נַחֲלִיאֵ֑ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5160",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nachaliël, a place in the Desert",
+      "translation": "Nachaliël, a place in the Desert"
+    },
+    {
+      "surface": "נַחֲלִיאֵ֑ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5160",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nachaliël, a place in the Desert",
+      "translation": "Nachaliël, a place in the Desert"
+    },
+    {
+      "surface": "וּ/מִ/נַּחֲלִיאֵ֖ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/m/5160",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nachaliël, a place in the Desert",
+      "translation": "Nachaliël, a place in the Desert"
+    },
+    {
+      "surface": "וּ/מִ/נַּחֲלִיאֵ֖ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/m/5160",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nachaliël, a place in the Desert",
+      "translation": "Nachaliël, a place in the Desert"
+    },
+    {
+      "surface": "בָּמֽוֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1120",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bamoth or Bamoth-Baal, a place East of the Jordan",
+      "translation": "Bamoth or Bamoth-Baal, a place East of the Jordan"
+    },
+    {
+      "surface": "בָּמֽוֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1120",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bamoth or Bamoth-Baal, a place East of the Jordan",
+      "translation": "Bamoth or Bamoth-Baal, a place East of the Jordan"
+    }
+  ]
+}

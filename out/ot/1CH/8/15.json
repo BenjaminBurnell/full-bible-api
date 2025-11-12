@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 8:15",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 8,
+  "verse": 15,
+  "tokens": [
+    {
+      "surface": "וּ/זְבַדְיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2069",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zebadjah, the name of nine Israelites",
+      "translation": "Zebadjah, the name of nine Israelites"
+    },
+    {
+      "surface": "וּ/זְבַדְיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2069",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zebadjah, the name of nine Israelites",
+      "translation": "Zebadjah, the name of nine Israelites"
+    },
+    {
+      "surface": "וַ/עֲרָ֖ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6166 b",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Arad, the name of a place near Palestine, also of a Canaanite and an Israelite",
+      "translation": "Arad, the name of a place near Palestine, also of a Canaanite and an Israelite"
+    },
+    {
+      "surface": "וַ/עֲרָ֖ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6166 b",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Arad, the name of a place near Palestine, also of a Canaanite and an Israelite",
+      "translation": "Arad, the name of a place near Palestine, also of a Canaanite and an Israelite"
+    },
+    {
+      "surface": "וָ/עָֽדֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5738",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eder, an Israelite",
+      "translation": "Eder, an Israelite"
+    },
+    {
+      "surface": "וָ/עָֽדֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5738",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eder, an Israelite",
+      "translation": "Eder, an Israelite"
+    }
+  ]
+}

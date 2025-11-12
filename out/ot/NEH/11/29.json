@@ -1,0 +1,113 @@
+{
+  "reference": "NEH 11:29",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 11,
+  "verse": 29,
+  "tokens": [
+    {
+      "surface": "וּ/בְ/עֵ֥ין",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/5884+",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "En-Rimmon, a place in Palestine",
+      "translation": "En-Rimmon, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְ/עֵ֥ין",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/5884+",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "En-Rimmon, a place in Palestine",
+      "translation": "En-Rimmon, a place in Palestine"
+    },
+    {
+      "surface": "רִמּ֛וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5884",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "En-Rimmon, a place in Palestine",
+      "translation": "En-Rimmon, a place in Palestine"
+    },
+    {
+      "surface": "רִמּ֛וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5884",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "En-Rimmon, a place in Palestine",
+      "translation": "En-Rimmon, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְ/צָרְעָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/6881",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tsorah, a place in Palestine",
+      "translation": "Tsorah, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְ/צָרְעָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/6881",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tsorah, a place in Palestine",
+      "translation": "Tsorah, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְ/יַרְמֽוּת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/3412",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jarmuth, the name of two places in Palestine",
+      "translation": "Jarmuth, the name of two places in Palestine"
+    },
+    {
+      "surface": "וּ/בְ/יַרְמֽוּת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/3412",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jarmuth, the name of two places in Palestine",
+      "translation": "Jarmuth, the name of two places in Palestine"
+    }
+  ]
+}

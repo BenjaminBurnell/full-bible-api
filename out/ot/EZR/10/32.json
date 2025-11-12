@@ -1,0 +1,87 @@
+{
+  "reference": "EZR 10:32",
+  "book": "EZR",
+  "book_code": "EZR",
+  "chapter": 10,
+  "verse": 32,
+  "tokens": [
+    {
+      "surface": "בְּנְיָמִ֥ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1144",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory",
+      "translation": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory"
+    },
+    {
+      "surface": "בְּנְיָמִ֥ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1144",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory",
+      "translation": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory"
+    },
+    {
+      "surface": "מַלּ֖וּךְ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4409 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Malluk, the name of five Israelites",
+      "translation": "Malluk, the name of five Israelites"
+    },
+    {
+      "surface": "מַלּ֖וּךְ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4409 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Malluk, the name of five Israelites",
+      "translation": "Malluk, the name of five Israelites"
+    },
+    {
+      "surface": "שְׁמַרְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8114",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shemarjah, the name of four Israelites",
+      "translation": "Shemarjah, the name of four Israelites"
+    },
+    {
+      "surface": "שְׁמַרְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8114",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shemarjah, the name of four Israelites",
+      "translation": "Shemarjah, the name of four Israelites"
+    }
+  ]
+}

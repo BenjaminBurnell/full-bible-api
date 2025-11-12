@@ -1,0 +1,113 @@
+{
+  "reference": "JOS 15:33",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 15,
+  "verse": 33,
+  "tokens": [
+    {
+      "surface": "בַּ/שְּׁפֵלָ֑ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncfsa",
+      "strong": "b/8219",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Lowland, i.e. (with the article) the maritime slope of Palestine",
+      "translation": "Lowland, i.e. (with the article) the maritime slope of Palestine"
+    },
+    {
+      "surface": "בַּ/שְּׁפֵלָ֑ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncfsa",
+      "strong": "b/8219",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Lowland, i.e. (with the article) the maritime slope of Palestine",
+      "translation": "Lowland, i.e. (with the article) the maritime slope of Palestine"
+    },
+    {
+      "surface": "אֶשְׁתָּא֥וֹל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "847",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eshtaol, a place in Palestine",
+      "translation": "Eshtaol, a place in Palestine"
+    },
+    {
+      "surface": "אֶשְׁתָּא֥וֹל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "847",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eshtaol, a place in Palestine",
+      "translation": "Eshtaol, a place in Palestine"
+    },
+    {
+      "surface": "וְ/צָרְעָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6881",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tsorah, a place in Palestine",
+      "translation": "Tsorah, a place in Palestine"
+    },
+    {
+      "surface": "וְ/צָרְעָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6881",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tsorah, a place in Palestine",
+      "translation": "Tsorah, a place in Palestine"
+    },
+    {
+      "surface": "וְ/אַשְׁנָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/823",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ashnah, the name of two places in Palestine",
+      "translation": "Ashnah, the name of two places in Palestine"
+    },
+    {
+      "surface": "וְ/אַשְׁנָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/823",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ashnah, the name of two places in Palestine",
+      "translation": "Ashnah, the name of two places in Palestine"
+    }
+  ]
+}

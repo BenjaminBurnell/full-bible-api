@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 8:14",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 8,
+  "verse": 14,
+  "tokens": [
+    {
+      "surface": "וְ/אַחְי֥וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/283",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achio, the name of three Israelites",
+      "translation": "Achio, the name of three Israelites"
+    },
+    {
+      "surface": "וְ/אַחְי֥וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/283",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achio, the name of three Israelites",
+      "translation": "Achio, the name of three Israelites"
+    },
+    {
+      "surface": "שָׁשָׁ֖ק",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8349",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shashak, an Israelite",
+      "translation": "Shashak, an Israelite"
+    },
+    {
+      "surface": "שָׁשָׁ֖ק",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8349",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shashak, an Israelite",
+      "translation": "Shashak, an Israelite"
+    },
+    {
+      "surface": "וִ/ירֵמֽוֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3406",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jerimoth or Jeremoth, the name of twelve Israelites",
+      "translation": "Jerimoth or Jeremoth, the name of twelve Israelites"
+    },
+    {
+      "surface": "וִ/ירֵמֽוֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3406",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jerimoth or Jeremoth, the name of twelve Israelites",
+      "translation": "Jerimoth or Jeremoth, the name of twelve Israelites"
+    }
+  ]
+}

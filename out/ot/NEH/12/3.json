@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 12:3",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 12,
+  "verse": 3,
+  "tokens": [
+    {
+      "surface": "שְׁכַנְיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7935",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shekanjah, the name of nine Israelites",
+      "translation": "Shekanjah, the name of nine Israelites"
+    },
+    {
+      "surface": "שְׁכַנְיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7935",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shekanjah, the name of nine Israelites",
+      "translation": "Shekanjah, the name of nine Israelites"
+    },
+    {
+      "surface": "רְחֻ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7348 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Rechum, the name of a Persian and of three Israelites",
+      "translation": "Rechum, the name of a Persian and of three Israelites"
+    },
+    {
+      "surface": "רְחֻ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7348 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Rechum, the name of a Persian and of three Israelites",
+      "translation": "Rechum, the name of a Persian and of three Israelites"
+    },
+    {
+      "surface": "מְרֵמֹֽת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4822",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Meremoth, the name of two Israelites",
+      "translation": "Meremoth, the name of two Israelites"
+    },
+    {
+      "surface": "מְרֵמֹֽת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4822",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Meremoth, the name of two Israelites",
+      "translation": "Meremoth, the name of two Israelites"
+    }
+  ]
+}

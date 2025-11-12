@@ -1,0 +1,87 @@
+{
+  "reference": "JOS 15:24",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 15,
+  "verse": 24,
+  "tokens": [
+    {
+      "surface": "זִ֥יף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2128",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ziph, the name of a place in Palestine; also of an Israelite",
+      "translation": "Ziph, the name of a place in Palestine; also of an Israelite"
+    },
+    {
+      "surface": "זִ֥יף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2128",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ziph, the name of a place in Palestine; also of an Israelite",
+      "translation": "Ziph, the name of a place in Palestine; also of an Israelite"
+    },
+    {
+      "surface": "וָ/טֶ֖לֶם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2928",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Telem, the name of a place in Idumaea, also of a temple doorkeeper",
+      "translation": "Telem, the name of a place in Idumaea, also of a temple doorkeeper"
+    },
+    {
+      "surface": "וָ/טֶ֖לֶם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2928",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Telem, the name of a place in Idumaea, also of a temple doorkeeper",
+      "translation": "Telem, the name of a place in Idumaea, also of a temple doorkeeper"
+    },
+    {
+      "surface": "וּ/בְעָלֽוֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1175",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bealoth, a place in Palestine",
+      "translation": "Bealoth, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְעָלֽוֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1175",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bealoth, a place in Palestine",
+      "translation": "Bealoth, a place in Palestine"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "reference": "LAM 3:13",
+  "book": "LAM",
+  "book_code": "LAM",
+  "chapter": 3,
+  "verse": 13,
+  "tokens": [
+    {
+      "surface": "הֵבִיא֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVhp3ms",
+      "strong": "935",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to go or come (in a wide variety of applications)",
+      "translation": "to go or come (in a wide variety of applications)"
+    },
+    {
+      "surface": "הֵבִיא֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVhp3ms",
+      "strong": "935",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to go or come (in a wide variety of applications)",
+      "translation": "to go or come (in a wide variety of applications)"
+    },
+    {
+      "surface": "בְּ/כִלְיוֹתָ֔/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfpc/Sp1cs",
+      "strong": "b/3629",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a kidney (as an essential organ); figuratively, the mind (as the interior self)",
+      "translation": "a kidney (as an essential organ); figuratively, the mind (as the interior self)"
+    },
+    {
+      "surface": "בְּ/כִלְיוֹתָ֔/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfpc/Sp1cs",
+      "strong": "b/3629",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a kidney (as an essential organ); figuratively, the mind (as the interior self)",
+      "translation": "a kidney (as an essential organ); figuratively, the mind (as the interior self)"
+    },
+    {
+      "surface": "בְּנֵ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc",
+      "strong": "1121 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "בְּנֵ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc",
+      "strong": "1121 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "אַשְׁפָּתֽ/וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsc/Sp3ms",
+      "strong": "827",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a quiver or arrow-case",
+      "translation": "a quiver or arrow-case"
+    },
+    {
+      "surface": "אַשְׁפָּתֽ/וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsc/Sp3ms",
+      "strong": "827",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a quiver or arrow-case",
+      "translation": "a quiver or arrow-case"
+    }
+  ]
+}

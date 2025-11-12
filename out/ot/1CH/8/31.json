@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 8:31",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 8,
+  "verse": 31,
+  "tokens": [
+    {
+      "surface": "וּ/גְד֥וֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1446",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gedor, a place in Palestine; also the name of three Israelites",
+      "translation": "Gedor, a place in Palestine; also the name of three Israelites"
+    },
+    {
+      "surface": "וּ/גְד֥וֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1446",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gedor, a place in Palestine; also the name of three Israelites",
+      "translation": "Gedor, a place in Palestine; also the name of three Israelites"
+    },
+    {
+      "surface": "וְ/אַחְי֖וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/283",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achio, the name of three Israelites",
+      "translation": "Achio, the name of three Israelites"
+    },
+    {
+      "surface": "וְ/אַחְי֖וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/283",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achio, the name of three Israelites",
+      "translation": "Achio, the name of three Israelites"
+    },
+    {
+      "surface": "וָ/זָֽכֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2144",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zeker, an Israelite",
+      "translation": "Zeker, an Israelite"
+    },
+    {
+      "surface": "וָ/זָֽכֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/2144",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zeker, an Israelite",
+      "translation": "Zeker, an Israelite"
+    }
+  ]
+}

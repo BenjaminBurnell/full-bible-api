@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 8:4",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 8,
+  "verse": 4,
+  "tokens": [
+    {
+      "surface": "וַ/אֲבִישׁ֥וּעַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/50",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abishua, the name of two Israelites",
+      "translation": "Abishua, the name of two Israelites"
+    },
+    {
+      "surface": "וַ/אֲבִישׁ֥וּעַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/50",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Abishua, the name of two Israelites",
+      "translation": "Abishua, the name of two Israelites"
+    },
+    {
+      "surface": "וְ/נַעֲמָ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5283",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Naaman, the name of an Israelite and of a Damascene",
+      "translation": "Naaman, the name of an Israelite and of a Damascene"
+    },
+    {
+      "surface": "וְ/נַעֲמָ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5283",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Naaman, the name of an Israelite and of a Damascene",
+      "translation": "Naaman, the name of an Israelite and of a Damascene"
+    },
+    {
+      "surface": "וַ/אֲחֽוֹחַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/265",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achoach, an Israelite",
+      "translation": "Achoach, an Israelite"
+    },
+    {
+      "surface": "וַ/אֲחֽוֹחַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/265",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achoach, an Israelite",
+      "translation": "Achoach, an Israelite"
+    }
+  ]
+}

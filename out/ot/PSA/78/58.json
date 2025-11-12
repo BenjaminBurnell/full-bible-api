@@ -1,0 +1,113 @@
+{
+  "reference": "PSA 78:58",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 78,
+  "verse": 58,
+  "tokens": [
+    {
+      "surface": "וַ/יַּכְעִיס֥וּ/הוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vhw3mp/Sp3ms",
+      "strong": "c/3707",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to trouble; by implication, to grieve, rage, be indignant",
+      "translation": "to trouble; by implication, to grieve, rage, be indignant"
+    },
+    {
+      "surface": "וַ/יַּכְעִיס֥וּ/הוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vhw3mp/Sp3ms",
+      "strong": "c/3707",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to trouble; by implication, to grieve, rage, be indignant",
+      "translation": "to trouble; by implication, to grieve, rage, be indignant"
+    },
+    {
+      "surface": "בְּ/בָמוֹתָ֑/ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfpc/Sp3mp",
+      "strong": "b/1116",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an elevation",
+      "translation": "an elevation"
+    },
+    {
+      "surface": "בְּ/בָמוֹתָ֑/ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfpc/Sp3mp",
+      "strong": "b/1116",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an elevation",
+      "translation": "an elevation"
+    },
+    {
+      "surface": "וּ֝/בִ/פְסִילֵי/הֶ֗ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Ncmpc/Sp3mp",
+      "strong": "c/b/6456",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an idol",
+      "translation": "an idol"
+    },
+    {
+      "surface": "וּ֝/בִ/פְסִילֵי/הֶ֗ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Ncmpc/Sp3mp",
+      "strong": "c/b/6456",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an idol",
+      "translation": "an idol"
+    },
+    {
+      "surface": "יַקְנִיאֽוּ/הוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVhi3mp/Sp3ms",
+      "strong": "7065",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to be (causatively, make) zealous, i.e. (in a bad sense) jealous or envious",
+      "translation": "to be (causatively, make) zealous, i.e. (in a bad sense) jealous or envious"
+    },
+    {
+      "surface": "יַקְנִיאֽוּ/הוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVhi3mp/Sp3ms",
+      "strong": "7065",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to be (causatively, make) zealous, i.e. (in a bad sense) jealous or envious",
+      "translation": "to be (causatively, make) zealous, i.e. (in a bad sense) jealous or envious"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "reference": "EZR 10:39",
+  "book": "EZR",
+  "book_code": "EZR",
+  "chapter": 10,
+  "verse": 39,
+  "tokens": [
+    {
+      "surface": "וְ/שֶֽׁלֶמְיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/8018",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shelemjah, the name of nine Israelites",
+      "translation": "Shelemjah, the name of nine Israelites"
+    },
+    {
+      "surface": "וְ/שֶֽׁלֶמְיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/8018",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shelemjah, the name of nine Israelites",
+      "translation": "Shelemjah, the name of nine Israelites"
+    },
+    {
+      "surface": "וְ/נָתָ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5416",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nathan, the name of five Israelites",
+      "translation": "Nathan, the name of five Israelites"
+    },
+    {
+      "surface": "וְ/נָתָ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5416",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nathan, the name of five Israelites",
+      "translation": "Nathan, the name of five Israelites"
+    },
+    {
+      "surface": "וַ/עֲדָיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5718",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Adajah, the name of eight Israelites",
+      "translation": "Adajah, the name of eight Israelites"
+    },
+    {
+      "surface": "וַ/עֲדָיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5718",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Adajah, the name of eight Israelites",
+      "translation": "Adajah, the name of eight Israelites"
+    }
+  ]
+}

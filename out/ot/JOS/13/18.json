@@ -1,0 +1,87 @@
+{
+  "reference": "JOS 13:18",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 13,
+  "verse": 18,
+  "tokens": [
+    {
+      "surface": "וְ/יַ֥הְצָ/ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np/Sd",
+      "strong": "c/3096",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jahats or Jahtsah, a place East of the Jordan",
+      "translation": "Jahats or Jahtsah, a place East of the Jordan"
+    },
+    {
+      "surface": "וְ/יַ֥הְצָ/ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np/Sd",
+      "strong": "c/3096",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jahats or Jahtsah, a place East of the Jordan",
+      "translation": "Jahats or Jahtsah, a place East of the Jordan"
+    },
+    {
+      "surface": "וּ/קְדֵמֹ֖ת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6932",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Kedemoth, a place in eastern Palestine",
+      "translation": "Kedemoth, a place in eastern Palestine"
+    },
+    {
+      "surface": "וּ/קְדֵמֹ֖ת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6932",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Kedemoth, a place in eastern Palestine",
+      "translation": "Kedemoth, a place in eastern Palestine"
+    },
+    {
+      "surface": "וּ/מֵפָֽעַת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/4158",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mophaath or Mephaath, a place in Palestine",
+      "translation": "Mophaath or Mephaath, a place in Palestine"
+    },
+    {
+      "surface": "וּ/מֵפָֽעַת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/4158",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mophaath or Mephaath, a place in Palestine",
+      "translation": "Mophaath or Mephaath, a place in Palestine"
+    }
+  ]
+}

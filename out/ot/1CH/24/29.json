@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 24:29",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 24,
+  "verse": 29,
+  "tokens": [
+    {
+      "surface": "לְ/קִ֖ישׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/7027",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Kish, the name of five Israelites",
+      "translation": "Kish, the name of five Israelites"
+    },
+    {
+      "surface": "לְ/קִ֖ישׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/7027",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Kish, the name of five Israelites",
+      "translation": "Kish, the name of five Israelites"
+    },
+    {
+      "surface": "בְּנֵי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc",
+      "strong": "1121 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "בְּנֵי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc",
+      "strong": "1121 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "קִ֥ישׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7027",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Kish, the name of five Israelites",
+      "translation": "Kish, the name of five Israelites"
+    },
+    {
+      "surface": "קִ֥ישׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7027",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Kish, the name of five Israelites",
+      "translation": "Kish, the name of five Israelites"
+    },
+    {
+      "surface": "יְרַחְמְאֵֽל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3396",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jerachmeel, the name of three Israelites",
+      "translation": "Jerachmeel, the name of three Israelites"
+    },
+    {
+      "surface": "יְרַחְמְאֵֽל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3396",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jerachmeel, the name of three Israelites",
+      "translation": "Jerachmeel, the name of three Israelites"
+    }
+  ]
+}

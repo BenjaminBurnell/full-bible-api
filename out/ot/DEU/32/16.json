@@ -1,0 +1,113 @@
+{
+  "reference": "DEU 32:16",
+  "book": "DEU",
+  "book_code": "DEU",
+  "chapter": 32,
+  "verse": 16,
+  "tokens": [
+    {
+      "surface": "יַקְנִאֻ֖/הוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVhi3mp/Sp3ms",
+      "strong": "7065",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to be (causatively, make) zealous, i.e. (in a bad sense) jealous or envious",
+      "translation": "to be (causatively, make) zealous, i.e. (in a bad sense) jealous or envious"
+    },
+    {
+      "surface": "יַקְנִאֻ֖/הוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVhi3mp/Sp3ms",
+      "strong": "7065",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to be (causatively, make) zealous, i.e. (in a bad sense) jealous or envious",
+      "translation": "to be (causatively, make) zealous, i.e. (in a bad sense) jealous or envious"
+    },
+    {
+      "surface": "בְּ/זָרִ֑ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Aampa",
+      "strong": "b/2114 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to turn aside (especially for lodging); hence to be a foreigner, strange, profane; specifically (active participle) to commit adultery",
+      "translation": "to turn aside (especially for lodging); hence to be a foreigner, strange, profane; specifically (active participle) to commit adultery"
+    },
+    {
+      "surface": "בְּ/זָרִ֑ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Aampa",
+      "strong": "b/2114 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to turn aside (especially for lodging); hence to be a foreigner, strange, profane; specifically (active participle) to commit adultery",
+      "translation": "to turn aside (especially for lodging); hence to be a foreigner, strange, profane; specifically (active participle) to commit adultery"
+    },
+    {
+      "surface": "בְּ/תוֹעֵבֹ֖ת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfpa",
+      "strong": "b/8441",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, something disgusting (morally), i.e. (as noun) an abhorrence; especially idolatry or (concretely) an idol",
+      "translation": "properly, something disgusting (morally), i.e. (as noun) an abhorrence; especially idolatry or (concretely) an idol"
+    },
+    {
+      "surface": "בְּ/תוֹעֵבֹ֖ת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfpa",
+      "strong": "b/8441",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, something disgusting (morally), i.e. (as noun) an abhorrence; especially idolatry or (concretely) an idol",
+      "translation": "properly, something disgusting (morally), i.e. (as noun) an abhorrence; especially idolatry or (concretely) an idol"
+    },
+    {
+      "surface": "יַכְעִיסֻֽ/הוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVhi3mp/Sp3ms",
+      "strong": "3707",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to trouble; by implication, to grieve, rage, be indignant",
+      "translation": "to trouble; by implication, to grieve, rage, be indignant"
+    },
+    {
+      "surface": "יַכְעִיסֻֽ/הוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVhi3mp/Sp3ms",
+      "strong": "3707",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to trouble; by implication, to grieve, rage, be indignant",
+      "translation": "to trouble; by implication, to grieve, rage, be indignant"
+    }
+  ]
+}

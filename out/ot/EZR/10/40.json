@@ -1,0 +1,87 @@
+{
+  "reference": "EZR 10:40",
+  "book": "EZR",
+  "book_code": "EZR",
+  "chapter": 10,
+  "verse": 40,
+  "tokens": [
+    {
+      "surface": "מַכְנַדְבַ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4367",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Maknadbai, an Israelite",
+      "translation": "Maknadbai, an Israelite"
+    },
+    {
+      "surface": "מַכְנַדְבַ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4367",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Maknadbai, an Israelite",
+      "translation": "Maknadbai, an Israelite"
+    },
+    {
+      "surface": "שָׁשַׁ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8343",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shashai, an Israelite",
+      "translation": "Shashai, an Israelite"
+    },
+    {
+      "surface": "שָׁשַׁ֖י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8343",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shashai, an Israelite",
+      "translation": "Shashai, an Israelite"
+    },
+    {
+      "surface": "שָׁרָֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8298",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Sharay, an Israelite",
+      "translation": "Sharay, an Israelite"
+    },
+    {
+      "surface": "שָׁרָֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8298",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Sharay, an Israelite",
+      "translation": "Sharay, an Israelite"
+    }
+  ]
+}

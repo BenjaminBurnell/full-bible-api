@@ -1,0 +1,87 @@
+{
+  "reference": "EZR 10:42",
+  "book": "EZR",
+  "book_code": "EZR",
+  "chapter": 10,
+  "verse": 42,
+  "tokens": [
+    {
+      "surface": "שַׁלּ֥וּם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7967",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shallum, the name of fourteen Israelites",
+      "translation": "Shallum, the name of fourteen Israelites"
+    },
+    {
+      "surface": "שַׁלּ֥וּם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7967",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shallum, the name of fourteen Israelites",
+      "translation": "Shallum, the name of fourteen Israelites"
+    },
+    {
+      "surface": "אֲמַרְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "568",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Amarjah, the name of nine Israelites",
+      "translation": "Amarjah, the name of nine Israelites"
+    },
+    {
+      "surface": "אֲמַרְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "568",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Amarjah, the name of nine Israelites",
+      "translation": "Amarjah, the name of nine Israelites"
+    },
+    {
+      "surface": "יוֹסֵֽף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3130",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Joseph, the name of seven Israelites",
+      "translation": "Joseph, the name of seven Israelites"
+    },
+    {
+      "surface": "יוֹסֵֽף",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3130",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Joseph, the name of seven Israelites",
+      "translation": "Joseph, the name of seven Israelites"
+    }
+  ]
+}

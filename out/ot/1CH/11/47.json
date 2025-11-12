@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 11:47",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 11,
+  "verse": 47,
+  "tokens": [
+    {
+      "surface": "אֱלִיאֵ֣ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "447",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eliel, the name of nine Israelites",
+      "translation": "Eliel, the name of nine Israelites"
+    },
+    {
+      "surface": "אֱלִיאֵ֣ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "447",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eliel, the name of nine Israelites",
+      "translation": "Eliel, the name of nine Israelites"
+    },
+    {
+      "surface": "וְ/עוֹבֵ֔ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5744",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Obed, the name of five Israelites",
+      "translation": "Obed, the name of five Israelites"
+    },
+    {
+      "surface": "וְ/עוֹבֵ֔ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5744",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Obed, the name of five Israelites",
+      "translation": "Obed, the name of five Israelites"
+    },
+    {
+      "surface": "וְ/יַעֲשִׂיאֵ֖ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3300",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jaasiel, an Israelite",
+      "translation": "Jaasiel, an Israelite"
+    },
+    {
+      "surface": "וְ/יַעֲשִׂיאֵ֖ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3300",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jaasiel, an Israelite",
+      "translation": "Jaasiel, an Israelite"
+    },
+    {
+      "surface": "הַ/מְּצֹבָיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Np",
+      "strong": "d/4677",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Metsobajah, a place in Palestine",
+      "translation": "Metsobajah, a place in Palestine"
+    },
+    {
+      "surface": "הַ/מְּצֹבָיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Np",
+      "strong": "d/4677",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Metsobajah, a place in Palestine",
+      "translation": "Metsobajah, a place in Palestine"
+    }
+  ]
+}

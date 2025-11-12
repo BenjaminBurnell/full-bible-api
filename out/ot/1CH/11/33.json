@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 11:33",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 11,
+  "verse": 33,
+  "tokens": [
+    {
+      "surface": "עַזְמָ֨וֶת֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5820",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Azmaveth, the name of three Israelites and of a place in Palestine",
+      "translation": "Azmaveth, the name of three Israelites and of a place in Palestine"
+    },
+    {
+      "surface": "עַזְמָ֨וֶת֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5820",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Azmaveth, the name of three Israelites and of a place in Palestine",
+      "translation": "Azmaveth, the name of three Israelites and of a place in Palestine"
+    },
+    {
+      "surface": "הַ/בַּ֣חֲרוּמִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/978",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Bacharumite or inhabitant of Bachurim",
+      "translation": "a Bacharumite or inhabitant of Bachurim"
+    },
+    {
+      "surface": "הַ/בַּ֣חֲרוּמִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/978",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Bacharumite or inhabitant of Bachurim",
+      "translation": "a Bacharumite or inhabitant of Bachurim"
+    },
+    {
+      "surface": "אֶלְיַחְבָּ֖א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "455",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eljachba, an Israelite",
+      "translation": "Eljachba, an Israelite"
+    },
+    {
+      "surface": "אֶלְיַחְבָּ֖א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "455",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eljachba, an Israelite",
+      "translation": "Eljachba, an Israelite"
+    },
+    {
+      "surface": "הַ/שַּׁעַלְבֹנִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/8170",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Shaalbonite or inhabitant of Shaalbin",
+      "translation": "a Shaalbonite or inhabitant of Shaalbin"
+    },
+    {
+      "surface": "הַ/שַּׁעַלְבֹנִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/8170",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Shaalbonite or inhabitant of Shaalbin",
+      "translation": "a Shaalbonite or inhabitant of Shaalbin"
+    }
+  ]
+}

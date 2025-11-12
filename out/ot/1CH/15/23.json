@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 15:23",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 15,
+  "verse": 23,
+  "tokens": [
+    {
+      "surface": "וּ/בֶֽרֶכְיָה֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1296",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Berekjah, the name of six Israelites",
+      "translation": "Berekjah, the name of six Israelites"
+    },
+    {
+      "surface": "וּ/בֶֽרֶכְיָה֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1296",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Berekjah, the name of six Israelites",
+      "translation": "Berekjah, the name of six Israelites"
+    },
+    {
+      "surface": "וְ/אֶלְקָנָ֔ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/511",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elkanah, the name of several Israelites",
+      "translation": "Elkanah, the name of several Israelites"
+    },
+    {
+      "surface": "וְ/אֶלְקָנָ֔ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/511",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elkanah, the name of several Israelites",
+      "translation": "Elkanah, the name of several Israelites"
+    },
+    {
+      "surface": "שֹׁעֲרִ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpa",
+      "strong": "7778",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a janitor",
+      "translation": "a janitor"
+    },
+    {
+      "surface": "שֹׁעֲרִ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpa",
+      "strong": "7778",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a janitor",
+      "translation": "a janitor"
+    },
+    {
+      "surface": "לָ/אָרֽוֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncbsa",
+      "strong": "l/727",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a box",
+      "translation": "a box"
+    },
+    {
+      "surface": "לָ/אָרֽוֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncbsa",
+      "strong": "l/727",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a box",
+      "translation": "a box"
+    }
+  ]
+}

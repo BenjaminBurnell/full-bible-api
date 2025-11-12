@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 4:30",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 4,
+  "verse": 30,
+  "tokens": [
+    {
+      "surface": "וּ/בִ/בְתוּאֵ֥ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/1328 b",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bethuel, the name of a nephew of Abraham, and of a place in Palestine",
+      "translation": "Bethuel, the name of a nephew of Abraham, and of a place in Palestine"
+    },
+    {
+      "surface": "וּ/בִ/בְתוּאֵ֥ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/1328 b",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bethuel, the name of a nephew of Abraham, and of a place in Palestine",
+      "translation": "Bethuel, the name of a nephew of Abraham, and of a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְ/חָרְמָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/2767",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chormah, a place in Palestine",
+      "translation": "Chormah, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְ/חָרְמָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/2767",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chormah, a place in Palestine",
+      "translation": "Chormah, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְ/צִֽיקְלָֽג",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/6860",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tsiklag or Tsikelag, a place in Palestine",
+      "translation": "Tsiklag or Tsikelag, a place in Palestine"
+    },
+    {
+      "surface": "וּ/בְ/צִֽיקְלָֽג",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/R/Np",
+      "strong": "c/b/6860",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Tsiklag or Tsikelag, a place in Palestine",
+      "translation": "Tsiklag or Tsikelag, a place in Palestine"
+    }
+  ]
+}

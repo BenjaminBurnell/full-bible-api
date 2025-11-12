@@ -1,0 +1,113 @@
+{
+  "reference": "JOS 19:37",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 19,
+  "verse": 37,
+  "tokens": [
+    {
+      "surface": "וְ/קֶ֥דֶשׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6943",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Kedesh, the name of four places in Palestine",
+      "translation": "Kedesh, the name of four places in Palestine"
+    },
+    {
+      "surface": "וְ/קֶ֥דֶשׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6943",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Kedesh, the name of four places in Palestine",
+      "translation": "Kedesh, the name of four places in Palestine"
+    },
+    {
+      "surface": "וְ/אֶדְרֶ֖עִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/154",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Edrei, the name of two places in Palestine",
+      "translation": "Edrei, the name of two places in Palestine"
+    },
+    {
+      "surface": "וְ/אֶדְרֶ֖עִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/154",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Edrei, the name of two places in Palestine",
+      "translation": "Edrei, the name of two places in Palestine"
+    },
+    {
+      "surface": "וְ/עֵ֥ין",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5877+",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "En-Chatsor, a place in Palestine",
+      "translation": "En-Chatsor, a place in Palestine"
+    },
+    {
+      "surface": "וְ/עֵ֥ין",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5877+",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "En-Chatsor, a place in Palestine",
+      "translation": "En-Chatsor, a place in Palestine"
+    },
+    {
+      "surface": "חָצֽוֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5877",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "En-Chatsor, a place in Palestine",
+      "translation": "En-Chatsor, a place in Palestine"
+    },
+    {
+      "surface": "חָצֽוֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5877",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "En-Chatsor, a place in Palestine",
+      "translation": "En-Chatsor, a place in Palestine"
+    }
+  ]
+}

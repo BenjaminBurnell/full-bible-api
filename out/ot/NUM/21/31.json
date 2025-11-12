@@ -1,0 +1,113 @@
+{
+  "reference": "NUM 21:31",
+  "book": "NUM",
+  "book_code": "NUM",
+  "chapter": 21,
+  "verse": 31,
+  "tokens": [
+    {
+      "surface": "וַ/יֵּ֨שֶׁב֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/3427",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to sit down (specifically as judge. in ambush, in quiet); by implication, to dwell, to remain; causatively, to settle, to marry",
+      "translation": "properly, to sit down (specifically as judge. in ambush, in quiet); by implication, to dwell, to remain; causatively, to settle, to marry"
+    },
+    {
+      "surface": "וַ/יֵּ֨שֶׁב֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/3427",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to sit down (specifically as judge. in ambush, in quiet); by implication, to dwell, to remain; causatively, to settle, to marry",
+      "translation": "properly, to sit down (specifically as judge. in ambush, in quiet); by implication, to dwell, to remain; causatively, to settle, to marry"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3478",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "he will rule as God; Jisraël, a symbolical name of Jacob; also (typically) of his posterity",
+      "translation": "he will rule as God; Jisraël, a symbolical name of Jacob; also (typically) of his posterity"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3478",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "he will rule as God; Jisraël, a symbolical name of Jacob; also (typically) of his posterity",
+      "translation": "he will rule as God; Jisraël, a symbolical name of Jacob; also (typically) of his posterity"
+    },
+    {
+      "surface": "בְּ/אֶ֖רֶץ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncbsc",
+      "strong": "b/776",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the earth (at large, or partitively a land)",
+      "translation": "the earth (at large, or partitively a land)"
+    },
+    {
+      "surface": "בְּ/אֶ֖רֶץ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncbsc",
+      "strong": "b/776",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the earth (at large, or partitively a land)",
+      "translation": "the earth (at large, or partitively a land)"
+    },
+    {
+      "surface": "הָ/אֱמֹרִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/567",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an Emorite, one of the Canaanitish tribes",
+      "translation": "an Emorite, one of the Canaanitish tribes"
+    },
+    {
+      "surface": "הָ/אֱמֹרִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/567",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an Emorite, one of the Canaanitish tribes",
+      "translation": "an Emorite, one of the Canaanitish tribes"
+    }
+  ]
+}

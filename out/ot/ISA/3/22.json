@@ -1,0 +1,113 @@
+{
+  "reference": "ISA 3:22",
+  "book": "ISA",
+  "book_code": "ISA",
+  "chapter": 3,
+  "verse": 22,
+  "tokens": [
+    {
+      "surface": "הַ/מַּֽחֲלָצוֹת֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncfpa",
+      "strong": "d/4254",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a mantle (as easily drawn off)",
+      "translation": "a mantle (as easily drawn off)"
+    },
+    {
+      "surface": "הַ/מַּֽחֲלָצוֹת֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncfpa",
+      "strong": "d/4254",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a mantle (as easily drawn off)",
+      "translation": "a mantle (as easily drawn off)"
+    },
+    {
+      "surface": "וְ/הַ/מַּ֣עֲטָפ֔וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncfpa",
+      "strong": "c/d/4595",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a cloak",
+      "translation": "a cloak"
+    },
+    {
+      "surface": "וְ/הַ/מַּ֣עֲטָפ֔וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncfpa",
+      "strong": "c/d/4595",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a cloak",
+      "translation": "a cloak"
+    },
+    {
+      "surface": "וְ/הַ/מִּטְפָּח֖וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncfpa",
+      "strong": "c/d/4304",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a wide cloak (for a woman)",
+      "translation": "a wide cloak (for a woman)"
+    },
+    {
+      "surface": "וְ/הַ/מִּטְפָּח֖וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncfpa",
+      "strong": "c/d/4304",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a wide cloak (for a woman)",
+      "translation": "a wide cloak (for a woman)"
+    },
+    {
+      "surface": "וְ/הָ/חֲרִיטִֽים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncmpa",
+      "strong": "c/d/2754",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, cut out (or hollow), i.e. (by implication) a pocket",
+      "translation": "properly, cut out (or hollow), i.e. (by implication) a pocket"
+    },
+    {
+      "surface": "וְ/הָ/חֲרִיטִֽים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Td/Ncmpa",
+      "strong": "c/d/2754",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, cut out (or hollow), i.e. (by implication) a pocket",
+      "translation": "properly, cut out (or hollow), i.e. (by implication) a pocket"
+    }
+  ]
+}

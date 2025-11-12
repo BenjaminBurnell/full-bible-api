@@ -1,0 +1,113 @@
+{
+  "reference": "PSA 48:4",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 48,
+  "verse": 4,
+  "tokens": [
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpa",
+      "strong": "430",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
+      "translation": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative"
+    },
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpa",
+      "strong": "430",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative",
+      "translation": "gods in the ordinary sense; but specifically used (in the plural thus, especially with the article) of the supreme God; occasionally applied by way of deference to magistrates; and sometimes as a superlative"
+    },
+    {
+      "surface": "בְּ/אַרְמְנוֹתֶ֗י/הָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpc/Sp3fs",
+      "strong": "b/759",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a citadel (from its height)",
+      "translation": "a citadel (from its height)"
+    },
+    {
+      "surface": "בְּ/אַרְמְנוֹתֶ֗י/הָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmpc/Sp3fs",
+      "strong": "b/759",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a citadel (from its height)",
+      "translation": "a citadel (from its height)"
+    },
+    {
+      "surface": "נוֹדַ֥ע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVNp3ms",
+      "strong": "3045",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to know (properly, to ascertain by seeing); used in a great variety of senses, figuratively, literally, euphemistically and inferentially (including observation, care, recognition; and causatively, instruction, designation, punishment, etc.)",
+      "translation": "to know (properly, to ascertain by seeing); used in a great variety of senses, figuratively, literally, euphemistically and inferentially (including observation, care, recognition; and causatively, instruction, designation, punishment, etc.)"
+    },
+    {
+      "surface": "נוֹדַ֥ע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVNp3ms",
+      "strong": "3045",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to know (properly, to ascertain by seeing); used in a great variety of senses, figuratively, literally, euphemistically and inferentially (including observation, care, recognition; and causatively, instruction, designation, punishment, etc.)",
+      "translation": "to know (properly, to ascertain by seeing); used in a great variety of senses, figuratively, literally, euphemistically and inferentially (including observation, care, recognition; and causatively, instruction, designation, punishment, etc.)"
+    },
+    {
+      "surface": "לְ/מִשְׂגָּֽב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmsa",
+      "strong": "l/4869 a",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, a cliff (or other lofty or inaccessible place); abstractly, altitude; figuratively, a refuge; Misgab, a place in Moab",
+      "translation": "properly, a cliff (or other lofty or inaccessible place); abstractly, altitude; figuratively, a refuge; Misgab, a place in Moab"
+    },
+    {
+      "surface": "לְ/מִשְׂגָּֽב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmsa",
+      "strong": "l/4869 a",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, a cliff (or other lofty or inaccessible place); abstractly, altitude; figuratively, a refuge; Misgab, a place in Moab",
+      "translation": "properly, a cliff (or other lofty or inaccessible place); abstractly, altitude; figuratively, a refuge; Misgab, a place in Moab"
+    }
+  ]
+}

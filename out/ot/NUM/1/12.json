@@ -1,0 +1,113 @@
+{
+  "reference": "NUM 1:12",
+  "book": "NUM",
+  "book_code": "NUM",
+  "chapter": 1,
+  "verse": 12,
+  "tokens": [
+    {
+      "surface": "לְ/דָ֕ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/1835",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Dan, one of the sons of Jacob; also the tribe descended from him, and its territory; likewise a place in Palestine colonized by them",
+      "translation": "Dan, one of the sons of Jacob; also the tribe descended from him, and its territory; likewise a place in Palestine colonized by them"
+    },
+    {
+      "surface": "לְ/דָ֕ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/1835",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Dan, one of the sons of Jacob; also the tribe descended from him, and its territory; likewise a place in Palestine colonized by them",
+      "translation": "Dan, one of the sons of Jacob; also the tribe descended from him, and its territory; likewise a place in Palestine colonized by them"
+    },
+    {
+      "surface": "אֲחִיעֶ֖זֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "295",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achiezer, the name of two Israelites",
+      "translation": "Achiezer, the name of two Israelites"
+    },
+    {
+      "surface": "אֲחִיעֶ֖זֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "295",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achiezer, the name of two Israelites",
+      "translation": "Achiezer, the name of two Israelites"
+    },
+    {
+      "surface": "בֶּן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "1121 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "בֶּן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "1121 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "עַמִּֽישַׁדָּֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5996",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ammishaddai, an Israelite",
+      "translation": "Ammishaddai, an Israelite"
+    },
+    {
+      "surface": "עַמִּֽישַׁדָּֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5996",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ammishaddai, an Israelite",
+      "translation": "Ammishaddai, an Israelite"
+    }
+  ]
+}

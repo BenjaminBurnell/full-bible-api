@@ -1,0 +1,113 @@
+{
+  "reference": "NUM 7:52",
+  "book": "NUM",
+  "book_code": "NUM",
+  "chapter": 7,
+  "verse": 52,
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "8163 b",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "shaggy; as noun, a he-goat; by analogy, a faun",
+      "translation": "shaggy; as noun, a he-goat; by analogy, a faun"
+    },
+    {
+      "surface": "שְׂעִיר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "8163 b",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "shaggy; as noun, a he-goat; by analogy, a faun",
+      "translation": "shaggy; as noun, a he-goat; by analogy, a faun"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfpa",
+      "strong": "5795",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a she-goat (as strong), but masculine in plural (which also is used elliptically for goat's hair)",
+      "translation": "a she-goat (as strong), but masculine in plural (which also is used elliptically for goat's hair)"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfpa",
+      "strong": "5795",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a she-goat (as strong), but masculine in plural (which also is used elliptically for goat's hair)",
+      "translation": "a she-goat (as strong), but masculine in plural (which also is used elliptically for goat's hair)"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcmsa",
+      "strong": "259",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, united, i.e. one; or (as an ordinal) first",
+      "translation": "properly, united, i.e. one; or (as an ordinal) first"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcmsa",
+      "strong": "259",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, united, i.e. one; or (as an ordinal) first",
+      "translation": "properly, united, i.e. one; or (as an ordinal) first"
+    },
+    {
+      "surface": "לְ/חַטָּֽאת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfsa",
+      "strong": "l/2403 b",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an offence (sometimes habitual sinfulness), and its penalty, occasion, sacrifice, or expiation; also (concretely) an offender",
+      "translation": "an offence (sometimes habitual sinfulness), and its penalty, occasion, sacrifice, or expiation; also (concretely) an offender"
+    },
+    {
+      "surface": "לְ/חַטָּֽאת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfsa",
+      "strong": "l/2403 b",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "an offence (sometimes habitual sinfulness), and its penalty, occasion, sacrifice, or expiation; also (concretely) an offender",
+      "translation": "an offence (sometimes habitual sinfulness), and its penalty, occasion, sacrifice, or expiation; also (concretely) an offender"
+    }
+  ]
+}

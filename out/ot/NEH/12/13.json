@@ -1,0 +1,113 @@
+{
+  "reference": "NEH 12:13",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 12,
+  "verse": 13,
+  "tokens": [
+    {
+      "surface": "לְ/עֶזְרָ֣א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/5830",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ezra, an Israelite",
+      "translation": "Ezra, an Israelite"
+    },
+    {
+      "surface": "לְ/עֶזְרָ֣א",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/5830",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Ezra, an Israelite",
+      "translation": "Ezra, an Israelite"
+    },
+    {
+      "surface": "מְשֻׁלָּ֔ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4918",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Meshullam, the name of seventeen Israelites",
+      "translation": "Meshullam, the name of seventeen Israelites"
+    },
+    {
+      "surface": "מְשֻׁלָּ֔ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4918",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Meshullam, the name of seventeen Israelites",
+      "translation": "Meshullam, the name of seventeen Israelites"
+    },
+    {
+      "surface": "לַ/אֲמַרְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/568",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Amarjah, the name of nine Israelites",
+      "translation": "Amarjah, the name of nine Israelites"
+    },
+    {
+      "surface": "לַ/אֲמַרְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/568",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Amarjah, the name of nine Israelites",
+      "translation": "Amarjah, the name of nine Israelites"
+    },
+    {
+      "surface": "יְהוֹחָנָֽן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3076",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jehochanan, the name of eight Israelites",
+      "translation": "Jehochanan, the name of eight Israelites"
+    },
+    {
+      "surface": "יְהוֹחָנָֽן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3076",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jehochanan, the name of eight Israelites",
+      "translation": "Jehochanan, the name of eight Israelites"
+    }
+  ]
+}

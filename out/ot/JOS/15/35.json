@@ -1,0 +1,113 @@
+{
+  "reference": "JOS 15:35",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 15,
+  "verse": 35,
+  "tokens": [
+    {
+      "surface": "יַרְמוּת֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3412",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jarmuth, the name of two places in Palestine",
+      "translation": "Jarmuth, the name of two places in Palestine"
+    },
+    {
+      "surface": "יַרְמוּת֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3412",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jarmuth, the name of two places in Palestine",
+      "translation": "Jarmuth, the name of two places in Palestine"
+    },
+    {
+      "surface": "וַ/עֲדֻלָּ֔ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5725",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Adullam, a place in Palestine",
+      "translation": "Adullam, a place in Palestine"
+    },
+    {
+      "surface": "וַ/עֲדֻלָּ֔ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5725",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Adullam, a place in Palestine",
+      "translation": "Adullam, a place in Palestine"
+    },
+    {
+      "surface": "שׂוֹכֹ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7755",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Sokoh or Soko, the name of two places in Palestine",
+      "translation": "Sokoh or Soko, the name of two places in Palestine"
+    },
+    {
+      "surface": "שׂוֹכֹ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7755",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Sokoh or Soko, the name of two places in Palestine",
+      "translation": "Sokoh or Soko, the name of two places in Palestine"
+    },
+    {
+      "surface": "וַ/עֲזֵקָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5825",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Azekah, a place in Palestine",
+      "translation": "Azekah, a place in Palestine"
+    },
+    {
+      "surface": "וַ/עֲזֵקָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/5825",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Azekah, a place in Palestine",
+      "translation": "Azekah, a place in Palestine"
+    }
+  ]
+}

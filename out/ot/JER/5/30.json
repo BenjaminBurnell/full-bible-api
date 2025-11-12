@@ -1,0 +1,113 @@
+{
+  "reference": "JER 5:30",
+  "book": "JER",
+  "book_code": "JER",
+  "chapter": 5,
+  "verse": 30,
+  "tokens": [
+    {
+      "surface": "שַׁמָּה֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsa",
+      "strong": "8047",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "ruin; by implication, consternation",
+      "translation": "ruin; by implication, consternation"
+    },
+    {
+      "surface": "שַׁמָּה֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsa",
+      "strong": "8047",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "ruin; by implication, consternation",
+      "translation": "ruin; by implication, consternation"
+    },
+    {
+      "surface": "וְ/שַׁ֣עֲרוּרָ֔ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncfsa",
+      "strong": "c/8186 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "something fearful",
+      "translation": "something fearful"
+    },
+    {
+      "surface": "וְ/שַׁ֣עֲרוּרָ֔ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Ncfsa",
+      "strong": "c/8186 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "something fearful",
+      "translation": "something fearful"
+    },
+    {
+      "surface": "נִהְיְתָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVNp3fs",
+      "strong": "1961",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
+      "translation": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)"
+    },
+    {
+      "surface": "נִהְיְתָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVNp3fs",
+      "strong": "1961",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)",
+      "translation": "to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or auxiliary)"
+    },
+    {
+      "surface": "בָּ/אָֽרֶץ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncbsa",
+      "strong": "b/776",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the earth (at large, or partitively a land)",
+      "translation": "the earth (at large, or partitively a land)"
+    },
+    {
+      "surface": "בָּ/אָֽרֶץ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncbsa",
+      "strong": "b/776",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "the earth (at large, or partitively a land)",
+      "translation": "the earth (at large, or partitively a land)"
+    }
+  ]
+}

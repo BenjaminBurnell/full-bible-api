@@ -1,0 +1,113 @@
+{
+  "reference": "PSA 71:21",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 71,
+  "verse": 21,
+  "tokens": [
+    {
+      "surface": "תֶּ֤רֶב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVhi2ms",
+      "strong": "7235 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to increase (in whatever respect)",
+      "translation": "to increase (in whatever respect)"
+    },
+    {
+      "surface": "תֶּ֤רֶב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVhi2ms",
+      "strong": "7235 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to increase (in whatever respect)",
+      "translation": "to increase (in whatever respect)"
+    },
+    {
+      "surface": "גְּֽדֻלָּתִ֗/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsc/Sp1cs",
+      "strong": "1420",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "greatness; (concretely) mighty acts",
+      "translation": "greatness; (concretely) mighty acts"
+    },
+    {
+      "surface": "גְּֽדֻלָּתִ֗/י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsc/Sp1cs",
+      "strong": "1420",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "greatness; (concretely) mighty acts",
+      "translation": "greatness; (concretely) mighty acts"
+    },
+    {
+      "surface": "וְ/תִסֹּ֥ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqi2ms",
+      "strong": "c/5437",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to revolve, surround, or border; used in various applications, literally and figuratively",
+      "translation": "to revolve, surround, or border; used in various applications, literally and figuratively"
+    },
+    {
+      "surface": "וְ/תִסֹּ֥ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqi2ms",
+      "strong": "c/5437",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to revolve, surround, or border; used in various applications, literally and figuratively",
+      "translation": "to revolve, surround, or border; used in various applications, literally and figuratively"
+    },
+    {
+      "surface": "תְּֽנַחֲמֵֽ/נִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVpi2ms/Sp1cs",
+      "strong": "5162",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to sigh, i.e. breathe strongly; by implication, to be sorry, i.e. (in a favorable sense) to pity, console or (reflexively) rue; or (unfavorably) to avenge (oneself)",
+      "translation": "properly, to sigh, i.e. breathe strongly; by implication, to be sorry, i.e. (in a favorable sense) to pity, console or (reflexively) rue; or (unfavorably) to avenge (oneself)"
+    },
+    {
+      "surface": "תְּֽנַחֲמֵֽ/נִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVpi2ms/Sp1cs",
+      "strong": "5162",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to sigh, i.e. breathe strongly; by implication, to be sorry, i.e. (in a favorable sense) to pity, console or (reflexively) rue; or (unfavorably) to avenge (oneself)",
+      "translation": "properly, to sigh, i.e. breathe strongly; by implication, to be sorry, i.e. (in a favorable sense) to pity, console or (reflexively) rue; or (unfavorably) to avenge (oneself)"
+    }
+  ]
+}

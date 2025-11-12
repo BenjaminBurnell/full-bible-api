@@ -1,0 +1,113 @@
+{
+  "reference": "DEU 14:14",
+  "book": "DEU",
+  "book_code": "DEU",
+  "chapter": 14,
+  "verse": 14,
+  "tokens": [
+    {
+      "surface": "וְ/אֵ֥ת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/To",
+      "strong": "c/853",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, self (but generally used to point out more definitely the object of a verb or preposition, even or namely)",
+      "translation": "properly, self (but generally used to point out more definitely the object of a verb or preposition, even or namely)"
+    },
+    {
+      "surface": "וְ/אֵ֥ת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/To",
+      "strong": "c/853",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, self (but generally used to point out more definitely the object of a verb or preposition, even or namely)",
+      "translation": "properly, self (but generally used to point out more definitely the object of a verb or preposition, even or namely)"
+    },
+    {
+      "surface": "כָּל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "3605",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)",
+      "translation": "properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)"
+    },
+    {
+      "surface": "כָּל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc",
+      "strong": "3605",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)",
+      "translation": "properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)"
+    },
+    {
+      "surface": "עֹרֵ֖ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsa",
+      "strong": "6158",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a raven (from its dusky hue)",
+      "translation": "a raven (from its dusky hue)"
+    },
+    {
+      "surface": "עֹרֵ֖ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsa",
+      "strong": "6158",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a raven (from its dusky hue)",
+      "translation": "a raven (from its dusky hue)"
+    },
+    {
+      "surface": "לְ/מִינֽ/וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmsc/Sp3ms",
+      "strong": "l/4327",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a sort, i.e. species",
+      "translation": "a sort, i.e. species"
+    },
+    {
+      "surface": "לְ/מִינֽ/וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmsc/Sp3ms",
+      "strong": "l/4327",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a sort, i.e. species",
+      "translation": "a sort, i.e. species"
+    }
+  ]
+}

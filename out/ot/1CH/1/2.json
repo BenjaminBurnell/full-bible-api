@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 1:2",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 1,
+  "verse": 2,
+  "tokens": [
+    {
+      "surface": "קֵינָ֥ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7018",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Kenan, an antediluvian",
+      "translation": "Kenan, an antediluvian"
+    },
+    {
+      "surface": "קֵינָ֥ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "7018",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Kenan, an antediluvian",
+      "translation": "Kenan, an antediluvian"
+    },
+    {
+      "surface": "מַהֲלַלְאֵ֖ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4111",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mahalalel, the name of an antediluvian patriarch and of an Israelite",
+      "translation": "Mahalalel, the name of an antediluvian patriarch and of an Israelite"
+    },
+    {
+      "surface": "מַהֲלַלְאֵ֖ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4111",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mahalalel, the name of an antediluvian patriarch and of an Israelite",
+      "translation": "Mahalalel, the name of an antediluvian patriarch and of an Israelite"
+    },
+    {
+      "surface": "יָֽרֶד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3382",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jered, the name of an antediluvian, and of an Israelite",
+      "translation": "Jered, the name of an antediluvian, and of an Israelite"
+    },
+    {
+      "surface": "יָֽרֶד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3382",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jered, the name of an antediluvian, and of an Israelite",
+      "translation": "Jered, the name of an antediluvian, and of an Israelite"
+    }
+  ]
+}

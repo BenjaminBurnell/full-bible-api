@@ -1,0 +1,113 @@
+{
+  "reference": "PSA 92:1",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 92,
+  "verse": 1,
+  "tokens": [
+    {
+      "surface": "מִזְמ֥וֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsa",
+      "strong": "4210",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, instrumental music; by implication, a poem set to notes",
+      "translation": "properly, instrumental music; by implication, a poem set to notes"
+    },
+    {
+      "surface": "מִזְמ֥וֹר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsa",
+      "strong": "4210",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, instrumental music; by implication, a poem set to notes",
+      "translation": "properly, instrumental music; by implication, a poem set to notes"
+    },
+    {
+      "surface": "שִׁ֗יר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcbsa",
+      "strong": "7892 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a song; abstractly, singing",
+      "translation": "a song; abstractly, singing"
+    },
+    {
+      "surface": "שִׁ֗יר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcbsa",
+      "strong": "7892 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a song; abstractly, singing",
+      "translation": "a song; abstractly, singing"
+    },
+    {
+      "surface": "לְ/י֣וֹם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmsc",
+      "strong": "l/3117",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)",
+      "translation": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)"
+    },
+    {
+      "surface": "לְ/י֣וֹם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncmsc",
+      "strong": "l/3117",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)",
+      "translation": "a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb)"
+    },
+    {
+      "surface": "הַ/שַּׁבָּֽת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncbsa",
+      "strong": "d/7676",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "intermission, i.e (specifically) the Sabbath",
+      "translation": "intermission, i.e (specifically) the Sabbath"
+    },
+    {
+      "surface": "הַ/שַּׁבָּֽת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ncbsa",
+      "strong": "d/7676",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "intermission, i.e (specifically) the Sabbath",
+      "translation": "intermission, i.e (specifically) the Sabbath"
+    }
+  ]
+}

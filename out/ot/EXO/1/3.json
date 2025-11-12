@@ -1,0 +1,87 @@
+{
+  "reference": "EXO 1:3",
+  "book": "EXO",
+  "book_code": "EXO",
+  "chapter": 1,
+  "verse": 3,
+  "tokens": [
+    {
+      "surface": "יִשָּׂשכָ֥ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3485",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jissaskar, a son of Jacob",
+      "translation": "Jissaskar, a son of Jacob"
+    },
+    {
+      "surface": "יִשָּׂשכָ֥ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3485",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jissaskar, a son of Jacob",
+      "translation": "Jissaskar, a son of Jacob"
+    },
+    {
+      "surface": "זְבוּלֻ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2074",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zebulon, a son of Jacob; also his territory and tribe",
+      "translation": "Zebulon, a son of Jacob; also his territory and tribe"
+    },
+    {
+      "surface": "זְבוּלֻ֖ן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2074",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Zebulon, a son of Jacob; also his territory and tribe",
+      "translation": "Zebulon, a son of Jacob; also his territory and tribe"
+    },
+    {
+      "surface": "וּ/בְנְיָמִֽן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1144",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory",
+      "translation": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory"
+    },
+    {
+      "surface": "וּ/בְנְיָמִֽן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1144",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory",
+      "translation": "Binjamin, youngest son of Jacob; also the tribe descended from him, and its territory"
+    }
+  ]
+}

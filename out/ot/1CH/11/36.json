@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 11:36",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 11,
+  "verse": 36,
+  "tokens": [
+    {
+      "surface": "חֵ֚פֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2660 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chepher, a place in Palestine; also the name of three Israelites",
+      "translation": "Chepher, a place in Palestine; also the name of three Israelites"
+    },
+    {
+      "surface": "חֵ֚פֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2660 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chepher, a place in Palestine; also the name of three Israelites",
+      "translation": "Chepher, a place in Palestine; also the name of three Israelites"
+    },
+    {
+      "surface": "הַ/מְּכֵ֣רָתִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/4382",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Mekerathite, or inhabitant of Mekerah",
+      "translation": "a Mekerathite, or inhabitant of Mekerah"
+    },
+    {
+      "surface": "הַ/מְּכֵ֣רָתִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/4382",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Mekerathite, or inhabitant of Mekerah",
+      "translation": "a Mekerathite, or inhabitant of Mekerah"
+    },
+    {
+      "surface": "אֲחִיָּ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "281",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achijah, the name of nine Israelites",
+      "translation": "Achijah, the name of nine Israelites"
+    },
+    {
+      "surface": "אֲחִיָּ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "281",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Achijah, the name of nine Israelites",
+      "translation": "Achijah, the name of nine Israelites"
+    },
+    {
+      "surface": "הַ/פְּלֹנִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/6397",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Pelonite or inhabitant of an unknown Palon",
+      "translation": "a Pelonite or inhabitant of an unknown Palon"
+    },
+    {
+      "surface": "הַ/פְּלֹנִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Ngmsa",
+      "strong": "d/6397",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a Pelonite or inhabitant of an unknown Palon",
+      "translation": "a Pelonite or inhabitant of an unknown Palon"
+    }
+  ]
+}

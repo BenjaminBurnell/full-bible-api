@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 1:3",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 1,
+  "verse": 3,
+  "tokens": [
+    {
+      "surface": "חֲנ֥וֹךְ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2585",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chanok, an antediluvian patriach",
+      "translation": "Chanok, an antediluvian patriach"
+    },
+    {
+      "surface": "חֲנ֥וֹךְ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2585",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chanok, an antediluvian patriach",
+      "translation": "Chanok, an antediluvian patriach"
+    },
+    {
+      "surface": "מְתוּשֶׁ֖לַח",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4968",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Methushelach, an antediluvian patriarch",
+      "translation": "Methushelach, an antediluvian patriarch"
+    },
+    {
+      "surface": "מְתוּשֶׁ֖לַח",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4968",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Methushelach, an antediluvian patriarch",
+      "translation": "Methushelach, an antediluvian patriarch"
+    },
+    {
+      "surface": "לָֽמֶךְ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3929",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Lemek, the name of two antediluvian patriarchs",
+      "translation": "Lemek, the name of two antediluvian patriarchs"
+    },
+    {
+      "surface": "לָֽמֶךְ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3929",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Lemek, the name of two antediluvian patriarchs",
+      "translation": "Lemek, the name of two antediluvian patriarchs"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "reference": "JOS 15:48",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 15,
+  "verse": 48,
+  "tokens": [
+    {
+      "surface": "וּ/בָ/הָ֑ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Rd/Ncmsa",
+      "strong": "c/b/2022",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a mountain or range of hills (sometimes used figuratively)",
+      "translation": "a mountain or range of hills (sometimes used figuratively)"
+    },
+    {
+      "surface": "וּ/בָ/הָ֑ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Rd/Ncmsa",
+      "strong": "c/b/2022",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a mountain or range of hills (sometimes used figuratively)",
+      "translation": "a mountain or range of hills (sometimes used figuratively)"
+    },
+    {
+      "surface": "שָׁמִ֥יר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8069",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shamir, the name of two places in Palestine",
+      "translation": "Shamir, the name of two places in Palestine"
+    },
+    {
+      "surface": "שָׁמִ֥יר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8069",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shamir, the name of two places in Palestine",
+      "translation": "Shamir, the name of two places in Palestine"
+    },
+    {
+      "surface": "וְ/יַתִּ֖יר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3492",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jattir, a place in Palestine",
+      "translation": "Jattir, a place in Palestine"
+    },
+    {
+      "surface": "וְ/יַתִּ֖יר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3492",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jattir, a place in Palestine",
+      "translation": "Jattir, a place in Palestine"
+    },
+    {
+      "surface": "וְ/שׂוֹכֹֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/7755",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Sokoh or Soko, the name of two places in Palestine",
+      "translation": "Sokoh or Soko, the name of two places in Palestine"
+    },
+    {
+      "surface": "וְ/שׂוֹכֹֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/7755",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Sokoh or Soko, the name of two places in Palestine",
+      "translation": "Sokoh or Soko, the name of two places in Palestine"
+    }
+  ]
+}

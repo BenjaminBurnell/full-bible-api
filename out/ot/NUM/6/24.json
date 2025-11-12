@@ -1,0 +1,87 @@
+{
+  "reference": "NUM 6:24",
+  "book": "NUM",
+  "book_code": "NUM",
+  "chapter": 6,
+  "verse": 24,
+  "tokens": [
+    {
+      "surface": "יְבָרֶכְ/ךָ֥",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVpj3ms/Sp2ms",
+      "strong": "1288",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to kneel; by implication to bless God (as an act of adoration), and (vice-versa) man (as a benefit); also (by euphemism) to curse (God or the king, as treason)",
+      "translation": "to kneel; by implication to bless God (as an act of adoration), and (vice-versa) man (as a benefit); also (by euphemism) to curse (God or the king, as treason)"
+    },
+    {
+      "surface": "יְבָרֶכְ/ךָ֥",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVpj3ms/Sp2ms",
+      "strong": "1288",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to kneel; by implication to bless God (as an act of adoration), and (vice-versa) man (as a benefit); also (by euphemism) to curse (God or the king, as treason)",
+      "translation": "to kneel; by implication to bless God (as an act of adoration), and (vice-versa) man (as a benefit); also (by euphemism) to curse (God or the king, as treason)"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3068",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God",
+      "translation": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3068",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God",
+      "translation": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God"
+    },
+    {
+      "surface": "וְ/יִשְׁמְרֶֽ/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqj3ms/Sp2ms",
+      "strong": "c/8104",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to hedge about (as with thorns), i.e. guard; generally, to protect, attend to, etc.",
+      "translation": "properly, to hedge about (as with thorns), i.e. guard; generally, to protect, attend to, etc."
+    },
+    {
+      "surface": "וְ/יִשְׁמְרֶֽ/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqj3ms/Sp2ms",
+      "strong": "c/8104",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "properly, to hedge about (as with thorns), i.e. guard; generally, to protect, attend to, etc.",
+      "translation": "properly, to hedge about (as with thorns), i.e. guard; generally, to protect, attend to, etc."
+    }
+  ]
+}

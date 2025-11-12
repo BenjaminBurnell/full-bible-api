@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 8:26",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 8,
+  "verse": 26,
+  "tokens": [
+    {
+      "surface": "וְ/שַׁמְשְׁרַ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/8125",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shamsherai, an Israelite",
+      "translation": "Shamsherai, an Israelite"
+    },
+    {
+      "surface": "וְ/שַׁמְשְׁרַ֥י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/8125",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shamsherai, an Israelite",
+      "translation": "Shamsherai, an Israelite"
+    },
+    {
+      "surface": "וּ/שְׁחַרְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/7841",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shecharjah, an Israelite",
+      "translation": "Shecharjah, an Israelite"
+    },
+    {
+      "surface": "וּ/שְׁחַרְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/7841",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shecharjah, an Israelite",
+      "translation": "Shecharjah, an Israelite"
+    },
+    {
+      "surface": "וַ/עֲתַלְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6271",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Athaljah, the name of an Israelitess and two Israelites",
+      "translation": "Athaljah, the name of an Israelitess and two Israelites"
+    },
+    {
+      "surface": "וַ/עֲתַלְיָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/6271",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Athaljah, the name of an Israelitess and two Israelites",
+      "translation": "Athaljah, the name of an Israelitess and two Israelites"
+    }
+  ]
+}

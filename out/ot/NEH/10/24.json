@@ -1,0 +1,87 @@
+{
+  "reference": "NEH 10:24",
+  "book": "NEH",
+  "book_code": "NEH",
+  "chapter": 10,
+  "verse": 24,
+  "tokens": [
+    {
+      "surface": "הוֹשֵׁ֥עַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1954",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Hoshea, the name of five Israelites",
+      "translation": "Hoshea, the name of five Israelites"
+    },
+    {
+      "surface": "הוֹשֵׁ֥עַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1954",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Hoshea, the name of five Israelites",
+      "translation": "Hoshea, the name of five Israelites"
+    },
+    {
+      "surface": "חֲנַנְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2608 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chananjah, the name of thirteen Israelites",
+      "translation": "Chananjah, the name of thirteen Israelites"
+    },
+    {
+      "surface": "חֲנַנְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2608 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chananjah, the name of thirteen Israelites",
+      "translation": "Chananjah, the name of thirteen Israelites"
+    },
+    {
+      "surface": "חַשּֽׁוּב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2815",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chashshub, the name of two or three Israelites",
+      "translation": "Chashshub, the name of two or three Israelites"
+    },
+    {
+      "surface": "חַשּֽׁוּב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2815",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Chashshub, the name of two or three Israelites",
+      "translation": "Chashshub, the name of two or three Israelites"
+    }
+  ]
+}

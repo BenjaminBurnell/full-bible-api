@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 7:27",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 7,
+  "verse": 27,
+  "tokens": [
+    {
+      "surface": "נ֥וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5126",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nun or Non, the father of Joshua",
+      "translation": "Nun or Non, the father of Joshua"
+    },
+    {
+      "surface": "נ֥וֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5126",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Nun or Non, the father of Joshua",
+      "translation": "Nun or Non, the father of Joshua"
+    },
+    {
+      "surface": "בְּנ֖/וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc/Sp3ms",
+      "strong": "1121 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "בְּנ֖/וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc/Sp3ms",
+      "strong": "1121 a",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "יְהוֹשֻׁ֥עַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3091",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jehoshua (i.e. Joshua), the Jewish leader",
+      "translation": "Jehoshua (i.e. Joshua), the Jewish leader"
+    },
+    {
+      "surface": "יְהוֹשֻׁ֥עַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3091",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jehoshua (i.e. Joshua), the Jewish leader",
+      "translation": "Jehoshua (i.e. Joshua), the Jewish leader"
+    },
+    {
+      "surface": "בְּנֽ/וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc/Sp3ms",
+      "strong": "1121 a",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "בְּנֽ/וֹ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmsc/Sp3ms",
+      "strong": "1121 a",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    }
+  ]
+}

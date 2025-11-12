@@ -1,0 +1,113 @@
+{
+  "reference": "PSA 119:47",
+  "book": "PSA",
+  "book_code": "PSA",
+  "chapter": 119,
+  "verse": 47,
+  "tokens": [
+    {
+      "surface": "וְ/אֶשְׁתַּֽעֲשַׁ֥ע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vfi1cs",
+      "strong": "c/8173 b",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(in a good acceptation) to look upon (with complacency), i.e. fondle, please or amuse (self); (in a bad one) to look about (in dismay), i.e. stare",
+      "translation": "(in a good acceptation) to look upon (with complacency), i.e. fondle, please or amuse (self); (in a bad one) to look about (in dismay), i.e. stare"
+    },
+    {
+      "surface": "וְ/אֶשְׁתַּֽעֲשַׁ֥ע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vfi1cs",
+      "strong": "c/8173 b",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(in a good acceptation) to look upon (with complacency), i.e. fondle, please or amuse (self); (in a bad one) to look about (in dismay), i.e. stare",
+      "translation": "(in a good acceptation) to look upon (with complacency), i.e. fondle, please or amuse (self); (in a bad one) to look about (in dismay), i.e. stare"
+    },
+    {
+      "surface": "בְּ/מִצְוֺתֶ֗י/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfpc/Sp2ms",
+      "strong": "b/4687",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a command, whether human or divine (collectively, the Law)",
+      "translation": "a command, whether human or divine (collectively, the Law)"
+    },
+    {
+      "surface": "בְּ/מִצְוֺתֶ֗י/ךָ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Ncfpc/Sp2ms",
+      "strong": "b/4687",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a command, whether human or divine (collectively, the Law)",
+      "translation": "a command, whether human or divine (collectively, the Law)"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTr",
+      "strong": "834 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "who, which, what, that; also (as an adverb and a conjunction) when, where, how, because, in order that, etc.",
+      "translation": "who, which, what, that; also (as an adverb and a conjunction) when, where, how, because, in order that, etc."
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTr",
+      "strong": "834 a",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "who, which, what, that; also (as an adverb and a conjunction) when, where, how, because, in order that, etc.",
+      "translation": "who, which, what, that; also (as an adverb and a conjunction) when, where, how, because, in order that, etc."
+    },
+    {
+      "surface": "אָהָֽבְתִּי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqp1cs",
+      "strong": "157",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to have affection for (sexually or otherwise)",
+      "translation": "to have affection for (sexually or otherwise)"
+    },
+    {
+      "surface": "אָהָֽבְתִּי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVqp1cs",
+      "strong": "157",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to have affection for (sexually or otherwise)",
+      "translation": "to have affection for (sexually or otherwise)"
+    }
+  ]
+}

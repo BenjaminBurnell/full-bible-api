@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 23:15",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 23,
+  "verse": 15,
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc",
+      "strong": "1121 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpc",
+      "strong": "1121 a",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)",
+      "translation": "a son (as a builder of the family name), in the widest sense (of literal and figurative relationship, including grandson, subject, nation, quality or condition, etc., (like father or brother), etc.)"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4872",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mosheh, the Israelite lawgiver",
+      "translation": "Mosheh, the Israelite lawgiver"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "4872",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Mosheh, the Israelite lawgiver",
+      "translation": "Mosheh, the Israelite lawgiver"
+    },
+    {
+      "surface": "גֵּרְשֹׁ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1647",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gereshom, the name of four Israelites",
+      "translation": "Gereshom, the name of four Israelites"
+    },
+    {
+      "surface": "גֵּרְשֹׁ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1647",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Gereshom, the name of four Israelites",
+      "translation": "Gereshom, the name of four Israelites"
+    },
+    {
+      "surface": "וֶ/אֱלִיעֶֽזֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/461",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eliezer, the name of a Damascene and of ten Israelites",
+      "translation": "Eliezer, the name of a Damascene and of ten Israelites"
+    },
+    {
+      "surface": "וֶ/אֱלִיעֶֽזֶר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/461",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eliezer, the name of a Damascene and of ten Israelites",
+      "translation": "Eliezer, the name of a Damascene and of ten Israelites"
+    }
+  ]
+}

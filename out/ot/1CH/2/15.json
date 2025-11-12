@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 2:15",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 2,
+  "verse": 15,
+  "tokens": [
+    {
+      "surface": "אֹ֚צֶם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "684",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Otsem, the name of two Israelites",
+      "translation": "Otsem, the name of two Israelites"
+    },
+    {
+      "surface": "אֹ֚צֶם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "684",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Otsem, the name of two Israelites",
+      "translation": "Otsem, the name of two Israelites"
+    },
+    {
+      "surface": "הַ/שִּׁשִּׁ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/8345",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "sixth, ordinal or (feminine) fractional",
+      "translation": "sixth, ordinal or (feminine) fractional"
+    },
+    {
+      "surface": "הַ/שִּׁשִּׁ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/8345",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "sixth, ordinal or (feminine) fractional",
+      "translation": "sixth, ordinal or (feminine) fractional"
+    },
+    {
+      "surface": "דָּוִ֖יד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1732",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "David, the youngest son of Jesse",
+      "translation": "David, the youngest son of Jesse"
+    },
+    {
+      "surface": "דָּוִ֖יד",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1732",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "David, the youngest son of Jesse",
+      "translation": "David, the youngest son of Jesse"
+    },
+    {
+      "surface": "הַ/שְּׁבִעִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/7637",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "seventh",
+      "translation": "seventh"
+    },
+    {
+      "surface": "הַ/שְּׁבִעִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/7637",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "seventh",
+      "translation": "seventh"
+    }
+  ]
+}

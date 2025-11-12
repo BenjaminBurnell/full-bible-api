@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 1:4",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 1,
+  "verse": 4,
+  "tokens": [
+    {
+      "surface": "נֹ֥חַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5146",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Noach, the patriarch of the flood",
+      "translation": "Noach, the patriarch of the flood"
+    },
+    {
+      "surface": "נֹ֥חַ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "5146",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Noach, the patriarch of the flood",
+      "translation": "Noach, the patriarch of the flood"
+    },
+    {
+      "surface": "שֵׁ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8035",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shem, a son of Noah (often includ. his posterity)",
+      "translation": "Shem, a son of Noah (often includ. his posterity)"
+    },
+    {
+      "surface": "שֵׁ֖ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "8035",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shem, a son of Noah (often includ. his posterity)",
+      "translation": "Shem, a son of Noah (often includ. his posterity)"
+    },
+    {
+      "surface": "חָ֥ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2526",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Cham, a son of Noah; also (as a patronymic) his descendants or their country",
+      "translation": "Cham, a son of Noah; also (as a patronymic) his descendants or their country"
+    },
+    {
+      "surface": "חָ֥ם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2526",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Cham, a son of Noah; also (as a patronymic) his descendants or their country",
+      "translation": "Cham, a son of Noah; also (as a patronymic) his descendants or their country"
+    },
+    {
+      "surface": "וָ/יָֽפֶת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3315",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jepheth, a son of Noah; also his posterity",
+      "translation": "Jepheth, a son of Noah; also his posterity"
+    },
+    {
+      "surface": "וָ/יָֽפֶת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/3315",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jepheth, a son of Noah; also his posterity",
+      "translation": "Jepheth, a son of Noah; also his posterity"
+    }
+  ]
+}

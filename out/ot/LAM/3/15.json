@@ -1,0 +1,113 @@
+{
+  "reference": "LAM 3:15",
+  "book": "LAM",
+  "book_code": "LAM",
+  "chapter": 3,
+  "verse": 15,
+  "tokens": [
+    {
+      "surface": "הִשְׂבִּיעַ֥/נִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVhp3ms/Sp1cs",
+      "strong": "7646",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to sate, i.e. fill to satisfaction (literally or figuratively)",
+      "translation": "to sate, i.e. fill to satisfaction (literally or figuratively)"
+    },
+    {
+      "surface": "הִשְׂבִּיעַ֥/נִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVhp3ms/Sp1cs",
+      "strong": "7646",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to sate, i.e. fill to satisfaction (literally or figuratively)",
+      "translation": "to sate, i.e. fill to satisfaction (literally or figuratively)"
+    },
+    {
+      "surface": "בַ/מְּרוֹרִ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncmpa",
+      "strong": "b/4844",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a bitter herb",
+      "translation": "a bitter herb"
+    },
+    {
+      "surface": "בַ/מְּרוֹרִ֖ים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncmpa",
+      "strong": "b/4844",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a bitter herb",
+      "translation": "a bitter herb"
+    },
+    {
+      "surface": "הִרְוַ֥/נִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVhp3ms/Sp1cs",
+      "strong": "7301",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to slake the thirst (occasionally of other appetites)",
+      "translation": "to slake the thirst (occasionally of other appetites)"
+    },
+    {
+      "surface": "הִרְוַ֥/נִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HVhp3ms/Sp1cs",
+      "strong": "7301",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to slake the thirst (occasionally of other appetites)",
+      "translation": "to slake the thirst (occasionally of other appetites)"
+    },
+    {
+      "surface": "לַעֲנָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsa",
+      "strong": "3939",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "wormwood (regarded as poisonous, and therefore accursed)",
+      "translation": "wormwood (regarded as poisonous, and therefore accursed)"
+    },
+    {
+      "surface": "לַעֲנָֽה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfsa",
+      "strong": "3939",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "wormwood (regarded as poisonous, and therefore accursed)",
+      "translation": "wormwood (regarded as poisonous, and therefore accursed)"
+    }
+  ]
+}

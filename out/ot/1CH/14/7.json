@@ -1,0 +1,87 @@
+{
+  "reference": "1CH 14:7",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 14,
+  "verse": 7,
+  "tokens": [
+    {
+      "surface": "וֶ/אֱלִישָׁמָ֥ע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/476",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elishama, the name of seven Israelites",
+      "translation": "Elishama, the name of seven Israelites"
+    },
+    {
+      "surface": "וֶ/אֱלִישָׁמָ֥ע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/476",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Elishama, the name of seven Israelites",
+      "translation": "Elishama, the name of seven Israelites"
+    },
+    {
+      "surface": "וּ/בְעֶלְיָדָ֖ע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1182",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Beeljada, an Israelite",
+      "translation": "Beeljada, an Israelite"
+    },
+    {
+      "surface": "וּ/בְעֶלְיָדָ֖ע",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1182",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Beeljada, an Israelite",
+      "translation": "Beeljada, an Israelite"
+    },
+    {
+      "surface": "וֶ/אֱלִיפָֽלֶט",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/467",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eliphelet or Elpelet, the name of six Israelites",
+      "translation": "Eliphelet or Elpelet, the name of six Israelites"
+    },
+    {
+      "surface": "וֶ/אֱלִיפָֽלֶט",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/467",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eliphelet or Elpelet, the name of six Israelites",
+      "translation": "Eliphelet or Elpelet, the name of six Israelites"
+    }
+  ]
+}

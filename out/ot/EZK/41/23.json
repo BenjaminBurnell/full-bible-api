@@ -1,0 +1,113 @@
+{
+  "reference": "EZK 41:23",
+  "book": "EZK",
+  "book_code": "EZK",
+  "chapter": 41,
+  "verse": 23,
+  "tokens": [
+    {
+      "surface": "וּ/שְׁתַּ֧יִם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Acfda",
+      "strong": "c/8147",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "two; also (as ordinal) twofold",
+      "translation": "two; also (as ordinal) twofold"
+    },
+    {
+      "surface": "וּ/שְׁתַּ֧יִם",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Acfda",
+      "strong": "c/8147",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "two; also (as ordinal) twofold",
+      "translation": "two; also (as ordinal) twofold"
+    },
+    {
+      "surface": "דְּלָת֛וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfpa",
+      "strong": "1817 c",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "something swinging, i.e. the valve of a door",
+      "translation": "something swinging, i.e. the valve of a door"
+    },
+    {
+      "surface": "דְּלָת֛וֹת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcfpa",
+      "strong": "1817 c",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "something swinging, i.e. the valve of a door",
+      "translation": "something swinging, i.e. the valve of a door"
+    },
+    {
+      "surface": "לַֽ/הֵיכָ֖ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncmsa",
+      "strong": "l/1964",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a large public building, such as a palace or temple",
+      "translation": "a large public building, such as a palace or temple"
+    },
+    {
+      "surface": "לַֽ/הֵיכָ֖ל",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HRd/Ncmsa",
+      "strong": "l/1964",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a large public building, such as a palace or temple",
+      "translation": "a large public building, such as a palace or temple"
+    },
+    {
+      "surface": "וְ/לַ/קֹּֽדֶשׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Rd/Ncmsa",
+      "strong": "c/l/6944",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a sacred place or thing; rarely abstract, sanctity",
+      "translation": "a sacred place or thing; rarely abstract, sanctity"
+    },
+    {
+      "surface": "וְ/לַ/קֹּֽדֶשׁ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Rd/Ncmsa",
+      "strong": "c/l/6944",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a sacred place or thing; rarely abstract, sanctity",
+      "translation": "a sacred place or thing; rarely abstract, sanctity"
+    }
+  ]
+}

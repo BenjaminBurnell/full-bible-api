@@ -1,0 +1,113 @@
+{
+  "reference": "JDG 10:5",
+  "book": "JDG",
+  "book_code": "JDG",
+  "chapter": 10,
+  "verse": 5,
+  "tokens": [
+    {
+      "surface": "וַ/יָּ֣מָת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/4191",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to die (literally or figuratively); causatively, to kill",
+      "translation": "to die (literally or figuratively); causatively, to kill"
+    },
+    {
+      "surface": "וַ/יָּ֣מָת",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vqw3ms",
+      "strong": "c/4191",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to die (literally or figuratively); causatively, to kill",
+      "translation": "to die (literally or figuratively); causatively, to kill"
+    },
+    {
+      "surface": "יָאִ֔יר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2971",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jair, the name of four Israelites",
+      "translation": "Jair, the name of four Israelites"
+    },
+    {
+      "surface": "יָאִ֔יר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "2971",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jair, the name of four Israelites",
+      "translation": "Jair, the name of four Israelites"
+    },
+    {
+      "surface": "וַ/יִּקָּבֵ֖ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/VNw3ms",
+      "strong": "c/6912",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to inter",
+      "translation": "to inter"
+    },
+    {
+      "surface": "וַ/יִּקָּבֵ֖ר",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/VNw3ms",
+      "strong": "c/6912",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to inter",
+      "translation": "to inter"
+    },
+    {
+      "surface": "בְּ/קָמֽוֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "b/7056",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Kamon, a place East of the Jordan",
+      "translation": "Kamon, a place East of the Jordan"
+    },
+    {
+      "surface": "בְּ/קָמֽוֹן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "b/7056",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Kamon, a place East of the Jordan",
+      "translation": "Kamon, a place East of the Jordan"
+    }
+  ]
+}

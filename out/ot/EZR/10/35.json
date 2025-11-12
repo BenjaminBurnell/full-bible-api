@@ -1,0 +1,113 @@
+{
+  "reference": "EZR 10:35",
+  "book": "EZR",
+  "book_code": "EZR",
+  "chapter": 10,
+  "verse": 35,
+  "tokens": [
+    {
+      "surface": "בְּנָיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1141",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Benajah, the name of twelve Israelites",
+      "translation": "Benajah, the name of twelve Israelites"
+    },
+    {
+      "surface": "בְּנָיָ֥ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "1141",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Benajah, the name of twelve Israelites",
+      "translation": "Benajah, the name of twelve Israelites"
+    },
+    {
+      "surface": "בֵדְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "912",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bedejah, an Israelite",
+      "translation": "Bedejah, an Israelite"
+    },
+    {
+      "surface": "בֵדְיָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "912",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Bedejah, an Israelite",
+      "translation": "Bedejah, an Israelite"
+    },
+    {
+      "surface": "כלהי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3622",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Keluhai, an Israelite",
+      "translation": "Keluhai, an Israelite"
+    },
+    {
+      "surface": "כלהי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3622",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Keluhai, an Israelite",
+      "translation": "Keluhai, an Israelite"
+    },
+    {
+      "surface": "כְּלֽוּהוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3622",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Keluhai, an Israelite",
+      "translation": "Keluhai, an Israelite"
+    },
+    {
+      "surface": "כְּלֽוּהוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3622",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Keluhai, an Israelite",
+      "translation": "Keluhai, an Israelite"
+    }
+  ]
+}

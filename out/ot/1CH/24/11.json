@@ -1,0 +1,113 @@
+{
+  "reference": "1CH 24:11",
+  "book": "1CH",
+  "book_code": "1CH",
+  "chapter": 24,
+  "verse": 11,
+  "tokens": [
+    {
+      "surface": "לְ/יֵשׁ֨וּעַ֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/3442",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jeshua, the name of ten Israelites, also of a place in Palestine",
+      "translation": "Jeshua, the name of ten Israelites, also of a place in Palestine"
+    },
+    {
+      "surface": "לְ/יֵשׁ֨וּעַ֙",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/3442",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Jeshua, the name of ten Israelites, also of a place in Palestine",
+      "translation": "Jeshua, the name of ten Israelites, also of a place in Palestine"
+    },
+    {
+      "surface": "הַ/תְּשִׁעִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/8671",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "ninth",
+      "translation": "ninth"
+    },
+    {
+      "surface": "הַ/תְּשִׁעִ֔י",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/8671",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "ninth",
+      "translation": "ninth"
+    },
+    {
+      "surface": "לִ/שְׁכַנְיָ֖הוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/7935",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shekanjah, the name of nine Israelites",
+      "translation": "Shekanjah, the name of nine Israelites"
+    },
+    {
+      "surface": "לִ/שְׁכַנְיָ֖הוּ",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HR/Np",
+      "strong": "l/7935",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Shekanjah, the name of nine Israelites",
+      "translation": "Shekanjah, the name of nine Israelites"
+    },
+    {
+      "surface": "הָ/עֲשִׂרִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/6224",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "tenth; by abbreviation, tenth month or (feminine) part",
+      "translation": "tenth; by abbreviation, tenth month or (feminine) part"
+    },
+    {
+      "surface": "הָ/עֲשִׂרִֽי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HTd/Aomsa",
+      "strong": "d/6224",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "tenth; by abbreviation, tenth month or (feminine) part",
+      "translation": "tenth; by abbreviation, tenth month or (feminine) part"
+    }
+  ]
+}

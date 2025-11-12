@@ -1,0 +1,113 @@
+{
+  "reference": "ZEC 2:3",
+  "book": "ZEC",
+  "book_code": "ZEC",
+  "chapter": 2,
+  "verse": 3,
+  "tokens": [
+    {
+      "surface": "וַ/יַּרְאֵ֣/נִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vhw3ms/Sp1cs",
+      "strong": "c/7200",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)",
+      "translation": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)"
+    },
+    {
+      "surface": "וַ/יַּרְאֵ֣/נִי",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Vhw3ms/Sp1cs",
+      "strong": "c/7200",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)",
+      "translation": "to see, literally or figuratively (in numerous applications, direct and implied, transitive, intransitive and causative)"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3068",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God",
+      "translation": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "3068",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God",
+      "translation": "(the) self-Existent or Eternal; Jeho-vah, Jewish national name of God"
+    },
+    {
+      "surface": "אַרְבָּעָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcmsa",
+      "strong": "702",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "four",
+      "translation": "four"
+    },
+    {
+      "surface": "אַרְבָּעָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HAcmsa",
+      "strong": "702",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "four",
+      "translation": "four"
+    },
+    {
+      "surface": "חָרָשִֽׁים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpa",
+      "strong": "2796",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a fabricator or any material",
+      "translation": "a fabricator or any material"
+    },
+    {
+      "surface": "חָרָשִֽׁים",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNcmpa",
+      "strong": "2796",
+      "index": 4,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "a fabricator or any material",
+      "translation": "a fabricator or any material"
+    }
+  ]
+}

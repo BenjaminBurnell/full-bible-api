@@ -1,0 +1,87 @@
+{
+  "reference": "JOS 15:52",
+  "book": "JOS",
+  "book_code": "JOS",
+  "chapter": 15,
+  "verse": 52,
+  "tokens": [
+    {
+      "surface": "אֲרַ֥ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "694",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Arab, a place in Palestine",
+      "translation": "Arab, a place in Palestine"
+    },
+    {
+      "surface": "אֲרַ֥ב",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HNp",
+      "strong": "694",
+      "index": 1,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Arab, a place in Palestine",
+      "translation": "Arab, a place in Palestine"
+    },
+    {
+      "surface": "וְ/רוּמָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1746",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Dumah, a tribe and region of Arabia",
+      "translation": "Dumah, a tribe and region of Arabia"
+    },
+    {
+      "surface": "וְ/רוּמָ֖ה",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/1746",
+      "index": 2,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Dumah, a tribe and region of Arabia",
+      "translation": "Dumah, a tribe and region of Arabia"
+    },
+    {
+      "surface": "וְ/אֶשְׁעָֽן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/824",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eshan, a place in Palestine",
+      "translation": "Eshan, a place in Palestine"
+    },
+    {
+      "surface": "וְ/אֶשְׁעָֽן",
+      "lemma": "",
+      "translit": "",
+      "gloss": "",
+      "morph": "HC/Np",
+      "strong": "c/824",
+      "index": 3,
+      "resolved_lemma": "",
+      "resolved_translit": "",
+      "resolved_gloss": "Eshan, a place in Palestine",
+      "translation": "Eshan, a place in Palestine"
+    }
+  ]
+}
