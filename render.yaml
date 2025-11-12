@@ -1,14 +1,15 @@
 services:
   - type: web
-    name: bible-unified-api
+    name: full-bible-api
     env: python
-    plan: free  # or starter / whatever you choose
+    plan: free  # change to starter/pro to avoid free-tier suspensions
+    autoDeploy: true
     buildCommand: pip install -r requirements.txt
     startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
-    autoDeploy: true
+
     envVars:
-      # Optional: override defaults if you want custom paths
-      # INTERLINEAR_DB:
-      #   value: /opt/render/project/src/interlinear.sqlite3
-      # (Otherwise it uses ./interlinear.sqlite3 next to main.py)
-      PYTHONUNBUFFERED: "1"
+      # If you rename/move DBs, set these to the full paths below.
+      INTERLINEAR_DB:
+        value: /opt/render/project/src/interlinear.sqlite3
+      PYTHONUNBUFFERED:
+        value: "1"
