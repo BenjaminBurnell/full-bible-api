@@ -2,6 +2,7 @@ from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List, Dict, Any, Tuple, Optional
+from cross_reference import router as crossref_router
 import requests
 import json
 import os
@@ -652,6 +653,6 @@ def root():
                 "/interlinear/{book}/{chapter}", "/interlinear/{book}/{chapter}/{verse}",
                 "/books", "/debug/resolve", "/health"
             ],
-            "crossref": ["/crossref/{book}/{chapter}/{verse}"] 
+            "cross_refs": "/api/crossref?verse=Gen 1:1",  # Adjust based on your actual endpoint path
         },
     }
