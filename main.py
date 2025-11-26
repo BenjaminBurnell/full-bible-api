@@ -2,13 +2,17 @@ from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List, Dict, Any, Tuple, Optional
-from cross_reference import router as crossref_router
+from cross_reference import router as crossref_router  
 import requests
 import json
 import os
 import sqlite3
 import csv
 import re
+
+
+
+app = FastAPI(title="Bible Unified API")
 
 # ============================================================
 # Unified FastAPI app
@@ -23,13 +27,18 @@ app = FastAPI(
     ),
 )
 
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],          # tighten later for prod
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# --- REGISTER THE NEW ROUTER ---
+# This means the endpoint will be available at: /crossref/?verse=Gen 1:1
+app.include_router(crossref_router, prefix="/crossref", tags=["Cross References"])
 
 # ============================================================
 # 1) BIBLE REST API (from bible-api-main.py)
@@ -641,18 +650,14 @@ def get_cross_references(book: str, chapter: int, verse: int):
 # ============================================================
 
 @app.get("/")
-def root():
+def home():
     return {
-        "name": "Bible Unified API",
-        "ok": True,
+        "message": "Bible API is running",
         "endpoints": {
-            "bible": ["/verse/{version}/{book}/{chapter}/{verse}",
-                      "/chapter/{version}/{book}/{chapter}"],
-            "search": ["/search", "/healthz"],
-            "interlinear": [
-                "/interlinear/{book}/{chapter}", "/interlinear/{book}/{chapter}/{verse}",
-                "/books", "/debug/resolve", "/health"
-            ],
-            "cross_refs": "/api/crossref?verse=Gen 1:1",  # Adjust based on your actual endpoint path
-        },
+            "bible": "/verse/{version}/{book}/{chapter}/{verse}",
+            "search": "/search?q=query",
+            "interlinear": "/interlinear/{book}/{chapter}/{verse}",
+            # Update documentation to show the new endpoint
+            "cross_references": "/crossref/?verse=Gen 1:1" 
+        }
     }
