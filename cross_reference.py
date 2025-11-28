@@ -151,56 +151,123 @@ def query_db_logic(normalized_verse: str, limit: Optional[int] = None) -> List[T
 
 def normalize_verse(raw: str) -> str:
     """
-    Convert user input into the SAME format used in cross_references.db:
-        "<Number> <Book> <Chapter>:<Verse>"  or  "<Book> <Chapter>:<Verse>"
-
-    Examples:
-        "1peter1:1"   -> "1 Pet 1:1"
-        "1Peter 1:1"  -> "1 Pet 1:1"
-        "1john1:2"    -> "1 John 1:2"
-        "1 John 1:2"  -> "1 John 1:2"
-        "gen1:1"      -> "Gen 1:1"
-        "ps90:2"      -> "Ps 90:2"
+    Normalize user input so it matches the exact DB format created from OpenBible:
+        Gen.1.1   -> Gen 1:1
+        Jas.1.1   -> Jas 1:1
+        Jude.1.1  -> Jude 1:1
+        1Pet.1.1  -> 1 Pet 1:1
+        1John1:2  -> 1 John 1:2
     """
 
     raw = raw.strip().lower()
 
-    # 1) Pattern: numbered books: "1peter1:1", "2 john 3:4", "3jn1:2"
+    # Abbreviations used by your DB
+    book_abbrev = {
+        # --- Pentateuch ---
+        "genesis": "Gen", "gen": "Gen",
+        "exodus": "Exod", "exo": "Exod", "ex": "Exod",
+        "leviticus": "Lev", "lev": "Lev",
+        "numbers": "Num", "num": "Num",
+        "deuteronomy": "Deut", "deu": "Deut",
+
+        # --- History Books ---
+        "joshua": "Josh", "jos": "Josh",
+        "judges": "Judg",
+        "ruth": "Ruth",
+        "1samuel": "1 Sam", "1 samuel": "1 Sam", "1sam": "1 Sam", "1 sam": "1 Sam",
+        "2samuel": "2 Sam", "2 samuel": "2 Sam", "2sam": "2 Sam", "2 sam": "2 Sam",
+        "1kings": "1 Kgs", "1 kings": "1 Kgs",
+        "2kings": "2 Kgs", "2 kings": "2 Kgs",
+        "1chronicles": "1 Chr", "1 chronicles": "1 Chr", "1chr": "1 Chr", "1 chr": "1 Chr",
+        "2chronicles": "2 Chr", "2 chronicles": "2 Chr", "2chr": "2 Chr", "2 chr": "2 Chr",
+
+        "ezra": "Ezra",
+
+        "nehemiah": "Neh", "neh": "Neh",
+
+        "esther": "Esth", "esth": "Esth",
+
+        # --- Wisdom ---
+        "job": "Job",
+        "psalms": "Ps", "psalm": "Ps", "ps": "Ps",
+        "proverbs": "Prov", "pro": "Prov",
+        "ecclesiastes": "Eccl", "ecc": "Eccl",
+        "songofsolomon": "Song", "song of solomon": "Song",
+
+        # --- Major Prophets ---
+        "isaiah": "Isa",
+        "jeremiah": "Jer",
+        "lamentations": "Lam",
+        "ezekiel": "Ezek",
+        "daniel": "Dan",
+
+        # --- Minor Prophets ---
+        "hosea": "Hos",
+        "joel": "Joel",
+        "amos": "Amos",
+        "obadiah": "Obad",
+        "jonah": "Jon",
+        "micah": "Mic",
+        "nahum": "Nah",
+        "habakkuk": "Hab",
+        "zephaniah": "Zeph",
+        "haggai": "Hag",
+        "zechariah": "Zech",
+        "malachi": "Mal",
+
+        # --- Gospels ---
+        "matthew": "Matt",
+        "mark": "Mark",
+        "luke": "Luke",
+        "john": "John",
+
+        # --- Paul ---
+        "acts": "Acts",
+        "romans": "Rom",
+        "1corinthians": "1 Cor", "1 corinthians": "1 Cor",
+        "2corinthians": "2 Cor", "2 corinthians": "2 Cor",
+        "galatians": "Gal",
+        "ephesians": "Eph",
+        "philippians": "Phil",
+        "colossians": "Col",
+        "1thessalonians": "1 Thess", "1 thessalonians": "1 Thess",
+        "2thessalonians": "2 Thess", "2 thessalonians": "2 Thess",
+        "1timothy": "1 Tim",
+        "2timothy": "2 Tim",
+        "titus": "Titus",
+        "philemon": "Phlm",
+
+        # --- General Letters ---
+        "hebrews": "Heb",
+        "james": "Jas",
+        "1peter": "1 Pet", "2peter": "2 Pet",
+        "1john": "1 John", "2john": "2 John", "3john": "3 John",
+        "jude": "Jude",
+
+        # --- Revelation ---
+        "revelation": "Rev", "rev": "Rev"
+    }
+
+    # --- Numbered books ---
     m = re.match(r"^\s*([123])\s*([a-z]+)\s*(\d+)\s*[:.]\s*(\d+)\s*$", raw)
     if m:
         num, book, chap, verse = m.groups()
-        book_cap = book.capitalize()
+        key = f"{num}{book}"
+        if key in book_abbrev:
+            return f"{book_abbrev[key]} {chap}:{verse}"
+        else:
+            return f"{num} {book.capitalize()} {chap}:{verse}"
 
-        # Map long names to the abbreviated forms used in the DB where needed
-        # (We do NOT shorten John here so DB + normalize stay in sync.)
-        abbr_map = {
-            "Peter": "Pet",
-            "Samuel": "Sam",
-            "Kings": "Kgs",
-            "Corinthians": "Cor",
-            "Thessalonians": "Thess",
-            "Timothy": "Tim",
-        }
-        book_disp = abbr_map.get(book_cap, book_cap)
-
-        return f"{num} {book_disp} {chap}:{verse}"
-
-    # 2) Pattern: non-numbered books: "john3:16", "ps 90:2", "gen 1:1"
+    # --- Non-numbered books ---
     m2 = re.match(r"^\s*([a-z]+)\s*(\d+)\s*[:.]\s*(\d+)\s*$", raw)
     if m2:
         book, chap, verse = m2.groups()
-        book_cap = book.capitalize()
+        if book in book_abbrev:
+            return f"{book_abbrev[book]} {chap}:{verse}"
+        else:
+            return f"{book.capitalize()} {chap}:{verse}"
 
-        # Same abbreviation treatment for non-numbered ones, if desired
-        single_abbr_map = {
-            "Psalms": "Ps",
-            "Psalm": "Ps",
-        }
-        book_disp = single_abbr_map.get(book_cap, book_cap)
-
-        return f"{book_disp} {chap}:{verse}"
-
-    # 3) Fallback: return as-is if we can't parse
+    # --- fallback ---
     return raw
 
 def query_db_logic(normalized_verse: str, limit: Optional[int] = None) -> List[Tuple[str,int]]:
