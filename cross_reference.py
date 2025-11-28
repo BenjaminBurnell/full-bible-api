@@ -66,42 +66,142 @@ BOOK_ABBREVIATIONS = {
 _NORMALIZE_RE = re.compile(r'^\s*(?P<prefix>[1-3]\s+)?(?P<book>[A-Za-z0-9\.\' ]+?)\s*(?P<chap>\d+)\s*:\s*(?P<verse>\d+)\s*$', re.IGNORECASE)
 _MIXED_RE = re.compile(r'([A-Za-z\.]+)(\d)')
 
+def query_db_logic(normalized_verse: str, limit: Optional[int] = None) -> List[Tuple[str, int]]:
+    conn = get_db_connection()
+    cur = conn.cursor()
+
+    # Start with the normalized version
+    candidates = [normalized_verse]
+
+    # Split into book + chapter:verse
+    parts = normalized_verse.split()
+    if len(parts) >= 2:
+        book_token = parts[0]          # e.g. "1Pe", "1Pet", "1Peter"
+        chapvers = " ".join(parts[1:]) # e.g. "1:1"
+
+        # -----------------------------------------
+        # A) FULL BOOK NAME (reverse BOOK_ABBREVIATIONS)
+        # -----------------------------------------
+        for key, val in BOOK_ABBREVIATIONS.items():
+            if val.lower() == book_token.lower():
+                full_name = " ".join(w.capitalize() for w in key.split())
+                candidates.append(f"{full_name} {chapvers}")
+
+        # -----------------------------------------
+        # B) PET / PE ALTERNATES
+        # -----------------------------------------
+        alt_map = {
+            "1pe": "1Pet", "2pe": "2Pet", "3pe": "3Pet",
+            "1pet": "1Pe", "2pet": "2Pe", "3pet": "3Pe",
+            "1peter": "1Pet", "2peter": "2Pet", "3peter": "3Pet"
+        }
+
+        lower_book = book_token.lower()
+        if lower_book in alt_map:
+            candidates.append(f"{alt_map[lower_book]} {chapvers}")
+
+        # -----------------------------------------
+        # C) NUMBER-SPACE-NAME (WHAT YOUR DB ACTUALLY USES)
+        # "1Pet" → "1 Pet"
+        # "1Jn"  → "1 Jn"
+        # -----------------------------------------
+        m = re.match(r"^([123])(\w+)$", book_token)
+        if m:
+            num, name = m.groups()
+            spaced = f"{num} {name.capitalize()}"
+            candidates.append(f"{spaced} {chapvers}")
+
+        # -----------------------------------------
+        # D) If someone sends "1 Peter 1:1", normalize spacing
+        # -----------------------------------------
+        m2 = re.match(r"^([123])\s*([A-Za-z]+)$", book_token)
+        if m2:
+            num, name = m2.groups()
+            spaced2 = f"{num} {name.capitalize()}"
+            candidates.append(f"{spaced2} {chapvers}")
+
+    # Remove duplicates but keep order
+    candidates = list(dict.fromkeys(candidates))
+
+    # Query database for each candidate
+    results_map = {}
+
+    for cand in candidates:
+        sql = "SELECT cross_ref, votes FROM cross_references WHERE verse = ?"
+        params = [cand]
+
+        if limit:
+            sql += " LIMIT ?"
+            params.append(int(limit))
+
+        rows = cur.execute(sql, tuple(params)).fetchall()
+
+        for row in rows:
+            cref = row["cross_ref"]
+            votes = row["votes"]
+
+            # Keep highest vote count for each unique reference
+            if cref not in results_map or votes > results_map[cref]:
+                results_map[cref] = votes
+
+    conn.close()
+
+    # Return sorted list (highest vote first)
+    return sorted(results_map.items(), key=lambda x: x[1], reverse=True)
+
 def normalize_verse(raw: str) -> str:
-    if not raw or not raw.strip():
-        raise ValueError("Empty verse")
-    s = raw.strip()
-    # insert a space between letters and chapter digits when compact form like "John3:16"
-    s = _MIXED_RE.sub(r'\1 \2', s)
-    s = re.sub(r'\s+', ' ', s).strip()
+    """
+    Convert user input into the SAME format used in cross_references.db:
+        "<Number> <Book> <Chapter>:<Verse>"  or  "<Book> <Chapter>:<Verse>"
 
-    m = _NORMALIZE_RE.match(s)
-    if not m:
-        # try a looser match: maybe user used dot-notation e.g. "Gen.1.1"
-        dot_match = re.match(r'^\s*(?P<book>[\w\. ]+?)\.(?P<chap>\d+)\.(?P<verse>\d+)\s*$', s)
-        if dot_match:
-            book_raw = dot_match.group('book').replace('.', ' ').strip()
-            chap = dot_match.group('chap'); verse_num = dot_match.group('verse')
-        else:
-            raise ValueError(f"Could not parse verse: {raw!r}")
-    else:
-        prefix = m.group('prefix') or ''
-        book_raw = (prefix + (m.group('book') or '')).strip()
-        chap = m.group('chap')
-        verse_num = m.group('verse')
+    Examples:
+        "1peter1:1"   -> "1 Pet 1:1"
+        "1Peter 1:1"  -> "1 Pet 1:1"
+        "1john1:2"    -> "1 John 1:2"
+        "1 John 1:2"  -> "1 John 1:2"
+        "gen1:1"      -> "Gen 1:1"
+        "ps90:2"      -> "Ps 90:2"
+    """
 
-    book_key = book_raw.lower().replace('.', '').replace('  ', ' ').strip()
-    book_key = re.sub(r'^(1|2|3)(\s*)([a-z])', r'\1 \3', book_key)
+    raw = raw.strip().lower()
 
-    abbr = BOOK_ABBREVIATIONS.get(book_key)
-    if not abbr:
-        last = book_key.split()[-1]
-        abbr = BOOK_ABBREVIATIONS.get(last)
-    if not abbr:
-        # If we can't abbreviate, trust the user's input capitalized
-        book_title = ' '.join(w.capitalize() for w in book_key.split())
-        return f"{book_title} {int(chap)}:{int(verse_num)}"
+    # 1) Pattern: numbered books: "1peter1:1", "2 john 3:4", "3jn1:2"
+    m = re.match(r"^\s*([123])\s*([a-z]+)\s*(\d+)\s*[:.]\s*(\d+)\s*$", raw)
+    if m:
+        num, book, chap, verse = m.groups()
+        book_cap = book.capitalize()
 
-    return f"{abbr} {int(chap)}:{int(verse_num)}"
+        # Map long names to the abbreviated forms used in the DB where needed
+        # (We do NOT shorten John here so DB + normalize stay in sync.)
+        abbr_map = {
+            "Peter": "Pet",
+            "Samuel": "Sam",
+            "Kings": "Kgs",
+            "Corinthians": "Cor",
+            "Thessalonians": "Thess",
+            "Timothy": "Tim",
+        }
+        book_disp = abbr_map.get(book_cap, book_cap)
+
+        return f"{num} {book_disp} {chap}:{verse}"
+
+    # 2) Pattern: non-numbered books: "john3:16", "ps 90:2", "gen 1:1"
+    m2 = re.match(r"^\s*([a-z]+)\s*(\d+)\s*[:.]\s*(\d+)\s*$", raw)
+    if m2:
+        book, chap, verse = m2.groups()
+        book_cap = book.capitalize()
+
+        # Same abbreviation treatment for non-numbered ones, if desired
+        single_abbr_map = {
+            "Psalms": "Ps",
+            "Psalm": "Ps",
+        }
+        book_disp = single_abbr_map.get(book_cap, book_cap)
+
+        return f"{book_disp} {chap}:{verse}"
+
+    # 3) Fallback: return as-is if we can't parse
+    return raw
 
 def query_db_logic(normalized_verse: str, limit: Optional[int] = None) -> List[Tuple[str,int]]:
     conn = get_db_connection()
