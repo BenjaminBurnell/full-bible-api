@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List, Dict, Any, Tuple, Optional
 from cross_reference import router as crossref_router  
+from metadata import router as metadata_router
 import requests
 import json
 import os
@@ -39,6 +40,7 @@ app.add_middleware(
 # --- REGISTER THE NEW ROUTER ---
 # This means the endpoint will be available at: /crossref/?verse=Gen 1:1
 app.include_router(crossref_router, prefix="/crossref", tags=["Cross References"])
+app.include_router(metadata_router, prefix="/meta", tags=["Bible Metadata"])
 
 # ============================================================
 # 1) BIBLE REST API (from bible-api-main.py)
@@ -657,7 +659,7 @@ def home():
             "bible": "/verse/{version}/{book}/{chapter}/{verse}",
             "search": "/search?q=query",
             "interlinear": "/interlinear/{book}/{chapter}/{verse}",
-            # Update documentation to show the new endpoint
-            "cross_references": "/crossref/?verse=Gen 1:1" 
+            "cross_references": "/crossref/?verse=Gen 1:1",
+            "metadata": "/meta/verse?book=GEN&chapter=1&verse=1"  # <--- New!
         }
     }
