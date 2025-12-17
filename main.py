@@ -51,6 +51,8 @@ app.include_router(metadata_router, prefix="/meta", tags=["Bible Metadata"])
 
 GITHUB_BASE_URL = "https://raw.githubusercontent.com/BenjaminBurnell/Bible/main/bible_data"
 
+BIBLE_CHAPTERS_DB = os.environ.get("BIBLE_CHAPTERS_DB", "/var/data/bible_chapters.sqlite")
+
 BIBLE_BOOK_CODES = {
     "GENESIS": "GEN", "EXODUS": "EXO", "LEVITICUS": "LEV", "NUMBERS": "NUM", "DEUTERONOMY": "DEU",
     "JOSHUA": "JOS", "JUDGES": "JDG", "RUTH": "RUT", "1 SAMUEL": "1SA", "2 SAMUEL": "2SA",
@@ -75,11 +77,44 @@ def _normalize_bible_book(book: str) -> str:
         return b
     return BIBLE_BOOK_CODES.get(b, b)
 
+def _fetch_chapter_from_sqlite(version: str, book_code: str, chapter: int) -> Optional[Dict[str, Any]]:
+    if not os.path.isfile(BIBLE_CHAPTERS_DB):
+        raise HTTPException(status_code=500, detail=f"NASB2020 DB missing at {BIBLE_CHAPTERS_DB}")
+
+    conn = sqlite3.connect(BIBLE_CHAPTERS_DB)
+    try:
+        cur = conn.cursor()
+        row = cur.execute(
+            "SELECT verses_json FROM chapters WHERE version=? AND book=? AND chapter=?",
+            (version.upper(), book_code, int(chapter)),
+        ).fetchone()
+
+        if not row:
+            return None
+
+        verses = json.loads(row[0] or "[]")
+        return {
+            "version": version.upper(),
+            "book": book_code,
+            "chapter": int(chapter),
+            "verses": verses,
+        }
+    finally:
+        conn.close()
+
 def _fetch_chapter_json(version: str, book: str, chapter: int) -> Dict[str, Any]:
     version = version.upper()
     book_code = _normalize_bible_book(book)
-    url = f"{GITHUB_BASE_URL}/{version}/{book_code}/{chapter}.json"
 
+    # ✅ ONLY NASB2020 comes from SQLite
+    if version == "NASB2020":
+        data = _fetch_chapter_from_sqlite(version, book_code, chapter)
+        if data:
+            return data
+        raise HTTPException(status_code=404, detail="Chapter not found in NASB2020 SQLite DB")
+
+    # ✅ Everything else uses your existing GitHub repo behavior
+    url = f"{GITHUB_BASE_URL}/{version}/{book_code}/{chapter}.json"
     res = requests.get(url)
     if res.status_code != 200:
         raise HTTPException(status_code=404, detail=f"Chapter not found at {url}")
