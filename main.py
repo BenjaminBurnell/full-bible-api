@@ -839,6 +839,117 @@ def get_cross_references(book: str, chapter: int, verse: int):
 
 
 # ============================================================
+# 4.5) PERSON -> VERSE REFERENCES (from metadata.db)
+#     Endpoint:
+#       - GET /person_refs/{person_id_or_name}?limit=200&offset=0
+# ============================================================
+
+def _get_metadata_db_path() -> str:
+    """
+    Resolve metadata DB path robustly for both local dev and Render.
+    Prefers METADATA_DB_PATH env var, then falls back to ./metadata.db.
+    """
+    if METADATA_DB_PATH and os.path.isfile(METADATA_DB_PATH):
+        return METADATA_DB_PATH
+    local = os.path.join(os.path.dirname(__file__), "metadata.db")
+    if os.path.isfile(local):
+        return local
+    return "metadata.db"
+
+
+def _get_metadata_conn():
+    db_path = _get_metadata_db_path()
+    if not os.path.isfile(db_path):
+        raise HTTPException(status_code=500, detail=f"Metadata DB missing at {db_path}")
+    conn = sqlite3.connect(db_path)
+    conn.row_factory = sqlite3.Row
+    return conn
+
+
+@app.get("/person_refs/{person_id_or_name}")
+def get_person_references(
+    person_id_or_name: str,
+    limit: int = Query(200, ge=1, le=2000),
+    offset: int = Query(0, ge=0),
+):
+    """
+    Return all verse references that a specific person appears in.
+
+    - `person_id_or_name` can be a `people.id` (recommended) OR an exact name match.
+    - Results use 3-letter USFM book codes (e.g., GEN 1:1).
+    """
+    conn = _get_metadata_conn()
+    try:
+        cur = conn.cursor()
+
+        # 1) Resolve person record
+        person = cur.execute(
+            """
+            SELECT id, name, description, sex, tribe, unique_attribute
+            FROM people
+            WHERE id = ?
+               OR lower(name) = lower(?)
+            LIMIT 1
+            """,
+            (person_id_or_name, person_id_or_name),
+        ).fetchone()
+
+        resolved_id = person["id"] if person else person_id_or_name
+
+        # 2) Fetch verse refs (dedupe rows)
+        rows = cur.execute(
+            """
+            SELECT DISTINCT book, chapter, verse, role
+            FROM verse_people
+            WHERE person_id = ?
+            ORDER BY book, chapter, verse
+            LIMIT ? OFFSET ?
+            """,
+            (resolved_id, limit, offset),
+        ).fetchall()
+
+        if not rows and not person:
+            raise HTTPException(status_code=404, detail="Person not found (no person record, no verse links).")
+
+        verses = []
+        for r in rows:
+            ref = f"{r['book']} {int(r['chapter'])}:{int(r['verse'])}"
+            verses.append(
+                {
+                    "book": r["book"],
+                    "chapter": int(r["chapter"]),
+                    "verse": int(r["verse"]),
+                    "reference": ref,
+                    # In your build_metadata_db.py this field is populated from person_verse_notes
+                    "notes": (r["role"] or "").strip(),
+                }
+            )
+
+        return {
+            "person": None
+            if not person
+            else {
+                "id": person["id"],
+                "name": person["name"],
+                "description": person["description"],
+                "sex": person["sex"],
+                "tribe": person["tribe"],
+                "unique_attribute": person["unique_attribute"],
+            },
+            "person_id": resolved_id,
+            "count": len(verses),
+            "limit": limit,
+            "offset": offset,
+            "verses": verses,
+        }
+    finally:
+        try:
+            conn.close()
+        except:
+            pass
+
+
+# ============================================================
 # 5) Unified root health (optional convenience)
 # ============================================================
 
@@ -853,6 +964,7 @@ def home():
             "cross_references": "/crossref/?verse=Gen 1:1",
             "metadata": "/meta/verse?book=GEN&chapter=1&verse=1",
             "people_verse": "/people_verse/{book}/{chapter}/{verse}",
+            "person_refs": "/person_refs/{person_id_or_name}",
             "places_verse": "/places_verse/{book}/{chapter}/{verse}"
         }
     }
