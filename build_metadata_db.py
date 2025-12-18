@@ -135,7 +135,7 @@ def import_stephenson(cur):
             print(f"✅ Loaded {count} Books.")
 
     # 2. PEOPLE DEFINITIONS
-    path = os.path.join(RAW_DIR, "persons.csv")
+    path = os.path.join(RAW_DIR, "persons.with_descriptions.csv")
     if os.path.exists(path):
         with open(path, "r", encoding="utf-8-sig") as f:
             reader = csv.DictReader(f)
