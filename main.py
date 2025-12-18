@@ -71,11 +71,167 @@ BIBLE_BOOK_CODES = {
 }
 
 def _normalize_bible_book(book: str) -> str:
-    b = book.upper()
+    b = (book or "").strip().upper()
+
+    # allow formats like "1john" or "1 john"
+    b = re.sub(r"^([123])\s*(.+)$", r"\1 \2", b)
+    b = re.sub(r"\s+", " ", b)
+
     # allow short codes
     if b in BIBLE_BOOK_CODES.values():
         return b
     return BIBLE_BOOK_CODES.get(b, b)
+
+# ============================================================
+# PEOPLE PER VERSE (Stephenson persons.csv + person_verse.csv)
+# Uses: metadata.db (built by build_metadata_db.py)
+# Endpoint:
+#   - GET /people_verse/{book}/{chapter:int}/{verse:int}
+# ============================================================
+
+ROOT_DIR = os.path.dirname(__file__)
+METADATA_DB_PATH = (
+    os.environ.get("METADATA_DB_PATH")
+    or os.environ.get("METADATA_DB")
+    or ("/var/data/metadata.db" if os.path.isfile("/var/data/metadata.db") else os.path.join(ROOT_DIR, "metadata.db"))
+)
+
+def _metadata_conn() -> sqlite3.Connection:
+    if not os.path.isfile(METADATA_DB_PATH):
+        raise HTTPException(
+            status_code=500,
+            detail=(
+                f"metadata.db missing at {METADATA_DB_PATH}. "
+                "Build it with build_metadata_db.py and place it on disk, or set METADATA_DB_PATH."
+            ),
+        )
+    conn = sqlite3.connect(METADATA_DB_PATH)
+    conn.row_factory = sqlite3.Row
+    return conn
+
+@app.get("/people_verse/{book}/{chapter:int}/{verse:int}")
+def get_people_for_verse(book: str, chapter: int, verse: int):
+    book_code = _normalize_bible_book(book)
+
+    conn = _metadata_conn()
+    try:
+        try:
+            rows = conn.execute(
+                """
+                SELECT DISTINCT
+                    p.id,
+                    p.name,
+                    p.description,
+                    p.sex,
+                    p.tribe,
+                    p.unique_attribute,
+                    vp.role
+                FROM verse_people vp
+                JOIN people p ON p.id = vp.person_id
+                WHERE vp.book = ? AND vp.chapter = ? AND vp.verse = ?
+                ORDER BY p.name COLLATE NOCASE
+                """,
+                (book_code, int(chapter), int(verse)),
+            ).fetchall()
+        except sqlite3.OperationalError as e:
+            raise HTTPException(status_code=500, detail=f"Metadata DB schema error: {e}")
+
+        people = [
+            {
+                "id": r["id"],
+                "name": r["name"],
+                "description": r["description"] or "",
+                "sex": r["sex"] or "",
+                "tribe": r["tribe"] or "",
+                "unique_attribute": r["unique_attribute"] or "",
+                "role": r["role"] or "",
+            }
+            for r in rows
+        ]
+
+        return {
+            "reference": f"{book_code} {chapter}:{verse}",
+            "book": book_code,
+            "chapter": int(chapter),
+            "verse": int(verse),
+            "count": len(people),
+            "people": people,
+        }
+    finally:
+        conn.close()
+
+PLACES_DB_PATH = (
+    os.environ.get("PLACES_DB_PATH")
+    or ("/var/data/places.db" if os.path.isfile("/var/data/places.db") else os.path.join(os.path.dirname(__file__), "data", "places.db"))
+)
+
+def _places_conn() -> sqlite3.Connection:
+    if not os.path.isfile(PLACES_DB_PATH):
+        raise HTTPException(status_code=500, detail=f"places.db missing at {PLACES_DB_PATH}")
+    conn = sqlite3.connect(PLACES_DB_PATH)
+    conn.row_factory = sqlite3.Row
+    return conn
+
+@app.get("/places_verse/{book}/{chapter:int}/{verse:int}")
+def get_places_for_verse(book: str, chapter: int, verse: int):
+    book_code = _normalize_bible_book(book)
+
+    conn = _places_conn()
+    try:
+        rows = conn.execute(
+            """
+            SELECT
+              p.place_id,
+              p.place_name,
+              p.place_type,
+              p.modern_equivalent,
+              p.place_notes,
+              p.openbible_id,
+              p.openbible_url,
+              p.name_instance,
+              p.place_sequence,
+              vp.place_label_id,
+              vp.place_label,
+              vp.place_label_count,
+              vp.place_verse_sequence,
+              vp.place_verse_notes
+            FROM verse_places vp
+            JOIN places p ON p.place_id = vp.place_id
+            WHERE vp.book = ? AND vp.chapter = ? AND vp.verse = ?
+            ORDER BY vp.place_verse_sequence ASC, p.place_name COLLATE NOCASE
+            """,
+            (book_code, int(chapter), int(verse)),
+        ).fetchall()
+
+        places = []
+        for r in rows:
+            places.append({
+                "place_id": r["place_id"],
+                "name": r["place_name"] or "",
+                "type": r["place_type"] or "",
+                "modern_equivalent": r["modern_equivalent"] or "",
+                "notes": r["place_notes"] or "",
+                "openbible_id": r["openbible_id"] or "",
+                "openbible_url": r["openbible_url"] or "",
+                "name_instance": int(r["name_instance"] or 0),
+                "place_sequence": int(r["place_sequence"] or 0),
+                "label_id": r["place_label_id"] or "",
+                "label": r["place_label"] or "",
+                "label_count": int(r["place_label_count"] or 0),
+                "place_verse_sequence": int(r["place_verse_sequence"] or 0),
+                "place_verse_notes": r["place_verse_notes"] or "",
+            })
+
+        return {
+            "reference": f"{book_code} {chapter}:{verse}",
+            "book": book_code,
+            "chapter": int(chapter),
+            "verse": int(verse),
+            "count": len(places),
+            "places": places,
+        }
+    finally:
+        conn.close()
 
 def _fetch_chapter_from_sqlite(version: str, book_code: str, chapter: int) -> Optional[Dict[str, Any]]:
     if not os.path.isfile(BIBLE_CHAPTERS_DB):
@@ -695,6 +851,8 @@ def home():
             "search": "/search?q=query",
             "interlinear": "/interlinear/{book}/{chapter}/{verse}",
             "cross_references": "/crossref/?verse=Gen 1:1",
-            "metadata": "/meta/verse?book=GEN&chapter=1&verse=1"  # <--- New!
+            "metadata": "/meta/verse?book=GEN&chapter=1&verse=1",
+            "people_verse": "/people_verse/{book}/{chapter}/{verse}",
+            "places_verse": "/places_verse/{book}/{chapter}/{verse}"
         }
     }
