@@ -233,6 +233,113 @@ def get_places_for_verse(book: str, chapter: int, verse: int):
     finally:
         conn.close()
 
+
+@app.get("/place_refs/{place_id_or_name}")
+def get_place_references(
+    place_id_or_name: str,
+    limit: int = Query(200, ge=1, le=5000),
+    offset: int = Query(0, ge=0),
+):
+    """
+    Return all verse references that a specific place appears in.
+
+    - `place_id_or_name` can be a numeric `places.place_id` (recommended)
+      OR an exact place name match (case-insensitive).
+    - Results use 3-letter USFM book codes (e.g., GEN 1:1).
+    """
+    conn = _places_conn()
+    try:
+        cur = conn.cursor()
+
+        # 1) Resolve place record
+        # Try numeric ID first; if not numeric, fall back to name match.
+        place = None
+        resolved_id = None
+
+        if place_id_or_name.strip().isdigit():
+            resolved_id = int(place_id_or_name.strip())
+            place = cur.execute(
+                """
+                SELECT place_id, place_name, place_type, modern_equivalent,
+                       place_notes, openbible_id, openbible_url,
+                       name_instance, place_sequence
+                FROM places
+                WHERE place_id = ?
+                LIMIT 1
+                """,
+                (resolved_id,),
+            ).fetchone()
+        else:
+            place = cur.execute(
+                """
+                SELECT place_id, place_name, place_type, modern_equivalent,
+                       place_notes, openbible_id, openbible_url,
+                       name_instance, place_sequence
+                FROM places
+                WHERE lower(place_name) = lower(?)
+                LIMIT 1
+                """,
+                (place_id_or_name.strip(),),
+            ).fetchone()
+            resolved_id = int(place["place_id"]) if place else None
+
+        # If we didn't find a place record, still allow querying by raw id-like string
+        if resolved_id is None:
+            # try coercing if possible, else 404
+            try:
+                resolved_id = int(place_id_or_name.strip())
+            except Exception:
+                raise HTTPException(status_code=404, detail="Place not found by id or exact name.")
+
+        # 2) Fetch verse refs (dedupe rows)
+        rows = cur.execute(
+            """
+            SELECT DISTINCT book, chapter, verse
+            FROM verse_places
+            WHERE place_id = ?
+            ORDER BY book, chapter, verse
+            LIMIT ? OFFSET ?
+            """,
+            (resolved_id, limit, offset),
+        ).fetchall()
+
+        if not rows and not place:
+            raise HTTPException(status_code=404, detail="Place not found (no place record, no verse links).")
+
+        verses = []
+        for r in rows:
+            ref = f"{r['book']} {int(r['chapter'])}:{int(r['verse'])}"
+            verses.append(
+                {
+                    "book": r["book"],
+                    "chapter": int(r["chapter"]),
+                    "verse": int(r["verse"]),
+                    "reference": ref,
+                }
+            )
+
+        return {
+            "place": None if not place else {
+                "place_id": int(place["place_id"]),
+                "place_name": place["place_name"] or "",
+                "place_type": place["place_type"] or "",
+                "modern_equivalent": place["modern_equivalent"] or "",
+                "place_notes": place["place_notes"] or "",
+                "openbible_id": place["openbible_id"] or "",
+                "openbible_url": place["openbible_url"] or "",
+                "name_instance": int(place["name_instance"] or 0),
+                "place_sequence": int(place["place_sequence"] or 0),
+            },
+            "place_id": resolved_id,
+            "count": len(verses),
+            "limit": limit,
+            "offset": offset,
+            "verses": verses,
+        }
+
+    finally:
+        conn.close()
+        
 def _fetch_chapter_from_sqlite(version: str, book_code: str, chapter: int) -> Optional[Dict[str, Any]]:
     if not os.path.isfile(BIBLE_CHAPTERS_DB):
         raise HTTPException(status_code=500, detail=f"NASB2020 DB missing at {BIBLE_CHAPTERS_DB}")
