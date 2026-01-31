@@ -3,3 +3,8 @@ uvicorn[standard]==0.32.0
 pydantic==2.9.2
 python-rapidjson==1.20
 requests
+
+# --- Semantic verse search deps ---
+numpy>=1.26.0
+faiss-cpu>=1.8.0
+sentence-transformers>=2.7.0
