@@ -86,6 +86,36 @@ def _normalize_bible_book(book: str) -> str:
         return b
     return BIBLE_BOOK_CODES.get(b, b)
 
+
+_REF_RE = re.compile(
+    r"^\s*(?P<book>(?:[1-3]\s*)?[A-Za-z][A-Za-z\s]+?)\s+"
+    r"(?P<chapter>\d+)\s*:\s*(?P<verses>\d+(?:\s*[-–—]\s*\d+)?)\s*$"
+)
+
+def _to_usfm_ref(ref: str) -> str | None:
+    if not isinstance(ref, str):
+        return None
+    s = ref.strip()
+    if not s:
+        return None
+
+    # If it's already like "MAT 14:13-21", keep it.
+    if re.match(r"^[1-3]?[A-Z]{2,3}\s+\d+\s*:\s*\d+", s):
+        return re.sub(r"\s+", " ", s)
+
+    s = s.replace("–", "-").replace("—", "-")
+    m = _REF_RE.match(s)
+    if not m:
+        return None
+
+    book_code = _normalize_bible_book(m.group("book"))
+    if not book_code:
+        return None
+
+    chapter = int(m.group("chapter"))
+    verses = m.group("verses").replace(" ", "")
+    return f"{book_code} {chapter}:{verses}"
+
 # ============================================================
 # PEOPLE PER VERSE (Stephenson persons.csv + person_verse.csv)
 # Uses: metadata.db (built by build_metadata_db.py)
@@ -1220,8 +1250,20 @@ def semantic_refs(
     except Exception as e:
         # Surface a 500 with a helpful message (frontend can show fallback)
         raise HTTPException(status_code=500, detail=str(e))
+    
+
+
+    fixed = []
+    seen = set()
+    for r in refs:
+        usfm = _to_usfm_ref(r) or r.strip()
+        if not usfm or usfm in seen:
+            continue
+        seen.add(usfm)
+        fixed.append(usfm)
 
     if keep_version:
         v = (version or "ASV").strip().upper()
-        return [f"{v} {r}" for r in refs]
-    return refs
+        return [f"{v} {r}" for r in fixed]
+
+    return fixed
