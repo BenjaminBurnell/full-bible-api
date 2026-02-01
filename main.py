@@ -1140,35 +1140,46 @@ def _extract_json(text: str) -> dict:
 def _llm_refs_cached(prompt: str, topk: int) -> list[str]:
     client = _get_openai_client()
     model = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
-    # Use the Responses API (current OpenAI python client)
-    resp = client.responses.create(
-        model=model,
-        input=[
-            {"role": "system", "content": _SYSTEM_REF_FINDER},
-            {
-                "role": "user",
-                "content": (
-                    f"Return up to {topk} references for this request:\n{prompt}"
-                ),
-            },
-        ],
-        temperature=0.2,
-    )
+
+    # Try with temperature first (works on many chat models),
+    # but gracefully fall back for models that don't support it (common with reasoning models).
+    try:
+        resp = client.responses.create(
+            model=model,
+            input=[
+                {"role": "system", "content": _SYSTEM_REF_FINDER},
+                {"role": "user", "content": f"Return up to {topk} references for this request:\n{prompt}"},
+            ],
+            # ✅ remove temperature (some models reject it)
+        )
+    except Exception as e:
+        msg = str(e)
+        if "Unsupported parameter" in msg and "temperature" in msg:
+            resp = client.responses.create(
+                model=model,
+                input=[
+                    {"role": "system", "content": _SYSTEM_REF_FINDER},
+                    {"role": "user", "content": f"Return up to {topk} references for this request:\n{prompt}"},
+                ],
+                # ✅ remove temperature (some models reject it)
+            )
+        else:
+            raise
+
     out_text = getattr(resp, "output_text", "") or ""
     data = _extract_json(out_text)
     refs = data.get("refs") if isinstance(data, dict) else None
     if not isinstance(refs, list):
         refs = []
-    # Normalize, dedupe while preserving order
+
+    # Normalize + dedupe
     seen = set()
     cleaned = []
     for r in refs:
         if not isinstance(r, str):
             continue
         rr = r.strip()
-        if not rr:
-            continue
-        if rr in seen:
+        if not rr or rr in seen:
             continue
         seen.add(rr)
         cleaned.append(rr)
