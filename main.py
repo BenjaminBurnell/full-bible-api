@@ -1079,176 +1079,179 @@ def get_person_references(
 # Semantic search (FAISS)
 # =========================
 
-SEMANTIC_INDEX_DIR = os.getenv("SEMANTIC_INDEX_DIR", "/var/data/index_all")
-SEMANTIC_INFO_PATH = os.getenv("SEMANTIC_INFO_PATH", os.path.join(SEMANTIC_INDEX_DIR, "index_info.json"))
-SEMANTIC_META_PATH = os.getenv("SEMANTIC_META_PATH", os.path.join(SEMANTIC_INDEX_DIR, "meta.jsonl"))
-SEMANTIC_FAISS_PATH = os.getenv("SEMANTIC_FAISS_PATH", os.path.join(SEMANTIC_INDEX_DIR, "index.faiss"))
-SEMANTIC_MODEL_NAME = os.getenv("SEMANTIC_MODEL_NAME", "sentence-transformers/all-MiniLM-L6-v2")
+# =========================
+# Semantic search (/semantic_refs)
+# =========================
+#
+# This is designed to run on low-memory instances (e.g., Render 512MB):
+#   - FAISS index is memory-mapped (read-only)
+#   - meta.jsonl is NOT loaded into RAM (we store only line offsets)
+#   - torch/transformers are imported only when semantic search is used
 
-# Lazy-loaded globals (so cold starts are cheaper and failures are localized)
+import threading
+from array import array
+
+SEMANTIC_DIR = os.environ.get("SEMANTIC_DIR", "/var/data/index_all")
+SEMANTIC_INDEX_PATH = os.path.join(SEMANTIC_DIR, "index.faiss")
+SEMANTIC_META_PATH = os.path.join(SEMANTIC_DIR, "meta.jsonl")
+
+# If your index was built with a different model, set SEMANTIC_MODEL to match.
+SEMANTIC_MODEL_NAME = os.environ.get("SEMANTIC_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
+
 _sem_lock = threading.Lock()
-_sem_ready = False
-_sem_index = None
-_sem_meta: List[Dict[str, Any]] = []
-_sem_model = None
-_sem_cfg: Dict[str, Any] = {}
+_sem_index = None          # FAISS index
+_sem_model = None          # SentenceTransformer
+_sem_meta_fp = None        # open file handle (rb)
+_sem_meta_offsets = None   # array('Q') offsets
+np = None                  # set on load
+
 
 def _load_semantic_assets() -> None:
-    """Load FAISS index, meta.jsonl, and the embedding model (once)."""
-    global _sem_ready, _sem_index, _sem_meta, _sem_model, _sem_cfg
-
-    if _sem_ready:
-        return
+    global _sem_index, _sem_model, _sem_meta_fp, _sem_meta_offsets, np
 
     with _sem_lock:
-        if _sem_ready:
+        if _sem_index is not None and _sem_model is not None and _sem_meta_fp is not None and _sem_meta_offsets is not None:
             return
 
-        if faiss is None or np is None or SentenceTransformer is None:
-            raise RuntimeError(
-                "Semantic dependencies are missing. Ensure requirements include numpy, faiss-cpu, and sentence-transformers."
-            )
+        # Late imports so other endpoints don't pay the torch/transformers cost.
+        import numpy as _np
+        import faiss  # type: ignore
+        from sentence_transformers import SentenceTransformer  # type: ignore
 
-        # Load index_info.json (optional, but helps keep config consistent)
-        cfg: Dict[str, Any] = {}
-        if os.path.exists(SEMANTIC_INFO_PATH):
-            try:
-                with open(SEMANTIC_INFO_PATH, "r", encoding="utf-8") as f:
-                    cfg = json.load(f) or {}
-            except Exception:
-                cfg = {}
+        np = _np
 
-        # Determine model name / behavior
-        model_name = cfg.get("model_name") or cfg.get("embedding_model") or SEMANTIC_MODEL_NAME
-        normalize = bool(cfg.get("normalize", True))
-        metric = (cfg.get("metric") or cfg.get("faiss_metric") or "ip").lower()  # "ip" or "l2"
-
-        # Load FAISS index
-        if not os.path.exists(SEMANTIC_FAISS_PATH):
-            raise FileNotFoundError(f"FAISS index not found: {SEMANTIC_FAISS_PATH}")
-        index = faiss.read_index(SEMANTIC_FAISS_PATH)
-
-        # Load meta.jsonl (1 line per vector/chunk)
+        if not os.path.exists(SEMANTIC_INDEX_PATH):
+            raise RuntimeError(f"Missing FAISS index: {SEMANTIC_INDEX_PATH}")
         if not os.path.exists(SEMANTIC_META_PATH):
-            raise FileNotFoundError(f"Meta file not found: {SEMANTIC_META_PATH}")
+            raise RuntimeError(f"Missing meta.jsonl: {SEMANTIC_META_PATH}")
 
-        meta: List[Dict[str, Any]] = []
-        with open(SEMANTIC_META_PATH, "r", encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if not line:
-                    continue
-                try:
-                    obj = json.loads(line)
-                    # expected: {"type":"chunk", ... , "refs":[...]}
-                    meta.append(obj)
-                except Exception:
-                    continue
+        # Memory-map the FAISS index to avoid loading everything into RAM.
+        _sem_index = faiss.read_index(
+            SEMANTIC_INDEX_PATH,
+            faiss.IO_FLAG_MMAP | faiss.IO_FLAG_READ_ONLY,
+        )
 
-        # Load embedding model
-        model = SentenceTransformer(model_name)
+        # Load embedding model (CPU).
+        _sem_model = SentenceTransformer(SEMANTIC_MODEL_NAME, device="cpu")
+        # Prevent giant inputs from blowing up RAM.
+        try:
+            _sem_model.max_seq_length = int(os.environ.get("SEMANTIC_MAX_SEQ_LEN", "256"))
+        except Exception:
+            pass
 
-        _sem_cfg = {"model_name": model_name, "normalize": normalize, "metric": metric}
-        _sem_index = index
-        _sem_meta = meta
-        _sem_model = model
-        _sem_ready = True
+        # Build offsets for meta.jsonl (random access without loading all lines).
+        _sem_meta_fp = open(SEMANTIC_META_PATH, "rb")
+        offsets = array("Q")
+        pos = _sem_meta_fp.tell()
+        while True:
+            line = _sem_meta_fp.readline()
+            if not line:
+                break
+            offsets.append(pos)
+            pos = _sem_meta_fp.tell()
+        _sem_meta_offsets = offsets
 
-def _embed_query(text: str) -> "np.ndarray":
-    _load_semantic_assets()
-    assert np is not None and _sem_model is not None  # for type checkers
-    vec = _sem_model.encode([text], normalize_embeddings=False)
-    vec = np.asarray(vec, dtype="float32")
-    if vec.ndim == 2:
-        vec = vec[0]
-    if _sem_cfg.get("normalize", True):
-        n = float(np.linalg.norm(vec) + 1e-12)
-        vec = vec / n
-    return vec.astype("float32")
+
+def _embed_query(text: str):
+    assert _sem_model is not None
+    # SentenceTransformer returns (dim,) for a single string.
+    v = _sem_model.encode(text, normalize_embeddings=False)
+    return v
+
+
+def _get_meta_at_index(idx: int) -> Optional[dict]:
+    if _sem_meta_fp is None or _sem_meta_offsets is None:
+        return None
+    if idx < 0 or idx >= len(_sem_meta_offsets):
+        return None
+    import json
+    try:
+        _sem_meta_fp.seek(int(_sem_meta_offsets[idx]))
+        line = _sem_meta_fp.readline()
+        if not line:
+            return None
+        return json.loads(line.decode("utf-8"))
+    except Exception:
+        return None
+
 
 @app.get("/semantic_refs")
-def semantic_refs(
-    query: str = Query(..., min_length=1, description="Natural language query"),
-    k: int = Query(10, ge=1, le=50, description="Number of chunks to return (after filtering)"),
-    version: Optional[str] = Query(None, description="Optional Bible version filter (e.g., NASB2020, ASV)"),
+async def semantic_refs(
+    q: Optional[str] = Query(None, alias="q"),
+    query: Optional[str] = Query(None, alias="query"),
+    k: int = Query(7, ge=1, le=50, alias="k"),
+    topk: Optional[int] = Query(None, ge=1, le=50, alias="topk"),
+    minscore: float = Query(0.22, ge=-1.0, le=1.0, alias="minscore"),
+    keep_version: bool = Query(False, alias="keep_version"),
 ):
-    """Return verse refs for the top semantic-matching chunks.
+    """Return a list of best-matching verse refs for a natural-language query.
 
-    Uses:
-    - /var/data/index_all/index.faiss
-    - /var/data/index_all/meta.jsonl (expects `refs`: ["VER BOOK C:V", ...])
+    Supports both query param styles:
+      - ?q=...
+      - ?query=...
     """
+    text = (q or query or "").strip()
+    if not text:
+        raise HTTPException(status_code=422, detail="Missing query text. Provide ?q=... or ?query=...")
+
+    k_final = int(topk if topk is not None else k)
+
     try:
-        vec = _embed_query(query)
-        assert np is not None
         _load_semantic_assets()
-        assert _sem_index is not None
-
-        # Search a bit deeper to allow filtering by version
-        probe = min(max(k * 5, 25), 250)
-        D, I = _sem_index.search(np.expand_dims(vec, 0), probe)
-
-        results: List[Dict[str, Any]] = []
-        all_refs: List[str] = []
-        seen_refs = set()
-
-        for rank, idx in enumerate(I[0].tolist()):
-            if idx < 0:
-                continue
-            if idx >= len(_sem_meta):
-                continue
-
-            m = _sem_meta[idx] or {}
-            m_version = m.get("version")
-            if version and m_version and str(m_version).upper() != str(version).upper():
-                continue
-
-            refs = m.get("refs") or []
-            if not isinstance(refs, list):
-                refs = []
-
-            # Flatten refs list (dedupe but preserve order)
-            flat_refs = []
-            for r in refs:
-                if not isinstance(r, str):
-                    continue
-                if r in seen_refs:
-                    continue
-                seen_refs.add(r)
-                flat_refs.append(r)
-                all_refs.append(r)
-
-            results.append(
-                {
-                    "rank": len(results) + 1,
-                    "score": float(D[0][rank]),
-                    "index": int(idx),
-                    "version": m_version,
-                    "book": m.get("book"),
-                    "chapter": m.get("chapter"),
-                    "start_verse": m.get("start_verse"),
-                    "end_verse": m.get("end_verse"),
-                    "refs": flat_refs,
-                }
-            )
-
-            if len(results) >= k:
-                break
-
-        return {
-            "query": query,
-            "version": version,
-            "k": k,
-            "index_dir": SEMANTIC_INDEX_DIR,
-            "model": _sem_cfg.get("model_name"),
-            "results": results,
-            "refs": all_refs,
-        }
-
-    except FileNotFoundError as e:
-        raise HTTPException(status_code=500, detail=str(e))
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"semantic_refs failed: {e}")
+        raise HTTPException(status_code=503, detail=f"Semantic search unavailable: {e}")
+
+    assert _sem_index is not None and _sem_model is not None and np is not None
+
+    qvec = _embed_query(text)
+    qvec = qvec / (np.linalg.norm(qvec) + 1e-12)
+    qvec = qvec.reshape(1, -1).astype("float32")
+
+    D, I = _sem_index.search(qvec, k_final)
+
+    # Convert score for L2 indices (lower is better). For IP/cosine, higher is better already.
+    metric = getattr(_sem_index, "metric_type", None)
+    is_l2 = False
+    try:
+        import faiss  # type: ignore
+        is_l2 = (metric == faiss.METRIC_L2)
+    except Exception:
+        pass
+
+    results: List[str] = []
+    seen = set()
+
+    for rank, idx in enumerate(I[0].tolist()):
+        if idx < 0:
+            continue
+
+        meta = _get_meta_at_index(idx)
+        if not meta:
+            continue
+
+        raw_score = float(D[0][rank])
+        score = (-raw_score) if is_l2 else raw_score
+        if score < float(minscore):
+            continue
+
+        refs = meta.get("refs") or []
+        for ref in refs:
+            if not isinstance(ref, str):
+                continue
+            out = ref if keep_version else " ".join(ref.split(" ")[1:])
+            out = out.strip()
+            if not out or out in seen:
+                continue
+            seen.add(out)
+            results.append(out)
+            if len(results) >= k_final:
+                break
+        if len(results) >= k_final:
+            break
+
+    return results
+
+
 
 @app.get("/")
 def home():
