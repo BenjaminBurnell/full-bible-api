@@ -1,23 +1,8 @@
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
-
-# --- Semantic search dependencies (FAISS) ---
-# These are used by /semantic_refs (and optional semantic search endpoints).
-import threading
-from typing import Optional, Any, Dict, List
-
-try:
-    import numpy as np  # type: ignore
-    import faiss  # type: ignore
-    from sentence_transformers import SentenceTransformer  # type: ignore
-except Exception:
-    # We delay hard failures until the semantic endpoint is called.
-    np = None  # type: ignore
-    faiss = None  # type: ignore
-    SentenceTransformer = None  # type: ignore
 from pydantic import BaseModel
 from typing import List, Dict, Any, Tuple, Optional
-from cross_reference import router as crossref_router  
+from cross_reference import router as crossref_router
 from metadata import router as metadata_router
 import requests
 import json
@@ -26,9 +11,11 @@ import sqlite3
 import csv
 import re
 
+# --- Semantic deps (used by /semantic_refs) ---
+import numpy as np
+import faiss
+from sentence_transformers import SentenceTransformer
 
-
-app = FastAPI(title="Bible Unified API")
 
 # ============================================================
 # Unified FastAPI app
@@ -43,7 +30,6 @@ app = FastAPI(
     ),
 )
 
-
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -52,20 +38,16 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# --- REGISTER THE NEW ROUTER ---
-# This means the endpoint will be available at: /crossref/?verse=Gen 1:1
+# Routers
 app.include_router(crossref_router, prefix="/crossref", tags=["Cross References"])
 app.include_router(metadata_router, prefix="/meta", tags=["Bible Metadata"])
 
+
 # ============================================================
-# 1) BIBLE REST API (from bible-api-main.py)
-#    Endpoints:
-#      - GET /verse/{version}/{book}/{chapter}/{verse}
-#      - GET /chapter/{version}/{book}/{chapter}
+# 1) BIBLE REST API
 # ============================================================
 
 GITHUB_BASE_URL = "https://raw.githubusercontent.com/BenjaminBurnell/Bible/main/bible_data"
-
 BIBLE_CHAPTERS_DB = os.environ.get("BIBLE_CHAPTERS_DB", "/var/data/bible_chapters.sqlite")
 
 BIBLE_BOOK_CODES = {
@@ -87,21 +69,15 @@ BIBLE_BOOK_CODES = {
 
 def _normalize_bible_book(book: str) -> str:
     b = (book or "").strip().upper()
-
-    # allow formats like "1john" or "1 john"
     b = re.sub(r"^([123])\s*(.+)$", r"\1 \2", b)
     b = re.sub(r"\s+", " ", b)
-
-    # allow short codes
     if b in BIBLE_BOOK_CODES.values():
         return b
     return BIBLE_BOOK_CODES.get(b, b)
 
+
 # ============================================================
-# PEOPLE PER VERSE (Stephenson persons.csv + person_verse.csv)
-# Uses: metadata.db (built by build_metadata_db.py)
-# Endpoint:
-#   - GET /people_verse/{book}/{chapter:int}/{verse:int}
+# PEOPLE PER VERSE (metadata.db)
 # ============================================================
 
 ROOT_DIR = os.path.dirname(__file__)
@@ -117,7 +93,7 @@ def _metadata_conn() -> sqlite3.Connection:
             status_code=500,
             detail=(
                 f"metadata.db missing at {METADATA_DB_PATH}. "
-                "Build it with build_metadata_db.py and place it on disk, or set METADATA_DB_PATH."
+                "Build it and place it on disk, or set METADATA_DB_PATH."
             ),
         )
     conn = sqlite3.connect(METADATA_DB_PATH)
@@ -127,7 +103,6 @@ def _metadata_conn() -> sqlite3.Connection:
 @app.get("/people_verse/{book}/{chapter:int}/{verse:int}")
 def get_people_for_verse(book: str, chapter: int, verse: int):
     book_code = _normalize_bible_book(book)
-
     conn = _metadata_conn()
     try:
         try:
@@ -174,6 +149,11 @@ def get_people_for_verse(book: str, chapter: int, verse: int):
         }
     finally:
         conn.close()
+
+
+# ============================================================
+# PLACES PER VERSE (places.db)
+# ============================================================
 
 PLACES_DB_PATH = (
     os.environ.get("PLACES_DB_PATH")
@@ -255,19 +235,9 @@ def get_place_references(
     limit: int = Query(200, ge=1, le=5000),
     offset: int = Query(0, ge=0),
 ):
-    """
-    Return all verse references that a specific place appears in.
-
-    - `place_id_or_name` can be a numeric `places.place_id` (recommended)
-      OR an exact place name match (case-insensitive).
-    - Results use 3-letter USFM book codes (e.g., GEN 1:1).
-    """
     conn = _places_conn()
     try:
         cur = conn.cursor()
-
-        # 1) Resolve place record
-        # Try numeric ID first; if not numeric, fall back to name match.
         place = None
         resolved_id = None
 
@@ -298,15 +268,12 @@ def get_place_references(
             ).fetchone()
             resolved_id = int(place["place_id"]) if place else None
 
-        # If we didn't find a place record, still allow querying by raw id-like string
         if resolved_id is None:
-            # try coercing if possible, else 404
             try:
                 resolved_id = int(place_id_or_name.strip())
             except Exception:
                 raise HTTPException(status_code=404, detail="Place not found by id or exact name.")
 
-        # 2) Fetch verse refs (dedupe rows)
         rows = cur.execute(
             """
             SELECT DISTINCT book, chapter, verse
@@ -324,14 +291,7 @@ def get_place_references(
         verses = []
         for r in rows:
             ref = f"{r['book']} {int(r['chapter'])}:{int(r['verse'])}"
-            verses.append(
-                {
-                    "book": r["book"],
-                    "chapter": int(r["chapter"]),
-                    "verse": int(r["verse"]),
-                    "reference": ref,
-                }
-            )
+            verses.append({"book": r["book"], "chapter": int(r["chapter"]), "verse": int(r["verse"]), "reference": ref})
 
         return {
             "place": None if not place else {
@@ -351,10 +311,10 @@ def get_place_references(
             "offset": offset,
             "verses": verses,
         }
-
     finally:
         conn.close()
-        
+
+
 def _fetch_chapter_from_sqlite(version: str, book_code: str, chapter: int) -> Optional[Dict[str, Any]]:
     if not os.path.isfile(BIBLE_CHAPTERS_DB):
         raise HTTPException(status_code=500, detail=f"NASB2020 DB missing at {BIBLE_CHAPTERS_DB}")
@@ -366,17 +326,11 @@ def _fetch_chapter_from_sqlite(version: str, book_code: str, chapter: int) -> Op
             "SELECT verses_json FROM chapters WHERE version=? AND book=? AND chapter=?",
             (version.upper(), book_code, int(chapter)),
         ).fetchone()
-
         if not row:
             return None
 
         verses = json.loads(row[0] or "[]")
-        return {
-            "version": version.upper(),
-            "book": book_code,
-            "chapter": int(chapter),
-            "verses": verses,
-        }
+        return {"version": version.upper(), "book": book_code, "chapter": int(chapter), "verses": verses}
     finally:
         conn.close()
 
@@ -384,14 +338,12 @@ def _fetch_chapter_json(version: str, book: str, chapter: int) -> Dict[str, Any]
     version = version.upper()
     book_code = _normalize_bible_book(book)
 
-    # ✅ ONLY NASB2020 comes from SQLite
     if version == "NASB2020":
         data = _fetch_chapter_from_sqlite(version, book_code, chapter)
         if data:
             return data
         raise HTTPException(status_code=404, detail="Chapter not found in NASB2020 SQLite DB")
 
-    # ✅ Everything else uses your existing GitHub repo behavior
     url = f"{GITHUB_BASE_URL}/{version}/{book_code}/{chapter}.json"
     res = requests.get(url)
     if res.status_code != 200:
@@ -427,16 +379,16 @@ def get_chapter(version: str, book: str, chapter: int):
         "verses": data.get("verses", []),
     }
 
+
 # ============================================================
-# 2) BIBLE SEARCH API (from bible-search-api-main.py)
-#    Endpoints:
-#      - GET /healthz
-#      - GET /search
-#    Uses sqlite FTS in bible.db
+# 2) BIBLE SEARCH API (sqlite FTS in bible.db)
 # ============================================================
 
-# Use distinct names to avoid collisions
-SEARCH_DB_PATH = "bible.db"
+SEARCH_DB_PATH = os.environ.get(
+    "SEARCH_DB_PATH",
+    "/var/data/bible.db" if os.path.isfile("/var/data/bible.db") else "bible.db"
+)
+
 SEARCH_TOKEN_RE = re.compile(r"[a-z0-9']+", re.IGNORECASE)
 EXTRA_SYNONYMS_PATH = "synonyms.json"
 
@@ -452,7 +404,6 @@ def _search_quote_phrase(s: str) -> str:
     return f"\"{s}\""
 
 SYNONYMS: Dict[str, List[str]] = {
-    # (same defaults as your original search API)
     "love": ["charity","beloved","lovingkindness","loveth"],
     "faith": ["belief","trust","believe","faithful"],
     "hope": ["expectation"],
@@ -629,15 +580,9 @@ def search(
         except:
             pass
 
+
 # ============================================================
-# 3) INTERLINEAR API (from interlinear-api-main.py)
-#    Endpoints:
-#      - GET /health
-#      - GET /debug/resolve
-#      - GET /books
-#      - GET /interlinear/{book}/{chapter:int}
-#      - GET /interlinear/{book}/{chapter:int}/{verse:int}
-#    Uses: interlinear.sqlite3 + data/*.csv
+# 3) INTERLINEAR API
 # ============================================================
 
 BASE_DIR = os.path.dirname(__file__)
@@ -812,29 +757,12 @@ def interlinear_health():
         "greek_loaded": len(INTER_LEX.by_lemma),
     }
 
-@app.get("/debug/resolve")
-def debug_resolve(strong: str = "", lemma: str = ""):
-    hit: Dict[str, Any] = {}
-    for k in _inter_norm_strong_keys(strong or ""):
-        if k in INTER_LEX.by_strong:
-            hit = {"via": f"strong:{k}", **INTER_LEX.by_strong[k]}
-            break
-    if not hit and lemma:
-        if lemma in INTER_LEX.by_lemma:
-            hit = {"via": "lemma", **INTER_LEX.by_lemma[lemma]}
-    return {"input": {"strong": strong, "lemma": lemma}, "hit": hit}
-
 @app.get("/books")
 def list_books():
     with _inter_conn() as c:
-        rows = c.execute(
-            "SELECT DISTINCT book_code FROM tokens ORDER BY book_code"
-        ).fetchall()
+        rows = c.execute("SELECT DISTINCT book_code FROM tokens ORDER BY book_code").fetchall()
     return {
-        "books": [
-            {"code": r["book_code"], "name": INTER_BOOK_CODES.get(r["book_code"], r["book_code"])}
-            for r in rows
-        ]
+        "books": [{"code": r["book_code"], "name": INTER_BOOK_CODES.get(r["book_code"], r["book_code"])} for r in rows]
     }
 
 @app.get("/interlinear/{book}/{chapter:int}/{verse:int}")
@@ -851,14 +779,7 @@ def get_interlinear_verse(book: str, chapter: int, verse: int):
             (code, chapter, verse),
         ).fetchall()
     tokens = [_inter_enrich_token(r) for r in rows]
-    return {
-        "reference": f"{name} {chapter}:{verse}",
-        "book": name,
-        "book_code": code,
-        "chapter": chapter,
-        "verse": verse,
-        "tokens": tokens,
-    }
+    return {"reference": f"{name} {chapter}:{verse}", "book": name, "book_code": code, "chapter": chapter, "verse": verse, "tokens": tokens}
 
 @app.get("/interlinear/{book}/{chapter:int}")
 def get_interlinear_chapter(book: str, chapter: int):
@@ -877,107 +798,20 @@ def get_interlinear_chapter(book: str, chapter: int):
     for r in rows:
         v = int(r["verse"])
         verses.setdefault(v, []).append(_inter_enrich_token(r))
-    return {
-        "reference": f"{name} {chapter}",
-        "book": name,
-        "book_code": code,
-        "chapter": chapter,
-        "verses": verses,
-    }
-    
-    
-# ============================================================
-# 4) CROSS REFERENCE API configuration
-# ============================================================
-
-CROSSREF_DB_PATH = "cross_references.db"
-
-# Map 3-letter codes (used internally) back to Full Names (used by OpenBible DB)
-CODE_TO_FULL_NAME = {
-    "GEN":"Genesis", "EXO":"Exodus", "LEV":"Leviticus", "NUM":"Numbers", "DEU":"Deuteronomy",
-    "JOS":"Joshua", "JDG":"Judges", "RUT":"Ruth", "1SA":"1 Samuel", "2SA":"2 Samuel",
-    "1KI":"1 Kings", "2KI":"2 Kings", "1CH":"1 Chronicles", "2CH":"2 Chronicles", "EZR":"Ezra",
-    "NEH":"Nehemiah", "EST":"Esther", "JOB":"Job", "PSA":"Psalms", "PRO":"Proverbs",
-    "ECC":"Ecclesiastes", "SNG":"Song of Solomon", "ISA":"Isaiah", "JER":"Jeremiah",
-    "LAM":"Lamentations", "EZK":"Ezekiel", "DAN":"Daniel", "HOS":"Hosea", "JOL":"Joel",
-    "AMO":"Amos", "OBA":"Obadiah", "JON":"Jonah", "MIC":"Micah", "NAM":"Nahum",
-    "HAB":"Habakkuk", "ZEP":"Zephaniah", "HAG":"Haggai", "ZEC":"Zechariah", "MAL":"Malachi",
-    "MAT":"Matthew", "MRK":"Mark", "LUK":"Luke", "JHN":"John", "ACT":"Acts", "ROM":"Romans",
-    "1CO":"1 Corinthians", "2CO":"2 Corinthians", "GAL":"Galatians", "EPH":"Ephesians",
-    "PHP":"Philippians", "COL":"Colossians", "1TH":"1 Thessalonians", "2TH":"2 Thessalonians",
-    "1TI":"1 Timothy", "2TI":"2 Timothy", "TIT":"Titus", "PHM":"Philemon", "HEB":"Hebrews",
-    "JAS":"James", "1PE":"1 Peter", "2PE":"2 Peter", "1JN":"1 John", "2JN":"2 John",
-    "3JN":"3 John", "JUD":"Jude", "REV":"Revelation"
-}
-
-def _get_crossref_conn():
-    conn = sqlite3.connect(CROSSREF_DB_PATH)
-    conn.row_factory = sqlite3.Row
-    return conn
-
-@app.get("/crossref/{book}/{chapter}/{verse}")
-def get_cross_references(book: str, chapter: int, verse: int):
-    """
-    Get cross references for a specific verse.
-    """
-    # 1. Normalize the Book Name
-    # We use your existing _normalize_bible_book to get the 3-letter code (e.g. "jn" -> "JHN")
-    # Then we map "JHN" -> "John" because the CrossRef DB uses full names.
-    code = _normalize_bible_book(book)
-    
-    full_name = CODE_TO_FULL_NAME.get(code)
-    if not full_name:
-        # Fallback: capitalize user input if not found in map
-        full_name = book.capitalize()
-
-    # 2. Construct the reference key (e.g., "Genesis 1:1")
-    ref_key = f"{full_name} {chapter}:{verse}"
-    
-    conn = _get_crossref_conn()
-    try:
-        # 3. Query the DB
-        # The import script creates columns: verse, cross_ref, votes
-        rows = conn.execute(
-            "SELECT cross_ref, votes FROM cross_references WHERE verse = ? ORDER BY votes DESC",
-            (ref_key,)
-        ).fetchall()
-        
-        results = []
-        for row in rows:
-            results.append({
-                "ref": row["cross_ref"],
-                "votes": row["votes"]
-            })
-            
-        return {
-            "source": ref_key,
-            "count": len(results),
-            "cross_references": results
-        }
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
-    finally:
-        conn.close()
+    return {"reference": f"{name} {chapter}", "book": name, "book_code": code, "chapter": chapter, "verses": verses}
 
 
 # ============================================================
-# 4.5) PERSON -> VERSE REFERENCES (from metadata.db)
-#     Endpoint:
-#       - GET /person_refs/{person_id_or_name}?limit=200&offset=0
+# 4.5) PERSON -> VERSE REFERENCES
 # ============================================================
 
 def _get_metadata_db_path() -> str:
-    """
-    Resolve metadata DB path robustly for both local dev and Render.
-    Prefers METADATA_DB_PATH env var, then falls back to ./metadata.db.
-    """
     if METADATA_DB_PATH and os.path.isfile(METADATA_DB_PATH):
         return METADATA_DB_PATH
     local = os.path.join(os.path.dirname(__file__), "metadata.db")
     if os.path.isfile(local):
         return local
     return "metadata.db"
-
 
 def _get_metadata_conn():
     db_path = _get_metadata_db_path()
@@ -987,24 +821,15 @@ def _get_metadata_conn():
     conn.row_factory = sqlite3.Row
     return conn
 
-
 @app.get("/person_refs/{person_id_or_name}")
 def get_person_references(
     person_id_or_name: str,
     limit: int = Query(200, ge=1, le=2000),
     offset: int = Query(0, ge=0),
 ):
-    """
-    Return all verse references that a specific person appears in.
-
-    - `person_id_or_name` can be a `people.id` (recommended) OR an exact name match.
-    - Results use 3-letter USFM book codes (e.g., GEN 1:1).
-    """
     conn = _get_metadata_conn()
     try:
         cur = conn.cursor()
-
-        # 1) Resolve person record
         person = cur.execute(
             """
             SELECT id, name, description, sex, tribe, unique_attribute
@@ -1018,7 +843,6 @@ def get_person_references(
 
         resolved_id = person["id"] if person else person_id_or_name
 
-        # 2) Fetch verse refs (dedupe rows)
         rows = cur.execute(
             """
             SELECT DISTINCT book, chapter, verse, role
@@ -1042,15 +866,12 @@ def get_person_references(
                     "chapter": int(r["chapter"]),
                     "verse": int(r["verse"]),
                     "reference": ref,
-                    # In your build_metadata_db.py this field is populated from person_verse_notes
                     "notes": (r["role"] or "").strip(),
                 }
             )
 
         return {
-            "person": None
-            if not person
-            else {
+            "person": None if not person else {
                 "id": person["id"],
                 "name": person["name"],
                 "description": person["description"],
@@ -1072,183 +893,8 @@ def get_person_references(
 
 
 # ============================================================
-# 5) Unified root health (optional convenience)
+# 5) Root health
 # ============================================================
-
-# =========================
-# Semantic search (FAISS)
-# =========================
-
-SEMANTIC_INDEX_DIR = os.getenv("SEMANTIC_INDEX_DIR", "/var/data/index_all")
-SEMANTIC_INFO_PATH = os.getenv("SEMANTIC_INFO_PATH", os.path.join(SEMANTIC_INDEX_DIR, "index_info.json"))
-SEMANTIC_META_PATH = os.getenv("SEMANTIC_META_PATH", os.path.join(SEMANTIC_INDEX_DIR, "meta.jsonl"))
-SEMANTIC_FAISS_PATH = os.getenv("SEMANTIC_FAISS_PATH", os.path.join(SEMANTIC_INDEX_DIR, "index.faiss"))
-SEMANTIC_MODEL_NAME = os.getenv("SEMANTIC_MODEL_NAME", "sentence-transformers/all-MiniLM-L6-v2")
-
-# Lazy-loaded globals (so cold starts are cheaper and failures are localized)
-_sem_lock = threading.Lock()
-_sem_ready = False
-_sem_index = None
-_sem_meta: List[Dict[str, Any]] = []
-_sem_model = None
-_sem_cfg: Dict[str, Any] = {}
-
-def _load_semantic_assets() -> None:
-    """Load FAISS index, meta.jsonl, and the embedding model (once)."""
-    global _sem_ready, _sem_index, _sem_meta, _sem_model, _sem_cfg
-
-    if _sem_ready:
-        return
-
-    with _sem_lock:
-        if _sem_ready:
-            return
-
-        if faiss is None or np is None or SentenceTransformer is None:
-            raise RuntimeError(
-                "Semantic dependencies are missing. Ensure requirements include numpy, faiss-cpu, and sentence-transformers."
-            )
-
-        # Load index_info.json (optional, but helps keep config consistent)
-        cfg: Dict[str, Any] = {}
-        if os.path.exists(SEMANTIC_INFO_PATH):
-            try:
-                with open(SEMANTIC_INFO_PATH, "r", encoding="utf-8") as f:
-                    cfg = json.load(f) or {}
-            except Exception:
-                cfg = {}
-
-        # Determine model name / behavior
-        model_name = cfg.get("model_name") or cfg.get("embedding_model") or SEMANTIC_MODEL_NAME
-        normalize = bool(cfg.get("normalize", True))
-        metric = (cfg.get("metric") or cfg.get("faiss_metric") or "ip").lower()  # "ip" or "l2"
-
-        # Load FAISS index
-        if not os.path.exists(SEMANTIC_FAISS_PATH):
-            raise FileNotFoundError(f"FAISS index not found: {SEMANTIC_FAISS_PATH}")
-        index = faiss.read_index(SEMANTIC_FAISS_PATH)
-
-        # Load meta.jsonl (1 line per vector/chunk)
-        if not os.path.exists(SEMANTIC_META_PATH):
-            raise FileNotFoundError(f"Meta file not found: {SEMANTIC_META_PATH}")
-
-        meta: List[Dict[str, Any]] = []
-        with open(SEMANTIC_META_PATH, "r", encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if not line:
-                    continue
-                try:
-                    obj = json.loads(line)
-                    # expected: {"type":"chunk", ... , "refs":[...]}
-                    meta.append(obj)
-                except Exception:
-                    continue
-
-        # Load embedding model
-        model = SentenceTransformer(model_name)
-
-        _sem_cfg = {"model_name": model_name, "normalize": normalize, "metric": metric}
-        _sem_index = index
-        _sem_meta = meta
-        _sem_model = model
-        _sem_ready = True
-
-def _embed_query(text: str) -> "np.ndarray":
-    _load_semantic_assets()
-    assert np is not None and _sem_model is not None  # for type checkers
-    vec = _sem_model.encode([text], normalize_embeddings=False)
-    vec = np.asarray(vec, dtype="float32")
-    if vec.ndim == 2:
-        vec = vec[0]
-    if _sem_cfg.get("normalize", True):
-        n = float(np.linalg.norm(vec) + 1e-12)
-        vec = vec / n
-    return vec.astype("float32")
-
-@app.get("/semantic_refs")
-def semantic_refs(
-    query: str = Query(..., min_length=1, description="Natural language query"),
-    k: int = Query(10, ge=1, le=50, description="Number of chunks to return (after filtering)"),
-    version: Optional[str] = Query(None, description="Optional Bible version filter (e.g., NASB2020, ASV)"),
-):
-    """Return verse refs for the top semantic-matching chunks.
-
-    Uses:
-    - /var/data/index_all/index.faiss
-    - /var/data/index_all/meta.jsonl (expects `refs`: ["VER BOOK C:V", ...])
-    """
-    try:
-        vec = _embed_query(query)
-        assert np is not None
-        _load_semantic_assets()
-        assert _sem_index is not None
-
-        # Search a bit deeper to allow filtering by version
-        probe = min(max(k * 5, 25), 250)
-        D, I = _sem_index.search(np.expand_dims(vec, 0), probe)
-
-        results: List[Dict[str, Any]] = []
-        all_refs: List[str] = []
-        seen_refs = set()
-
-        for rank, idx in enumerate(I[0].tolist()):
-            if idx < 0:
-                continue
-            if idx >= len(_sem_meta):
-                continue
-
-            m = _sem_meta[idx] or {}
-            m_version = m.get("version")
-            if version and m_version and str(m_version).upper() != str(version).upper():
-                continue
-
-            refs = m.get("refs") or []
-            if not isinstance(refs, list):
-                refs = []
-
-            # Flatten refs list (dedupe but preserve order)
-            flat_refs = []
-            for r in refs:
-                if not isinstance(r, str):
-                    continue
-                if r in seen_refs:
-                    continue
-                seen_refs.add(r)
-                flat_refs.append(r)
-                all_refs.append(r)
-
-            results.append(
-                {
-                    "rank": len(results) + 1,
-                    "score": float(D[0][rank]),
-                    "index": int(idx),
-                    "version": m_version,
-                    "book": m.get("book"),
-                    "chapter": m.get("chapter"),
-                    "start_verse": m.get("start_verse"),
-                    "end_verse": m.get("end_verse"),
-                    "refs": flat_refs,
-                }
-            )
-
-            if len(results) >= k:
-                break
-
-        return {
-            "query": query,
-            "version": version,
-            "k": k,
-            "index_dir": SEMANTIC_INDEX_DIR,
-            "model": _sem_cfg.get("model_name"),
-            "results": results,
-            "refs": all_refs,
-        }
-
-    except FileNotFoundError as e:
-        raise HTTPException(status_code=500, detail=str(e))
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"semantic_refs failed: {e}")
 
 @app.get("/")
 def home():
@@ -1258,10 +904,190 @@ def home():
             "bible": "/verse/{version}/{book}/{chapter}/{verse}",
             "search": "/search?q=query",
             "interlinear": "/interlinear/{book}/{chapter}/{verse}",
-            "cross_references": "/crossref/?verse=Gen 1:1",
             "metadata": "/meta/verse?book=GEN&chapter=1&verse=1",
             "people_verse": "/people_verse/{book}/{chapter}/{verse}",
             "person_refs": "/person_refs/{person_id_or_name}",
-            "places_verse": "/places_verse/{book}/{chapter}/{verse}"
+            "places_verse": "/places_verse/{book}/{chapter}/{verse}",
+            "semantic_refs": "/semantic_refs?q=love&k=10",
         }
+    }
+
+
+# ============================================================
+# 6) SEMANTIC REFS API (FAISS + sentence-transformers)
+#   - Loads from Render Disk at /var/data/index_all by default
+# ============================================================
+
+SEMANTIC_DIR = os.environ.get("SEMANTIC_DIR", "/var/data/index_all")
+
+# Candidate filenames (so you don't have to match one exact name)
+SEMANTIC_INDEX_CANDIDATES = [
+    "semantic.index",
+    "index.faiss",
+    "index.bin",
+    "faiss.index",
+    "semantic.faiss",
+]
+SEMANTIC_REFS_CANDIDATES = [
+    "meta.jsonl",          # <- your current setup
+    "semantic_refs.json",
+    "refs.json",
+    "semantic_refs.txt",
+    "refs.txt",
+    "refs.tsv",
+]
+
+
+SEMANTIC_MODEL_NAME = os.environ.get("SEMANTIC_MODEL_NAME", "sentence-transformers/all-MiniLM-L6-v2")
+
+_semantic_model = None
+_semantic_index = None
+_semantic_refs: Optional[List[str]] = None
+_semantic_index_path = None
+_semantic_refs_path = None
+
+def _pick_existing_file(base_dir: str, candidates: List[str]) -> Optional[str]:
+    for name in candidates:
+        p = os.path.join(base_dir, name)
+        if os.path.isfile(p):
+            return p
+    return None
+
+def _load_refs_file(path: str) -> List[str]:
+    # Supports:
+    # - JSON list: ["GEN 1:1", ...]
+    # - TXT/TSV: one ref per line (or first column for TSV)
+    # - JSONL: one JSON object per line (expects a reference-like field)
+
+    lower = path.lower()
+
+    if lower.endswith(".json"):
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if not isinstance(data, list):
+            raise HTTPException(status_code=500, detail=f"{os.path.basename(path)} must be a JSON list")
+        return [str(x).strip() for x in data if str(x).strip()]
+
+    if lower.endswith(".jsonl"):
+        refs: List[str] = []
+        with open(path, "r", encoding="utf-8") as f:
+            for line_no, line in enumerate(f, start=1):
+                line = (line or "").strip()
+                if not line:
+                    continue
+                try:
+                    obj = json.loads(line)
+                except Exception as e:
+                    raise HTTPException(status_code=500, detail=f"Bad JSONL at line {line_no}: {e}")
+
+                # Try common field names
+                for key in ("reference", "ref", "verse_ref", "verse", "id"):
+                    val = obj.get(key) if isinstance(obj, dict) else None
+                    if isinstance(val, str) and val.strip():
+                        refs.append(val.strip())
+                        break
+                else:
+                    # If none of those keys exist, fail loudly so you know what key it uses
+                    raise HTTPException(
+                        status_code=500,
+                        detail=f"meta.jsonl line {line_no} has no reference field (tried reference/ref/verse_ref/verse/id). Keys: {list(obj.keys()) if isinstance(obj, dict) else type(obj)}"
+                    )
+
+        return refs
+
+    # TXT / TSV fallback
+    refs: List[str] = []
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            s = (line or "").strip()
+            if not s:
+                continue
+            if "\t" in s:
+                s = s.split("\t", 1)[0].strip()
+            refs.append(s)
+    return refs
+
+def _semantic_load():
+    global _semantic_model, _semantic_index, _semantic_refs, _semantic_index_path, _semantic_refs_path
+
+    if _semantic_index is not None and _semantic_refs is not None and _semantic_model is not None:
+        return
+
+    if not os.path.isdir(SEMANTIC_DIR):
+        raise HTTPException(status_code=500, detail=f"SEMANTIC_DIR not found: {SEMANTIC_DIR}")
+
+    _semantic_index_path = _pick_existing_file(SEMANTIC_DIR, SEMANTIC_INDEX_CANDIDATES)
+    _semantic_refs_path = _pick_existing_file(SEMANTIC_DIR, SEMANTIC_REFS_CANDIDATES)
+
+    if not _semantic_index_path:
+        raise HTTPException(
+            status_code=500,
+            detail=(
+                f"No FAISS index file found in {SEMANTIC_DIR}. "
+                f"Tried: {', '.join(SEMANTIC_INDEX_CANDIDATES)}"
+            ),
+        )
+    if not _semantic_refs_path:
+        raise HTTPException(
+            status_code=500,
+            detail=(
+                f"No refs file found in {SEMANTIC_DIR}. "
+                f"Tried: {', '.join(SEMANTIC_REFS_CANDIDATES)}"
+            ),
+        )
+        
+    # Ensure mapping length matches FAISS index size
+    ntotal = int(_semantic_index.ntotal)
+    if len(_semantic_refs) != ntotal:
+        raise HTTPException(
+            status_code=500,
+            detail=(
+                f"Semantic mapping mismatch: index.ntotal={ntotal} "
+                f"but refs={len(_semantic_refs)} from {_semantic_refs_path}. "
+                "Your meta.jsonl must have exactly one row per FAISS vector in the same order."
+            ),
+        )
+
+
+    # Model (downloads if not present; you can cache it to /var/data via env vars below)
+    if _semantic_model is None:
+        _semantic_model = SentenceTransformer(SEMANTIC_MODEL_NAME)
+
+    # Index + refs list
+    if _semantic_index is None:
+        _semantic_index = faiss.read_index(_semantic_index_path)
+
+    if _semantic_refs is None:
+        _semantic_refs = _load_refs_file(_semantic_refs_path)
+
+    if len(_semantic_refs) == 0:
+        raise HTTPException(status_code=500, detail=f"Refs file is empty: {_semantic_refs_path}")
+
+def _semantic_encode(text: str) -> np.ndarray:
+    vec = _semantic_model.encode([text], normalize_embeddings=True)
+    return np.asarray(vec, dtype="float32")
+
+@app.get("/semantic_refs")
+def semantic_refs(
+    q: str = Query(..., min_length=1, description="Semantic search query"),
+    k: int = Query(10, ge=1, le=200, description="Number of results"),
+):
+    _semantic_load()
+
+    query_vec = _semantic_encode(q)
+    distances, indices = _semantic_index.search(query_vec, k)
+
+    out = []
+    for rank, (idx, score) in enumerate(zip(indices[0].tolist(), distances[0].tolist()), start=1):
+        if idx < 0 or idx >= len(_semantic_refs):
+            continue
+        out.append({"rank": rank, "reference": _semantic_refs[idx], "score": float(score)})
+
+    return {
+        "query": q,
+        "k": k,
+        "count": len(out),
+        "index_path": _semantic_index_path,
+        "refs_path": _semantic_refs_path,
+        "results": out,
     }
