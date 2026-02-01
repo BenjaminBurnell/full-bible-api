@@ -12,9 +12,7 @@ import sqlite3
 import csv
 import re
 
-
-
-app = FastAPI(title="Bible Unified API")
+from openai import OpenAI
 
 # ============================================================
 # Unified FastAPI app
@@ -1100,7 +1098,7 @@ def _get_openai_client():
             raise RuntimeError(
                 "OPENAI_API_KEY is not set. Add it as an environment variable."
             )
-        _OPENAI_CLIENT = OpenAI(api_key=api_key)
+        _OPENAI_CLIENT = OpenAI()
     return _OPENAI_CLIENT
 
 _SYSTEM_REF_FINDER = (
