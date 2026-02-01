@@ -1,5 +1,18 @@
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
+
+import threading
+from typing import Optional, Any, Dict, List
+
+try:
+    import numpy as np  # type: ignore
+    import faiss  # type: ignore
+    from sentence_transformers import SentenceTransformer  # type: ignore
+except Exception:
+    # We delay hard failures until the semantic endpoint is called.
+    np = None  # type: ignore
+    faiss = None  # type: ignore
+    SentenceTransformer = None  # type: ignore
 from pydantic import BaseModel
 from typing import List, Dict, Any, Tuple, Optional
 from cross_reference import router as crossref_router  
@@ -12,9 +25,6 @@ import csv
 import re
 
 
-
-app = FastAPI(title="Bible Unified API")
-
 # ============================================================
 # Unified FastAPI app
 # ============================================================
@@ -22,12 +32,8 @@ app = FastAPI(title="Bible Unified API")
 app = FastAPI(
     title="Bible Unified API",
     version="1.0.0",
-    description=(
-        "Single API exposing: Bible text (GitHub JSON), "
-        "Interlinear data, and full-text Bible search."
-    ),
+    description="Single API exposing Bible text, interlinear, search, metadata, semantic refs.",
 )
-
 
 # If you need cookies/credentials: do NOT use "*" — list origins.
 app.add_middleware(
@@ -35,7 +41,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5500",
         "http://127.0.0.1:5500",
-        "https://bibleboard.ca",  # <-- add your real domain(s)
+        "https://bibleboard.app",  # <-- add your real domain(s)
     ],
     allow_credentials=True,
     allow_methods=["*"],
@@ -1065,6 +1071,197 @@ def get_person_references(
 # 5) Unified root health (optional convenience)
 # ============================================================
 
+# =========================
+# Semantic search (FAISS)
+# =========================
+
+SEMANTIC_INDEX_DIR = os.getenv("SEMANTIC_INDEX_DIR", "/var/data/index_all")
+SEMANTIC_INFO_PATH = os.getenv("SEMANTIC_INFO_PATH", os.path.join(SEMANTIC_INDEX_DIR, "index_info.json"))
+SEMANTIC_META_PATH = os.getenv("SEMANTIC_META_PATH", os.path.join(SEMANTIC_INDEX_DIR, "meta.jsonl"))
+SEMANTIC_FAISS_PATH = os.getenv("SEMANTIC_FAISS_PATH", os.path.join(SEMANTIC_INDEX_DIR, "index.faiss"))
+SEMANTIC_MODEL_NAME = os.getenv("SEMANTIC_MODEL_NAME", "sentence-transformers/all-MiniLM-L6-v2")
+
+# Lazy-loaded globals (so cold starts are cheaper and failures are localized)
+_sem_lock = threading.Lock()
+_sem_ready = False
+_sem_index = None
+_sem_meta: List[Dict[str, Any]] = []
+_sem_model = None
+_sem_cfg: Dict[str, Any] = {}
+_sem_meta_offsets = None
+_sem_meta_fp = None
+
+
+def _load_semantic_assets() -> None:
+    """Load FAISS index, meta.jsonl, and the embedding model (once)."""
+    global _sem_ready, _sem_index, _sem_meta, _sem_model, _sem_cfg
+
+    if _sem_ready:
+        return
+
+    with _sem_lock:
+        if _sem_ready:
+            return
+
+        if faiss is None or np is None or SentenceTransformer is None:
+            raise RuntimeError(
+                "Semantic dependencies are missing. Ensure requirements include numpy, faiss-cpu, and sentence-transformers."
+            )
+
+        # Load index_info.json (optional, but helps keep config consistent)
+        cfg: Dict[str, Any] = {}
+        if os.path.exists(SEMANTIC_INFO_PATH):
+            try:
+                with open(SEMANTIC_INFO_PATH, "r", encoding="utf-8") as f:
+                    cfg = json.load(f) or {}
+            except Exception:
+                cfg = {}
+
+        # Determine model name / behavior
+        model_name = cfg.get("model_name") or cfg.get("embedding_model") or SEMANTIC_MODEL_NAME
+        normalize = bool(cfg.get("normalize", True))
+        metric = (cfg.get("metric") or cfg.get("faiss_metric") or "ip").lower()  # "ip" or "l2"
+
+        # Load FAISS index
+        if not os.path.exists(SEMANTIC_FAISS_PATH):
+            raise FileNotFoundError(f"FAISS index not found: {SEMANTIC_FAISS_PATH}")
+        index = faiss.read_index(
+            SEMANTIC_FAISS_PATH,
+            faiss.IO_FLAG_MMAP | faiss.IO_FLAG_READ_ONLY
+        )
+
+
+        # Load meta.jsonl (1 line per vector/chunk)
+        global _sem_meta_offsets, _sem_meta_fp
+        _sem_meta_offsets = []
+        _sem_meta_fp = open(SEMANTIC_META_PATH, "rb")
+        pos = 0
+        for line in _sem_meta_fp:
+            _sem_meta_offsets.append(pos)
+            pos += len(line)
+
+        # Load embedding model
+        model = SentenceTransformer(model_name)
+
+        _sem_cfg = {"model_name": model_name, "normalize": normalize, "metric": metric}
+        _sem_index = index
+        _sem_meta = meta
+        _sem_model = model
+        _sem_ready = True
+
+def _get_meta_at_index(i: int) -> Dict[str, Any]:
+    if _sem_meta_fp is None or _sem_meta_offsets is None:
+        _load_semantic_assets()
+    assert _sem_meta_fp is not None and _sem_meta_offsets is not None
+
+    if i < 0 or i >= len(_sem_meta_offsets):
+        return {}
+
+    _sem_meta_fp.seek(_sem_meta_offsets[i])
+    line = _sem_meta_fp.readline().decode("utf-8", errors="ignore").strip()
+    if not line:
+        return {}
+    try:
+        return json.loads(line)
+    except Exception:
+        return {}
+
+
+def _embed_query(text: str) -> "np.ndarray":
+    _load_semantic_assets()
+    assert np is not None and _sem_model is not None  # for type checkers
+    vec = _sem_model.encode([text], normalize_embeddings=False)
+    vec = np.asarray(vec, dtype="float32")
+    if vec.ndim == 2:
+        vec = vec[0]
+    if _sem_cfg.get("normalize", True):
+        n = float(np.linalg.norm(vec) + 1e-12)
+        vec = vec / n
+    return vec.astype("float32")
+
+@app.get("/semantic_refs")
+def semantic_refs(
+    # accept BOTH names
+    q: Optional[str] = Query(None, description="Semantic search query (preferred param name: q)"),
+    query: Optional[str] = Query(None, description="Alias of q (older clients)"),
+
+    # accept BOTH topk and k
+    topk: Optional[int] = Query(None, ge=1, le=50, description="Number of results (preferred param name: topk)"),
+    k: int = Query(7, ge=1, le=50, description="Alias of topk"),
+
+    # optional filters that your frontend sends
+    minscore: float = Query(0.0, description="Minimum similarity score to keep"),
+    versions: Optional[str] = Query(None, description="Comma-separated versions (e.g., 'ASV,ESV')"),
+    keep_version: bool = Query(False, description="If true, keep the version prefix in returned refs"),
+):
+    # Pick whichever param was provided
+    text = (q or query or "").strip()
+    if not text:
+        raise HTTPException(status_code=422, detail="Missing query (q or query)")
+
+    limit = int(topk) if topk is not None else int(k)
+
+    # IMPORTANT: use your existing semantic search assets (FAISS + meta.jsonl)
+    vec = _embed_query(text)  # uses your lazy loader already :contentReference[oaicite:3]{index=3}
+    assert np is not None
+    _load_semantic_assets()
+    assert _sem_index is not None
+
+    # Parse versions filter
+    allowed_versions = None
+    if versions:
+        allowed_versions = {v.strip().upper() for v in versions.split(",") if v.strip()}
+
+    # Search deeper than k so filters don't starve results
+    probe = min(max(limit * 5, 25), 250)
+    D, I = _sem_index.search(np.expand_dims(vec, 0), probe)
+
+    out_refs = []
+    seen = set()
+
+    for rank, idx in enumerate(I[0].tolist()):
+        if idx < 0:
+            continue
+
+        m = _get_meta_at_index(idx)  # <-- see memory-safe helper below
+        m_version = (m.get("version") or "").upper()
+
+        if allowed_versions and m_version and m_version not in allowed_versions:
+            continue
+
+        refs = m.get("refs") or []
+        if not isinstance(refs, list):
+            continue
+
+        for r in refs:
+            if not isinstance(r, str):
+                continue
+
+            # r looks like "ASV 1CH 1:1" per your meta.jsonl :contentReference[oaicite:4]{index=4}
+            ref_str = r if keep_version else _strip_version_prefix(r)
+
+            if ref_str in seen:
+                continue
+
+            # Optional score filter (FAISS score for this chunk)
+            score = float(D[0][rank])
+            if score < float(minscore):
+                continue
+
+            seen.add(ref_str)
+            out_refs.append(ref_str)
+
+            if len(out_refs) >= limit:
+                return out_refs
+
+    return out_refs
+
+
+def _strip_version_prefix(ref: str) -> str:
+    # "ASV 1CH 1:1" -> "1CH 1:1"
+    parts = ref.split(" ", 1)
+    return parts[1].strip() if len(parts) == 2 else ref.strip()
+
 @app.get("/")
 def home():
     return {
@@ -1080,138 +1277,3 @@ def home():
             "places_verse": "/places_verse/{book}/{chapter}/{verse}"
         }
     }
-
-# ============================================================
-# 6) LLM-based semantic_refs (no FAISS / embeddings; low memory)
-# ============================================================
-
-_OPENAI_CLIENT = None
-
-def _get_openai_client():
-    global _OPENAI_CLIENT
-    if _OPENAI_CLIENT is None:
-        if OpenAI is None:
-            raise RuntimeError(
-                "openai package is not installed. Add `openai` to requirements.txt."
-            )
-        api_key = os.getenv("OPENAI_API_KEY")
-        if not api_key:
-            raise RuntimeError(
-                "OPENAI_API_KEY is not set. Add it as an environment variable."
-            )
-        _OPENAI_CLIENT = OpenAI(api_key=api_key)
-    return _OPENAI_CLIENT
-
-_SYSTEM_REF_FINDER = (
-    "You are a Bible reference finder. Given a user's natural-language request, "
-    "return the most relevant Bible passage references. "
-    "Rules: (1) Output ONLY valid JSON. (2) Use the schema: "
-    "{\"refs\":[\"Book Chapter:Verse\",\"Book Chapter:Verse-Verse\",...]} "
-    "(3) No verse text, no commentary. (4) Prefer the most canonical passages. "
-    "(5) If multiple parallel accounts exist (e.g., Gospels), include them. "
-    "(6) Use standard English book names (e.g., 'Matthew', '1 Corinthians')."
-)
-
-def _extract_json(text: str) -> dict:
-    # Try direct JSON parse first
-    try:
-        return json.loads(text)
-    except Exception:
-        pass
-    # Fallback: extract first {...} block
-    m = re.search(r"\{.*\}", text, flags=re.DOTALL)
-    if m:
-        try:
-            return json.loads(m.group(0))
-        except Exception:
-            pass
-    # Last resort: treat each non-empty line as a ref
-    refs = []
-    for line in text.splitlines():
-        line = line.strip().strip("-•*")
-        if not line:
-            continue
-        # discard things that clearly aren't refs
-        if len(line) > 80:
-            continue
-        refs.append(line)
-    return {"refs": refs}
-
-@lru_cache(maxsize=512)
-def _llm_refs_cached(prompt: str, topk: int) -> list[str]:
-    client = _get_openai_client()
-    model = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
-    # Use the Responses API (current OpenAI python client)
-    resp = client.responses.create(
-        model=model,
-        input=[
-            {"role": "system", "content": _SYSTEM_REF_FINDER},
-            {
-                "role": "user",
-                "content": (
-                    f"Return up to {topk} references for this request:\n{prompt}"
-                ),
-            },
-        ],
-        temperature=0.2,
-    )
-    out_text = getattr(resp, "output_text", "") or ""
-    data = _extract_json(out_text)
-    refs = data.get("refs") if isinstance(data, dict) else None
-    if not isinstance(refs, list):
-        refs = []
-    # Normalize, dedupe while preserving order
-    seen = set()
-    cleaned = []
-    for r in refs:
-        if not isinstance(r, str):
-            continue
-        rr = r.strip()
-        if not rr:
-            continue
-        if rr in seen:
-            continue
-        seen.add(rr)
-        cleaned.append(rr)
-        if len(cleaned) >= topk:
-            break
-    return cleaned
-
-@app.get("/semantic_refs")
-def semantic_refs(
-    q: str | None = None,
-    query: str | None = None,
-    topk: int = 7,
-    k: int | None = None,
-    minscore: float = 0.0,
-    keep_version: bool = False,
-    version: str = "ASV",
-):
-    """
-    Lightweight semantic reference lookup powered by the OpenAI API.
-
-    Accepts the same common query params your frontend used previously:
-    - q or query: the natural language prompt
-    - topk / k: number of results (k overrides topk if provided)
-    - minscore: accepted but not used (kept for compatibility)
-    - keep_version: if true, prefixes returned refs with the chosen version
-    - version: version prefix to use when keep_version=true (defaults to ASV)
-    Returns: JSON array of reference strings.
-    """
-    prompt = (q or query or "").strip()
-    if not prompt:
-        raise HTTPException(status_code=422, detail="Missing `q` (or `query`) parameter")
-
-    n = int(k) if k is not None else int(topk)
-    n = max(1, min(n, 25))
-
-    try:
-        refs = _llm_refs_cached(prompt, n)
-    except Exception as e:
-        # Surface a 500 with a helpful message (frontend can show fallback)
-        raise HTTPException(status_code=500, detail=str(e))
-
-    if keep_version:
-        v = (version or "ASV").strip().upper()
-        return [f"{v} {r}" for r in refs]
-    return refs
